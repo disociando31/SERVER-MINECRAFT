@@ -239,3 +239,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jun2025 01:24:34.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> dile a joca q fue pq te pusiste triste
 [07Jun2025 01:24:43.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0rtiga> asjdjasjda
 [07Jun2025 01:24:51.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> q se fue a comer
+[07Jun2025 01:38:40.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/849, l='ServerLevel[mundomodificado]', x=-310.20, y=65.50, z=-335.50] died, message: 'Unemployed was slain by Zombie'
+[07Jun2025 01:39:11.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [Alex's Caves]
+[07Jun2025 01:39:21.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Alex's Caves]
+[07Jun2025 01:39:28.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [It Belongs in a Museum]
+[07Jun2025 01:39:31.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Once Upon a Cave]
+[07Jun2025 01:39:43.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [It Belongs in a Museum]
+[07Jun2025 01:40:43.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Lorem Ipsum]
+[07Jun2025 01:40:59.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga was slain by Enderman
+[07Jun2025 01:40:59.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [Your First Grave]
+[07Jun2025 01:40:59.678] [Server thread/INFO] [tombstone/]: The player 0rtiga has successfully been saved
+[07Jun2025 01:41:02.599] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Jun2025 01:41:02.599] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Jun2025 01:41:02.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [The Most Useful Key]
