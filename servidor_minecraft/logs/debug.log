@@ -3470,3 +3470,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jun2025 01:41:02.599] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [07Jun2025 01:41:02.641] [Server thread/DEBUG] [twilightforest/]: Player 0rtiga (8a79f3a8-ab27-361b-a7c7-1e97dc3c3523) respawned and received items held in storage
 [07Jun2025 01:41:02.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [The Most Useful Key]
+[07Jun2025 01:41:39.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Jun2025 01:41:39.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Jun2025 01:42:10.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported 0rtiga to Mpalabra]
+[07Jun2025 01:46:39.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Jun2025 01:46:39.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Jun2025 01:47:32.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/851, l='ServerLevel[mundomodificado]', x=-322.30, y=27.42, z=-384.53] died, message: 'Farmer was slain by Zombie'
+[07Jun2025 01:48:01.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/863, l='ServerLevel[mundomodificado]', x=-302.34, y=31.00, z=-381.72] died, message: 'Cleric was slain by Zombie'
+[07Jun2025 01:48:02.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/893, l='ServerLevel[mundomodificado]', x=-302.39, y=31.00, z=-381.72] died, message: 'Nitwit was slain by Zombie'
+[07Jun2025 01:48:46.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Book of Monsters]
+[07Jun2025 01:49:01.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/864, l='ServerLevel[mundomodificado]', x=-302.30, y=31.00, z=-381.71] died, message: 'Unemployed was slain by Zombie'
