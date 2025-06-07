@@ -251,3 +251,241 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jun2025 02:11:37.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> si
 [07Jun2025 02:11:56.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> a la V ahi te aparece, escoge altavoz y microfono
 [07Jun2025 02:21:08.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Take Aim]
+[07Jun2025 02:28:53.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jast05[/127.68.191.22:52509] logged in with entity id 6504 at (-23.5, 71.0, -37.5)
+[07Jun2025 02:28:53.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 joined the game
+[07Jun2025 02:28:53.209] [Server thread/INFO] [Jade/]: Syncing config to jast05 (416cb431-f3da-3917-aabb-b215fd857a57)
+[07Jun2025 02:28:53.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 has made the advancement [Ice and Fire]
+[07Jun2025 02:28:59.569] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jast05 (18)
+[07Jun2025 02:28:59.570] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jast05
+[07Jun2025 02:29:12.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 416cb431-f3da-3917-aabb-b215fd857a57
+[07Jun2025 02:29:13.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 416cb431-f3da-3917-aabb-b215fd857a57
+[07Jun2025 02:29:13.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jast05 (416cb431-f3da-3917-aabb-b215fd857a57) successfully connected to voice chat
+[07Jun2025 02:34:12.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 has made the advancement [Stone Age]
+[07Jun2025 02:34:29.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 has made the advancement [Getting an Upgrade]
+[07Jun2025 02:35:22.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 has made the advancement [The Lighthouse]
+[07Jun2025 02:36:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 has made the advancement [Acquire Hardware]
+[07Jun2025 02:37:21.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jast05 lost connection: Disconnected
+[07Jun2025 02:37:21.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 left the game
+[07Jun2025 02:37:21.112] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jast05
+[07Jun2025 02:37:27.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jast05[/127.68.191.22:46509] logged in with entity id 9316 at (110.30000001192093, 106.0, 35.39711115779245)
+[07Jun2025 02:37:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 joined the game
+[07Jun2025 02:37:27.958] [Server thread/INFO] [Jade/]: Syncing config to jast05 (416cb431-f3da-3917-aabb-b215fd857a57)
+[07Jun2025 02:37:28.529] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jast05 (18)
+[07Jun2025 02:37:28.530] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jast05
+[07Jun2025 02:37:57.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jast05 lost connection: Timed out
+[07Jun2025 02:37:57.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 left the game
+[07Jun2025 02:37:57.969] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jast05
+[07Jun2025 02:37:58.015] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jun2025 02:38:52.959] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ac5b04[id=<null>,name=jast05,properties={},legacy=false] (/127.68.191.22:60737) lost connection: Disconnected
+[07Jun2025 02:39:32.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[07Jun2025 02:39:32.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[07Jun2025 02:39:32.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[07Jun2025 02:39:35.408] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68107524[id=<null>,name=jast05,properties={},legacy=false] (/127.68.191.22:35417) lost connection: Disconnected
+[07Jun2025 02:40:54.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juangl2003[/127.47.238.127:33595] logged in with entity id 10039 at (-462.82660747282694, 79.0, -485.39503443263595)
+[07Jun2025 02:40:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 joined the game
+[07Jun2025 02:40:54.059] [Server thread/INFO] [Jade/]: Syncing config to juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27)
+[07Jun2025 02:40:55.175] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
+[07Jun2025 02:40:55.175] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
+[07Jun2025 02:40:58.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[07Jun2025 02:40:58.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[07Jun2025 02:40:58.208] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[07Jun2025 02:40:59.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:41:00.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:41:00.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
+[07Jun2025 02:42:28.106] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@203be89f[id=<null>,name=Mpalabra,properties={},legacy=false] (/127.153.50.239:42101) lost connection: Disconnected
+[07Jun2025 02:42:36.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[07Jun2025 02:42:36.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[07Jun2025 02:42:36.254] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[07Jun2025 02:42:37.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.153.50.239:51955] logged in with entity id 10314 at (-456.5859794300182, 68.0, -544.4229419713739)
+[07Jun2025 02:42:37.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
+[07Jun2025 02:42:37.195] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
+[07Jun2025 02:42:37.348] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
+[07Jun2025 02:42:37.349] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[07Jun2025 02:42:38.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[07Jun2025 02:42:39.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[07Jun2025 02:42:39.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
+[07Jun2025 02:43:21.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jast05[/127.68.191.22:48257] logged in with entity id 10671 at (110.30000001192093, 106.0, 35.39711115779245)
+[07Jun2025 02:43:21.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 joined the game
+[07Jun2025 02:43:21.733] [Server thread/INFO] [Jade/]: Syncing config to jast05 (416cb431-f3da-3917-aabb-b215fd857a57)
+[07Jun2025 02:43:25.858] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jast05 (18)
+[07Jun2025 02:43:25.859] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jast05
+[07Jun2025 02:43:51.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jast05 lost connection: Timed out
+[07Jun2025 02:43:51.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 left the game
+[07Jun2025 02:43:51.782] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jast05
+[07Jun2025 02:43:51.818] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jun2025 02:43:53.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juangl2003[/127.47.238.127:51019] logged in with entity id 11052 at (-463.46805220856936, 66.24854717397379, -475.48750001192093)
+[07Jun2025 02:43:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 joined the game
+[07Jun2025 02:43:53.067] [Server thread/INFO] [Jade/]: Syncing config to juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27)
+[07Jun2025 02:43:53.236] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
+[07Jun2025 02:43:53.237] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
+[07Jun2025 02:43:55.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:43:56.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:43:56.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
+[07Jun2025 02:44:15.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jast05[/127.68.191.22:46819] logged in with entity id 11512 at (110.30000001192093, 106.0, 35.39711115779245)
+[07Jun2025 02:44:15.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 joined the game
+[07Jun2025 02:44:15.478] [Server thread/INFO] [Jade/]: Syncing config to jast05 (416cb431-f3da-3917-aabb-b215fd857a57)
+[07Jun2025 02:44:16.290] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jast05 (18)
+[07Jun2025 02:44:16.290] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jast05
+[07Jun2025 02:44:28.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported jast05 to Mpalabra]
+[07Jun2025 02:44:45.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jast05 lost connection: Timed out
+[07Jun2025 02:44:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 left the game
+[07Jun2025 02:44:45.566] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jast05
+[07Jun2025 02:45:38.781] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 02:45:38.903] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 02:45:38.923] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 02:45:38.964] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 02:45:38.975] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 02:45:39.052] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 02:45:39.138] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07Jun2025 02:45:42.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Getting an Upgrade]
+[07Jun2025 02:45:47.465] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[07Jun2025 02:45:47.466] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[07Jun2025 02:45:47.483] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[07Jun2025 02:45:47.484] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[07Jun2025 02:45:47.544] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[07Jun2025 02:45:47.571] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[07Jun2025 02:45:47.571] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[07Jun2025 02:45:47.572] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[07Jun2025 02:45:47.572] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[07Jun2025 02:45:50.687] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[07Jun2025 02:45:50.688] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[07Jun2025 02:45:50.736] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[07Jun2025 02:45:51.109] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[07Jun2025 02:45:51.423] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[07Jun2025 02:45:51.433] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[07Jun2025 02:45:53.605] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[07Jun2025 02:45:53.620] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[07Jun2025 02:45:53.621] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[07Jun2025 02:45:53.621] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[07Jun2025 02:45:53.622] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[07Jun2025 02:45:54.086] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[07Jun2025 02:45:54.087] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[07Jun2025 02:45:54.095] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[07Jun2025 02:45:54.095] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[07Jun2025 02:45:54.103] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[07Jun2025 02:45:54.104] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[07Jun2025 02:45:59.408] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[07Jun2025 02:45:59.409] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[07Jun2025 02:45:59.412] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[07Jun2025 02:45:59.424] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[07Jun2025 02:45:59.424] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[07Jun2025 02:45:59.424] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[07Jun2025 02:45:59.425] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-56, z=-608}
+[07Jun2025 02:45:59.430] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[07Jun2025 02:45:59.430] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[07Jun2025 02:45:59.441] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[07Jun2025 02:45:59.441] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[07Jun2025 02:45:59.442] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[07Jun2025 02:45:59.452] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[07Jun2025 02:45:59.472] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[07Jun2025 02:45:59.473] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-56, z=-608}
+[07Jun2025 02:45:59.487] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[07Jun2025 02:45:59.488] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[07Jun2025 02:45:59.488] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[07Jun2025 02:45:59.488] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[07Jun2025 02:45:59.582] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[07Jun2025 02:45:59.586] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[07Jun2025 02:45:59.586] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[07Jun2025 02:45:59.615] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[07Jun2025 02:45:59.616] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[07Jun2025 02:45:59.624] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[07Jun2025 02:45:59.624] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[07Jun2025 02:45:59.696] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[07Jun2025 02:45:59.696] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[07Jun2025 02:45:59.696] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[07Jun2025 02:45:59.696] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[07Jun2025 02:45:59.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[07Jun2025 02:45:59.732] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[07Jun2025 02:45:59.732] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[07Jun2025 02:45:59.732] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[07Jun2025 02:45:59.733] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[07Jun2025 02:45:59.736] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[07Jun2025 02:45:59.736] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[07Jun2025 02:45:59.737] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[07Jun2025 02:45:59.746] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-53, z=-786}
+[07Jun2025 02:45:59.747] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-787}
+[07Jun2025 02:45:59.749] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[07Jun2025 02:45:59.776] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[07Jun2025 02:45:59.783] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[07Jun2025 02:45:59.784] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[07Jun2025 02:45:59.793] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-58, z=-588}
+[07Jun2025 02:45:59.794] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[07Jun2025 02:45:59.816] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[07Jun2025 02:45:59.821] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[07Jun2025 02:45:59.826] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[07Jun2025 02:45:59.832] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-53, z=-786}
+[07Jun2025 02:45:59.833] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-58, z=-787}
+[07Jun2025 02:45:59.954] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[07Jun2025 02:45:59.955] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[07Jun2025 02:45:59.955] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[07Jun2025 02:45:59.955] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[07Jun2025 02:45:59.968] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[07Jun2025 02:45:59.968] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[07Jun2025 02:45:59.968] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[07Jun2025 02:45:59.969] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[07Jun2025 02:46:01.060] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[07Jun2025 02:46:01.060] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[07Jun2025 02:46:01.077] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[07Jun2025 02:46:01.223] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[07Jun2025 02:46:01.224] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[07Jun2025 02:46:01.240] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[07Jun2025 02:46:01.253] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[07Jun2025 02:46:01.254] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[07Jun2025 02:46:01.254] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[07Jun2025 02:46:01.345] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[07Jun2025 02:46:01.346] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[07Jun2025 02:46:01.346] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[07Jun2025 02:46:01.346] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[07Jun2025 02:46:01.358] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[07Jun2025 02:46:01.358] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[07Jun2025 02:46:01.359] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[07Jun2025 02:46:01.359] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[07Jun2025 02:46:01.359] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[07Jun2025 02:46:01.377] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[07Jun2025 02:46:01.377] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[07Jun2025 02:46:01.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[07Jun2025 02:46:01.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[07Jun2025 02:46:01.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[07Jun2025 02:46:15.394] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[07Jun2025 02:46:15.396] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[07Jun2025 02:46:15.562] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[07Jun2025 02:46:22.667] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[07Jun2025 02:46:30.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11160, l='ServerLevel[mundomodificado]', x=-303.32, y=31.00, z=-382.57] died, message: 'Unemployed was slain by Zombie'
+[07Jun2025 02:47:11.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[07Jun2025 02:47:11.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[07Jun2025 02:47:11.862] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[07Jun2025 02:48:29.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juangl2003[/127.47.238.127:51531] logged in with entity id 14209 at (-480.6362271745841, 64.0, -488.00475462136694)
+[07Jun2025 02:48:29.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 joined the game
+[07Jun2025 02:48:29.820] [Server thread/INFO] [Jade/]: Syncing config to juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27)
+[07Jun2025 02:48:30.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
+[07Jun2025 02:48:30.993] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
+[07Jun2025 02:48:36.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:48:37.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:48:37.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
+[07Jun2025 02:50:40.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jast05[/127.68.191.22:48353] logged in with entity id 15434 at (-414.5325362772555, 71.0, -715.8894081369826)
+[07Jun2025 02:50:40.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 joined the game
+[07Jun2025 02:50:40.855] [Server thread/INFO] [Jade/]: Syncing config to jast05 (416cb431-f3da-3917-aabb-b215fd857a57)
+[07Jun2025 02:50:44.864] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jast05 (18)
+[07Jun2025 02:50:44.865] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jast05
+[07Jun2025 02:50:56.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Stone Age]
+[07Jun2025 02:51:10.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jast05 lost connection: Timed out
+[07Jun2025 02:51:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jast05 left the game
+[07Jun2025 02:51:10.925] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jast05
+[07Jun2025 02:51:44.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[07Jun2025 02:51:44.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[07Jun2025 02:51:44.313] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[07Jun2025 02:52:54.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Sweet Dreams]
+[07Jun2025 02:55:39.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-521, y=64, z=-496} BlockPos{x=-520, y=62, z=-496}
+[07Jun2025 02:55:39.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-522, y=64, z=-495} BlockPos{x=-520, y=62, z=-496}
+[07Jun2025 02:56:03.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[07Jun2025 02:56:03.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[07Jun2025 02:56:03.505] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[07Jun2025 02:56:18.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jast05[/127.68.191.22:56859] logged in with entity id 17643 at (-11.5, 72.0, -52.5)
+[07Jun2025 02:56:18.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 joined the game
+[07Jun2025 02:56:18.135] [Server thread/INFO] [Jade/]: Syncing config to Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd)
+[07Jun2025 02:56:18.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Ice and Fire]
+[07Jun2025 02:56:22.038] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jast05 (18)
+[07Jun2025 02:56:22.039] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jast05
+[07Jun2025 02:56:48.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Timed out
+[07Jun2025 02:56:48.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
+[07Jun2025 02:56:48.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
