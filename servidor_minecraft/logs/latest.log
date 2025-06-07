@@ -250,3 +250,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jun2025 02:11:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> tal vez debo activar algo
 [07Jun2025 02:11:37.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> si
 [07Jun2025 02:11:56.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> a la V ahi te aparece, escoge altavoz y microfono
+[07Jun2025 02:21:08.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Take Aim]
