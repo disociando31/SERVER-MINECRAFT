@@ -1,262 +1,4270 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1748593714611 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1749269012317 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593717705 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269015409 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593720922 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269018499 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593724014 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269021591 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593727112 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269024679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593730204 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269027768 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593733298 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269030856 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593736392 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269033948 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593739489 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269037037 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593742580 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269040130 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593745671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269043220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593748762 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269046309 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593751855 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269049407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593754948 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269052495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593758037 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269055591 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593761128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269058679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593764218 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269061772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593767306 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269064862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593770397 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269067953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593773486 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269071040 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593776577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269074129 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593779668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269077215 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593782763 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269080305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593785855 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269083392 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593788948 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269086484 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593792041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269089582 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593795132 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269092684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593798231 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269095776 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593801321 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269098867 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593804414 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269101959 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593807505 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269105058 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593810599 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269108150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593813693 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269111239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593816787 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269114336 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593819877 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269117425 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593822965 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269120513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593826071 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269123603 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593829159 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269126692 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593832248 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269129790 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593835338 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269132879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593838428 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269135969 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593841518 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269139061 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593844610 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269142161 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
 officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748593847699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1749269145250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269148340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269151429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269154519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269157610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269160703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269163795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269166885 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269169977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269173068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269176155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269179250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269182340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269185439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269188530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269191621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269194712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269197801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269200888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269203976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269207070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269210164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269213255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269216347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269219435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269222526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269225616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269228709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269231796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269234886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269237979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269241068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269244161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269247257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269250346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269253436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269256525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269259613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269262703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269265791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269268884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269271971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269275061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269278155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269281246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269284347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269287437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269290522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269293611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269296702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269299790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269302878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269305973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269309088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269312176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269315271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269318363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269321450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269324541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269327629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269330721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269333812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269336903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269339994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269343117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269346210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269349302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269352391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269355484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269358579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269361668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269364763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269367855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269370943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269374031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269377118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269380209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269383298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269386395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269389487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269392575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269395672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269398759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269401848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269404937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269408034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269411127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269414217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269417311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269420404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269423497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269426585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269429674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269432767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269435858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269438952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269442039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269445127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269448219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269451310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269454412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269457504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269460596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269463682 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269466771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269469861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269472952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269476040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269479144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269482232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269485322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269488411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269491500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269494589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269497680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269500773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269503862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269506960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269510052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269513142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269516232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269519326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269522415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269525507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269528596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269531686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269534774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269537862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269540952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269544043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269547137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269550232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269553318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269556406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269559494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269562584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269565673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269568763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269571850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269574938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269578025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269581117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269584208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269587299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269590387 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269593475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269596564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269599654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269602757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269605844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269608930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269612019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269615107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269618202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269621290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269624393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269627503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269630605 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269633694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269636788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269639879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269642971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269646064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269649160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269652249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269655338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269658425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269661515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269664604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269667693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269670843 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269673934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269677023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269680116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269683205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269686306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269689398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269692494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269695585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269698672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269701761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269704849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269707940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269711030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269714119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269717208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269720301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269723389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269726482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269729571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269732660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269735753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269738840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269741932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269745036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269748133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269751226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269754317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269757407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269760498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269763593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269766706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269769806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269772908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269776013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269779104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269782196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269785291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269788382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269791477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269794572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269797668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269800763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269803858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269806954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269810053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269813146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269816235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269819343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269822433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269825524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269828619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269831720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269834810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269837901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269840990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269844081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269847175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269850268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269853362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269856455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269859548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269862648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269865741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269868836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269871930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269875028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269878123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269881237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269884333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269887429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269890520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269893643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269896732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269899828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269902918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269906009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269909099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269912196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269915292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269918385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269921477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269924578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269927675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269930767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269933872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269936963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269940063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269943178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269946270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269949372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269952466 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269955560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269958684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269961775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269964870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269967966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269971058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269974153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269977243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269980333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269983429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269986521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269989628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269992724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269995819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749269998913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270002011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270005112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270008205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270011295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270014385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270017479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270020571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270023667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270026762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270029854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270032954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270036044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270039136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270042224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270045314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270048408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270051508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270054602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270057700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270060793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270063888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270066986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270070080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270073175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270076267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270079358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270082448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270085540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270088634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270091726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270094817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270097907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270100998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270104096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270107191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270110286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270113389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270116482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270119592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270122685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270125779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270128870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270131962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270135054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270138150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270141241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270144357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270147476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270150574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270153668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270156762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270159851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270162943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270166039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270169132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270172222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270175313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270178410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270181498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270184589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270187686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270190775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270193861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270196951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270200043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270203132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270206225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270209316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270212404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270215491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270218583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270221670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270224759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270227848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270230941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270234033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270237123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270240210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270243305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270246395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270249486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270252576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270255672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270258762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270261848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270264937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270268025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270271113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270274202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270277289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270280382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270283470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270286559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270289646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270292740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270295826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270298919 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270302010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270305096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270308186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270311277 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270314366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270317451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270320541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270323627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270326714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270329807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270332904 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270335994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270339083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270342172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270345261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270348359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270351445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270354537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270357626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270360715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270363803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270366890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270369986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270373079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270376166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270379253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270382338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270385425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270388518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270391607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270394696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270397784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270400868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270403986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270407074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270410164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270413253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270416339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270419430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270422520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270425613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270428703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270431793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270434884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270437972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270441066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270444159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270447246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270450336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270453424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270456513 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270459605 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270462693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270465779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270468867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270471955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270475048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270478136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270481226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270484314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270487410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270490497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270493588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270496677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270499766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270502854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270505944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270509033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270512127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270515221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270518312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270521401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270524490 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270527581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270530671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270533758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270536850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270539938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270543031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270546121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270549214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270552301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270555391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270558478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270561565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270564654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270567741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270570832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270573928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270577018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270580109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270583206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270586297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270589396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270592492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270595584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270598684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270601780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270604882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270607979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270611071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270614168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270617262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270620352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270623444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270626537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270629637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270632734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270635829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270638924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270642015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270645109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270648199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270651293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270654390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270657484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270660579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270663670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270666772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270669869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270672960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270676050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270679141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270682231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270685333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270688426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270691516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270694604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270697689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270700779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270703866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270706957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270710044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270713137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270716229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270719320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270722413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270725499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270728591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270731679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270734768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270737857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270740952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270744046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270747140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270750229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270753323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270756412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270759503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270762591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270765679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270768766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270771857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270774952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270778048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270781154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270784247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270787336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270790429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270793521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270796609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270799697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270802787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270805876 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270808964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270812052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270815148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270818235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270821324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270824417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270827508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270830599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270833697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270836782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270839878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270842969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270846059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270849152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270852241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270855331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270858419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270861508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270864599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270867689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270870776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270873862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270876949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270880041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270883139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270886228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270889320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270892408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270895496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270898587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270901680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270904771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270907858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270910953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270914039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270917132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270920221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270923312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270926402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270929492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270932593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270935683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270938771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270941861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270944948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270948037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270951126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270954214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270957305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270960400 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270963494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270966600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270969696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270972788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270975880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270978973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270982065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270985153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270988245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270991332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270994423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749270997517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271000613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271003700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271006789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271009878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271012964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271016053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271019148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271022242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271025333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271028434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271031531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271034618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271037709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271040796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271043889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271046978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271050079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271053168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271056260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271059354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271062442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271065536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271068625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271071715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271074805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271077896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271080988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271084075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271087166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271090257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271093351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271096439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271099536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271102625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271105716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271108805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271111901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271114992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271118083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271121175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271124265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271127354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271130443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271133534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271136622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271139710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271142805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271145900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271148987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271152077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271155170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271158259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271161352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271164443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271167530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271170618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271173710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271176799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271179892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271182984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271186071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271189159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271192257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271195347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271198450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271201538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271204631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271207719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+zip-atmosphere.gl.at.ply.gg:4276 => 127.0.0.1:4276 (proto: Udp, port count: 1)
+officer-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1749271210809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
