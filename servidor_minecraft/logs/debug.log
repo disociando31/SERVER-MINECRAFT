@@ -4062,3 +4062,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jun2025 05:29:34.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
 [07Jun2025 05:32:29.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Knowledge raises the soul]
 [07Jun2025 05:33:19.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has reached the goal [Die Classy]
+[07Jun2025 05:34:03.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Jun2025 05:34:03.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Jun2025 05:35:09.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [A Seedy Place]
+[07Jun2025 05:39:03.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Jun2025 05:39:03.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Jun2025 05:39:05.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[07Jun2025 05:39:18.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[07Jun2025 05:39:20.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[07Jun2025 05:39:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[07Jun2025 05:39:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[07Jun2025 05:39:24.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[07Jun2025 05:39:25.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[07Jun2025 05:39:47.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[07Jun2025 05:40:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [A Strange Grave Dust]
+[07Jun2025 05:40:56.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Acquire Hardware]
+[07Jun2025 05:41:02.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Disconnected
+[07Jun2025 05:41:02.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
+[07Jun2025 05:41:02.906] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jast05
+[07Jun2025 05:41:02.907] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
+[07Jun2025 05:41:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> ZZZzzzz
+[07Jun2025 05:42:01.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> ZZZZZZzzzz
