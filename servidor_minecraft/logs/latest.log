@@ -1,21 +1,21 @@
-[07Jun2025 01:21:03.692] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[07Jun2025 01:21:03.696] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[07Jun2025 01:21:05.334] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[07Jun2025 01:21:05.403] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[07Jun2025 01:21:05.877] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jun2025 01:21:05.878] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jun2025 01:21:05.880] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jun2025 01:21:05.881] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jun2025 01:21:06.175] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[07Jun2025 01:21:08.981] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Jun2025 01:21:09.150] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[07Jun2025 01:21:09.152] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[07Jun2025 01:21:09.156] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[07Jun2025 01:21:09.175] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Jun2025 01:21:09.314] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.10+mc1.20.1: 83 options available, 0 override(s) found
-[07Jun2025 01:21:09.315] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[07Jun2025 01:21:09.336] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[07Jun2025 01:21:09.510] [main/INFO] [Puzzles Lib/]: Loading 39 mods:
+[07Jun2025 01:56:42.408] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07Jun2025 01:56:42.414] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[07Jun2025 01:56:43.793] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Jun2025 01:56:44.041] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07Jun2025 01:56:44.393] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jun2025 01:56:44.395] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jun2025 01:56:44.396] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jun2025 01:56:44.398] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jun2025 01:56:44.556] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[07Jun2025 01:56:47.252] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Jun2025 01:56:47.405] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[07Jun2025 01:56:47.406] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[07Jun2025 01:56:47.410] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Jun2025 01:56:47.431] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Jun2025 01:56:47.579] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.10+mc1.20.1: 83 options available, 0 override(s) found
+[07Jun2025 01:56:47.579] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[07Jun2025 01:56:47.605] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[07Jun2025 01:56:47.742] [main/INFO] [Puzzles Lib/]: Loading 39 mods:
 	- alexscaves 1.1.5
 	- aquaculture 2.5.2
 	- architectury 9.2.14
@@ -55,66 +55,63 @@
 	- travelersbackpack 9.1.15
 	- twilightforest 4.3.2508
 	- voicechat 1.20.1-2.5.20
-[07Jun2025 01:21:09.526] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Jun2025 01:21:10.882] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[07Jun2025 01:21:10.882] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[07Jun2025 01:21:11.087] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[07Jun2025 01:21:11.088] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[07Jun2025 01:21:11.088] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[07Jun2025 01:21:11.089] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[07Jun2025 01:21:11.090] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[07Jun2025 01:21:11.090] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[07Jun2025 01:21:11.092] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[07Jun2025 01:21:11.093] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[07Jun2025 01:21:11.244] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[07Jun2025 01:21:12.058] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (13.46 s after launch)
-[07Jun2025 01:21:12.221] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[07Jun2025 01:21:12.222] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[07Jun2025 01:21:14.156] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2093 milliseconds
-[07Jun2025 01:21:19.106] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello Forge world!
-[07Jun2025 01:21:19.113] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello from MoreBowsAndArrows Common init on Forge! we are currently in a production environment!
-[07Jun2025 01:21:19.113] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: The ID for diamonds is minecraft:diamond
-[07Jun2025 01:21:19.113] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello to MoreBowsAndArrows
-[07Jun2025 01:21:19.166] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[07Jun2025 01:21:19.508] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[07Jun2025 01:21:19.508] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[07Jun2025 01:21:19.508] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[07Jun2025 01:21:19.508] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[07Jun2025 01:21:19.509] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[07Jun2025 01:21:19.509] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[07Jun2025 01:21:19.509] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[07Jun2025 01:21:19.613] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[07Jun2025 01:21:19.864] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[07Jun2025 01:21:19.920] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
-[07Jun2025 01:21:19.923] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
-[07Jun2025 01:21:19.923] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
-[07Jun2025 01:21:19.924] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
-[07Jun2025 01:21:20.151] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[07Jun2025 01:21:20.154] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[07Jun2025 01:21:20.638] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
-[07Jun2025 01:21:20.639] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
-[07Jun2025 01:21:24.987] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[07Jun2025 01:21:25.075] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[07Jun2025 01:21:25.096] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[07Jun2025 01:21:25.096] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[07Jun2025 01:21:25.096] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[07Jun2025 01:21:25.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[07Jun2025 01:21:25.476] [main/INFO] [journeymap/]: Initializing Packet Registries
-[07Jun2025 01:21:25.515] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[07Jun2025 01:21:25.516] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[07Jun2025 01:21:25.516] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[07Jun2025 01:21:25.517] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[07Jun2025 01:21:25.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[07Jun2025 01:21:25.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[07Jun2025 01:21:25.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[07Jun2025 01:21:25.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[07Jun2025 01:21:25.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[07Jun2025 01:21:25.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[07Jun2025 01:21:26.017] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[07Jun2025 01:21:26.043] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[07Jun2025 01:21:26.049] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[07Jun2025 01:21:26.054] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[07Jun2025 01:21:26.054] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[07Jun2025 01:56:47.756] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Jun2025 01:56:49.011] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[07Jun2025 01:56:49.012] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[07Jun2025 01:56:49.347] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[07Jun2025 01:56:49.347] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[07Jun2025 01:56:49.347] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[07Jun2025 01:56:49.348] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[07Jun2025 01:56:49.349] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[07Jun2025 01:56:49.349] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[07Jun2025 01:56:49.350] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[07Jun2025 01:56:49.351] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[07Jun2025 01:56:49.508] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[07Jun2025 01:56:50.442] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (11.44 s after launch)
+[07Jun2025 01:56:50.916] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Jun2025 01:56:50.917] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Jun2025 01:56:53.404] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2957 milliseconds
+[07Jun2025 01:56:58.359] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello Forge world!
+[07Jun2025 01:56:58.365] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello from MoreBowsAndArrows Common init on Forge! we are currently in a production environment!
+[07Jun2025 01:56:58.368] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: The ID for diamonds is minecraft:diamond
+[07Jun2025 01:56:58.368] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello to MoreBowsAndArrows
+[07Jun2025 01:56:58.468] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[07Jun2025 01:56:58.789] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[07Jun2025 01:56:58.790] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[07Jun2025 01:56:58.790] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[07Jun2025 01:56:58.791] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[07Jun2025 01:56:58.791] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[07Jun2025 01:56:58.791] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[07Jun2025 01:56:58.791] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[07Jun2025 01:56:58.895] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[07Jun2025 01:56:59.123] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
+[07Jun2025 01:56:59.125] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
+[07Jun2025 01:56:59.125] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
+[07Jun2025 01:56:59.126] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
+[07Jun2025 01:56:59.137] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[07Jun2025 01:56:59.866] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07Jun2025 01:56:59.866] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07Jun2025 01:57:00.138] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[07Jun2025 01:57:00.139] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[07Jun2025 01:57:04.417] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[07Jun2025 01:57:04.500] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[07Jun2025 01:57:04.506] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[07Jun2025 01:57:04.521] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[07Jun2025 01:57:04.521] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[07Jun2025 01:57:04.521] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[07Jun2025 01:57:04.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[07Jun2025 01:57:04.960] [main/INFO] [journeymap/]: Initializing Packet Registries
+[07Jun2025 01:57:04.999] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[07Jun2025 01:57:05.000] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[07Jun2025 01:57:05.001] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[07Jun2025 01:57:05.001] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[07Jun2025 01:57:05.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[07Jun2025 01:57:05.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[07Jun2025 01:57:05.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[07Jun2025 01:57:05.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[07Jun2025 01:57:05.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[07Jun2025 01:57:05.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[07Jun2025 01:57:05.470] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -129,23 +126,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[07Jun2025 01:21:26.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[07Jun2025 01:21:26.054] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[07Jun2025 01:21:26.057] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[07Jun2025 01:21:26.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
-[07Jun2025 01:21:26.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[07Jun2025 01:21:26.734] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07Jun2025 01:21:26.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
-[07Jun2025 01:21:26.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[07Jun2025 01:21:26.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
-[07Jun2025 01:21:26.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[07Jun2025 01:21:26.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.9.5
-[07Jun2025 01:21:26.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[07Jun2025 01:21:27.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[07Jun2025 01:21:27.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[07Jun2025 01:21:27.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
-[07Jun2025 01:21:27.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[07Jun2025 01:21:27.041] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[07Jun2025 01:57:05.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[07Jun2025 01:57:05.502] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[07Jun2025 01:57:05.531] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[07Jun2025 01:57:05.535] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[07Jun2025 01:57:05.536] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[07Jun2025 01:57:05.537] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[07Jun2025 01:57:05.537] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[07Jun2025 01:57:05.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
+[07Jun2025 01:57:05.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[07Jun2025 01:57:06.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.1 Target: null
+[07Jun2025 01:57:06.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[07Jun2025 01:57:06.151] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
+[07Jun2025 01:57:06.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[07Jun2025 01:57:06.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.9.5
+[07Jun2025 01:57:06.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[07Jun2025 01:57:06.233] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Jun2025 01:57:06.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[07Jun2025 01:57:06.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[07Jun2025 01:57:06.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
+[07Jun2025 01:57:06.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[07Jun2025 01:57:06.320] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -160,101 +161,92 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[07Jun2025 01:21:27.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[07Jun2025 01:21:27.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[07Jun2025 01:21:27.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[07Jun2025 01:21:27.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.20 Target: 1.20.1-2.5.30
-[07Jun2025 01:21:27.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[07Jun2025 01:21:27.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[07Jun2025 01:21:27.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Jun2025 01:21:27.247] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
-[07Jun2025 01:21:27.248] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
-[07Jun2025 01:21:27.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[07Jun2025 01:21:27.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[07Jun2025 01:21:27.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[07Jun2025 01:21:33.890] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[07Jun2025 01:21:33.920] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[07Jun2025 01:21:33.928] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[07Jun2025 01:21:33.943] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[07Jun2025 01:21:33.971] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[07Jun2025 01:21:33.974] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[07Jun2025 01:21:33.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[07Jun2025 01:21:33.984] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[07Jun2025 01:21:33.988] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[07Jun2025 01:21:34.140] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2760 advancements
-[07Jun2025 01:21:34.172] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[07Jun2025 01:21:34.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[07Jun2025 01:21:34.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Jun2025 01:21:34.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[07Jun2025 01:21:34.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Jun2025 01:21:34.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Jun2025 01:21:34.476] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Jun2025 01:21:34.576] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07Jun2025 01:21:34.576] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[07Jun2025 01:21:34.576] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07Jun2025 01:21:34.577] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[07Jun2025 01:21:34.596] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[07Jun2025 01:21:34.599] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[07Jun2025 01:21:34.711] [Server thread/INFO] [Framework/]: Loading server configs...
-[07Jun2025 01:21:34.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "mundomodificado"
-[07Jun2025 01:21:35.369] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[07Jun2025 01:21:35.436] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[07Jun2025 01:21:35.441] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[07Jun2025 01:21:35.446] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[07Jun2025 01:21:35.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07Jun2025 01:21:37.743] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 01:21:37.743] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 01:21:37.767] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 01:21:37.807] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 01:21:38.328] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 01:21:38.457] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 01:21:39.120] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3164 ms
-[07Jun2025 01:21:39.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.531s)! For help, type "help"
-[07Jun2025 01:21:39.174] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07Jun2025 01:21:39.213] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[07Jun2025 01:21:39.213] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[07Jun2025 01:21:39.218] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[07Jun2025 01:21:39.219] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[07Jun2025 01:21:39.230] [Server thread/WARN] [ModernFix/]: Dedicated server took 40.629 seconds to load
-[07Jun2025 01:21:39.231] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'zip-atmosphere.gl.at.ply.gg:4276'
-[07Jun2025 01:21:39.231] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4276
-[07Jun2025 01:22:04.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0rtiga[/127.150.220.81:59443] logged in with entity id 724 at (-199.9634081661079, -9.0, -213.69480914474423)
-[07Jun2025 01:22:04.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga joined the game
-[07Jun2025 01:22:04.904] [Server thread/INFO] [Jade/]: Syncing config to 0rtiga (8a79f3a8-ab27-361b-a7c7-1e97dc3c3523)
-[07Jun2025 01:22:05.449] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 0rtiga (18)
-[07Jun2025 01:22:05.451] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 0rtiga
-[07Jun2025 01:22:08.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a79f3a8-ab27-361b-a7c7-1e97dc3c3523
-[07Jun2025 01:22:09.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a79f3a8-ab27-361b-a7c7-1e97dc3c3523
-[07Jun2025 01:22:09.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0rtiga (8a79f3a8-ab27-361b-a7c7-1e97dc3c3523) successfully connected to voice chat
-[07Jun2025 01:22:21.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.153.50.239:56053] logged in with entity id 934 at (-205.69999998807907, -11.0, -210.6347535885372)
-[07Jun2025 01:22:21.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
-[07Jun2025 01:22:21.229] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
-[07Jun2025 01:22:21.377] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
-[07Jun2025 01:22:21.377] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
-[07Jun2025 01:22:23.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
-[07Jun2025 01:22:24.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
-[07Jun2025 01:22:24.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
-[07Jun2025 01:22:40.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [A Strange Grave Dust]
-[07Jun2025 01:24:22.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0rtiga> ñero se me petó ds
-[07Jun2025 01:24:34.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> dile a joca q fue pq te pusiste triste
-[07Jun2025 01:24:43.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0rtiga> asjdjasjda
-[07Jun2025 01:24:51.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> q se fue a comer
-[07Jun2025 01:38:40.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/849, l='ServerLevel[mundomodificado]', x=-310.20, y=65.50, z=-335.50] died, message: 'Unemployed was slain by Zombie'
-[07Jun2025 01:39:11.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [Alex's Caves]
-[07Jun2025 01:39:21.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Alex's Caves]
-[07Jun2025 01:39:28.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [It Belongs in a Museum]
-[07Jun2025 01:39:31.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Once Upon a Cave]
-[07Jun2025 01:39:43.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [It Belongs in a Museum]
-[07Jun2025 01:40:43.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Lorem Ipsum]
-[07Jun2025 01:40:59.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga was slain by Enderman
-[07Jun2025 01:40:59.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [Your First Grave]
-[07Jun2025 01:40:59.678] [Server thread/INFO] [tombstone/]: The player 0rtiga has successfully been saved
-[07Jun2025 01:41:02.599] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[07Jun2025 01:41:02.599] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[07Jun2025 01:41:02.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [The Most Useful Key]
-[07Jun2025 01:42:10.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported 0rtiga to Mpalabra]
-[07Jun2025 01:47:32.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/851, l='ServerLevel[mundomodificado]', x=-322.30, y=27.42, z=-384.53] died, message: 'Farmer was slain by Zombie'
-[07Jun2025 01:48:01.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/863, l='ServerLevel[mundomodificado]', x=-302.34, y=31.00, z=-381.72] died, message: 'Cleric was slain by Zombie'
-[07Jun2025 01:48:02.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/893, l='ServerLevel[mundomodificado]', x=-302.39, y=31.00, z=-381.72] died, message: 'Nitwit was slain by Zombie'
-[07Jun2025 01:48:46.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Book of Monsters]
-[07Jun2025 01:49:01.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/864, l='ServerLevel[mundomodificado]', x=-302.30, y=31.00, z=-381.71] died, message: 'Unemployed was slain by Zombie'
+[07Jun2025 01:57:06.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[07Jun2025 01:57:06.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[07Jun2025 01:57:06.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[07Jun2025 01:57:06.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.20 Target: 1.20.1-2.5.30
+[07Jun2025 01:57:06.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[07Jun2025 01:57:06.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[07Jun2025 01:57:06.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Jun2025 01:57:06.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[07Jun2025 01:57:06.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[07Jun2025 01:57:06.691] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[07Jun2025 01:57:06.691] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[07Jun2025 01:57:06.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[07Jun2025 01:57:12.672] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[07Jun2025 01:57:12.713] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[07Jun2025 01:57:12.718] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[07Jun2025 01:57:12.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[07Jun2025 01:57:12.772] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[07Jun2025 01:57:12.775] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[07Jun2025 01:57:12.777] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[07Jun2025 01:57:12.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[07Jun2025 01:57:12.785] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[07Jun2025 01:57:12.949] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2760 advancements
+[07Jun2025 01:57:12.986] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[07Jun2025 01:57:13.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Jun2025 01:57:13.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Jun2025 01:57:13.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Jun2025 01:57:13.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Jun2025 01:57:13.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Jun2025 01:57:13.432] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Jun2025 01:57:13.531] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Jun2025 01:57:13.531] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Jun2025 01:57:13.531] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Jun2025 01:57:13.532] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Jun2025 01:57:13.555] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[07Jun2025 01:57:13.557] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Jun2025 01:57:13.699] [Server thread/INFO] [Framework/]: Loading server configs...
+[07Jun2025 01:57:13.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "mundomodificado"
+[07Jun2025 01:57:14.680] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[07Jun2025 01:57:14.684] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[07Jun2025 01:57:14.688] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[07Jun2025 01:57:15.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Jun2025 01:57:17.259] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jun2025 01:57:17.260] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jun2025 01:57:17.260] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jun2025 01:57:17.260] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jun2025 01:57:17.261] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jun2025 01:57:17.910] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2752 ms
+[07Jun2025 01:57:17.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.361s)! For help, type "help"
+[07Jun2025 01:57:17.982] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Jun2025 01:57:18.023] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[07Jun2025 01:57:18.023] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[07Jun2025 01:57:18.030] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[07Jun2025 01:57:18.032] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[07Jun2025 01:57:18.044] [Server thread/WARN] [ModernFix/]: Dedicated server took 39.044 seconds to load
+[07Jun2025 01:57:18.044] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'zip-atmosphere.gl.at.ply.gg:4276'
+[07Jun2025 01:57:18.045] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4276
+[07Jun2025 01:57:25.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.153.50.239:36123] logged in with entity id 700 at (-318.70518577210544, 67.0, -400.69999998807907)
+[07Jun2025 01:57:25.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
+[07Jun2025 01:57:26.061] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
+[07Jun2025 01:57:26.081] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
+[07Jun2025 01:57:26.085] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[07Jun2025 01:57:26.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[07Jun2025 01:57:27.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[07Jun2025 01:57:27.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
+[07Jun2025 02:00:26.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [The Lighthouse]
+[07Jun2025 02:01:57.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10339ms or 206 ticks behind
+[07Jun2025 02:04:18.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Knowledge of Death]
+[07Jun2025 02:04:18.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Ashes 'n Bones]
+[07Jun2025 02:04:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Sweet Dreams]
+[07Jun2025 02:10:02.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juangl2003[/127.47.238.127:57663] logged in with entity id 3954 at (-22.5, 74.0, -47.5)
+[07Jun2025 02:10:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 joined the game
+[07Jun2025 02:10:02.428] [Server thread/INFO] [Jade/]: Syncing config to juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27)
+[07Jun2025 02:10:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Ice and Fire]
+[07Jun2025 02:10:04.518] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
+[07Jun2025 02:10:04.519] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
+[07Jun2025 02:10:08.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:10:09.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:10:09.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
+[07Jun2025 02:10:36.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> ontas
+[07Jun2025 02:10:47.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported juangl2003 to Mpalabra]
+[07Jun2025 02:10:47.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [The Lighthouse]
+[07Jun2025 02:11:15.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> no meoyes?
+[07Jun2025 02:11:19.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> no
+[07Jun2025 02:11:23.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> yo a ti si
+[07Jun2025 02:11:29.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> pera
+[07Jun2025 02:11:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> dale a la V
+[07Jun2025 02:11:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> tal vez debo activar algo
+[07Jun2025 02:11:37.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> si
+[07Jun2025 02:11:56.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> a la V ahi te aparece, escoge altavoz y microfono
