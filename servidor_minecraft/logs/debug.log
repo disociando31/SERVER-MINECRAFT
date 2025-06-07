@@ -4083,3 +4083,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jun2025 05:41:02.907] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
 [07Jun2025 05:41:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> ZZZzzzz
 [07Jun2025 05:42:01.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> ZZZZZZzzzz
+[07Jun2025 05:44:03.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Jun2025 05:44:03.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Jun2025 05:45:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Stone Age]
+[07Jun2025 05:47:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Bone Crusher]
+[07Jun2025 05:47:59.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=68, z=-1039} BlockPos{x=-54, y=67, z=-1040}
+[07Jun2025 05:49:03.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Jun2025 05:49:03.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Jun2025 05:49:34.219] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[07Jun2025 05:49:34.233] [Worker-Main-3/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:lich_tower/top is being run through DFU (hash a51672029c56ba4bbc503d26165f792c6e7f7d4477904d41e6af79a5ec21d66a), this will cause launch time delays
+[07Jun2025 05:51:08.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
+[07Jun2025 05:53:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by juangl2003
+[07Jun2025 05:53:49.359] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pepito was created at position [x:-37, y:64, z:-1017, dim:minecraft:overworld]
+[07Jun2025 05:53:49.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Your First Grave]
+[07Jun2025 05:53:49.360] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[07Jun2025 05:53:50.456] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Jun2025 05:53:50.456] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[07Jun2025 05:53:50.491] [Server thread/DEBUG] [twilightforest/]: Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) respawned and received items held in storage
+[07Jun2025 05:53:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [The Most Useful Key]
+[07Jun2025 05:54:03.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Jun2025 05:54:03.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado

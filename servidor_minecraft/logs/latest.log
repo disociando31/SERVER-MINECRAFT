@@ -315,3 +315,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jun2025 05:41:02.907] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
 [07Jun2025 05:41:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> ZZZzzzz
 [07Jun2025 05:42:01.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> ZZZZZZzzzz
+[07Jun2025 05:45:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Stone Age]
+[07Jun2025 05:47:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Bone Crusher]
+[07Jun2025 05:47:59.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=68, z=-1039} BlockPos{x=-54, y=67, z=-1040}
+[07Jun2025 05:51:08.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
+[07Jun2025 05:53:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by juangl2003
+[07Jun2025 05:53:49.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Your First Grave]
+[07Jun2025 05:53:49.360] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[07Jun2025 05:53:50.456] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Jun2025 05:53:50.456] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[07Jun2025 05:53:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [The Most Useful Key]
