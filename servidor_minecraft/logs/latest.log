@@ -489,3 +489,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jun2025 02:56:48.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Timed out
 [07Jun2025 02:56:48.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
 [07Jun2025 02:56:48.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
+[07Jun2025 02:57:33.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juangl2003[/127.47.238.127:45923] logged in with entity id 17769 at (-595.3589535924881, 65.0, -485.6486289189244)
+[07Jun2025 02:57:33.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 joined the game
+[07Jun2025 02:57:33.664] [Server thread/INFO] [Jade/]: Syncing config to juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27)
+[07Jun2025 02:57:34.823] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
+[07Jun2025 02:57:34.824] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
+[07Jun2025 02:57:38.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:57:39.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
+[07Jun2025 02:57:39.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
+[07Jun2025 03:00:28.805] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b5c80d4[id=<null>,name=Jast05,properties={},legacy=false] (/127.68.191.22:46049) lost connection: Disconnected
+[07Jun2025 03:01:07.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6495c3eb[id=<null>,name=Jast05,properties={},legacy=false] (/127.68.191.22:36879) lost connection: Disconnected
+[07Jun2025 03:01:51.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=64, z=-486} BlockPos{x=-487, y=62, z=-486}
+[07Jun2025 03:02:00.955] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36b1cd7b[id=<null>,name=Jast05,properties={},legacy=false] (/127.68.191.22:60657) lost connection: Disconnected
+[07Jun2025 03:02:18.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=65, z=-477} BlockPos{x=-513, y=63, z=-478}
+[07Jun2025 03:02:18.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=65, z=-477} BlockPos{x=-513, y=63, z=-478}
+[07Jun2025 03:02:56.904] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30103e76[id=<null>,name=Jast05,properties={},legacy=false] (/127.68.191.22:32843) lost connection: Disconnected
+[07Jun2025 03:03:21.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[07Jun2025 03:03:21.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[07Jun2025 03:03:21.607] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[07Jun2025 03:04:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jun2025 03:04:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jun2025 03:04:49.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jun2025 03:04:49.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:overworld
+[07Jun2025 03:04:50.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_end
+[07Jun2025 03:04:50.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/deeperdarker:otherside
+[07Jun2025 03:04:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_nether
+[07Jun2025 03:04:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/twilightforest:twilight_forest
+[07Jun2025 03:04:50.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mundomodificado): All chunks are saved
+[07Jun2025 03:04:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jun2025 03:04:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07Jun2025 03:04:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jun2025 03:04:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07Jun2025 03:04:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jun2025 03:04:50.234] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Jun2025 03:04:50.235] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Jun2025 03:04:50.237] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
