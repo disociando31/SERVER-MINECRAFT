@@ -3469,3 +3469,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jun2025 00:57:38.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [07Jun2025 00:57:38.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
 [07Jun2025 00:59:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [Diamonds!]
+[07Jun2025 01:02:38.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Jun2025 01:02:38.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Jun2025 01:06:12.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [Not Today, Thank You]
+[07Jun2025 01:07:38.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Jun2025 01:07:38.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Jun2025 01:08:14.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Suit Up]
+[07Jun2025 01:10:05.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [Knowledge of Death]
+[07Jun2025 01:10:05.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [Ashes 'n Bones]
+[07Jun2025 01:10:56.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0rtiga has made the advancement [Knowledge raises the soul]
+[07Jun2025 01:11:30.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Not Today, Thank You]
