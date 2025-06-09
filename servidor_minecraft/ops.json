@@ -16,5 +16,11 @@
     "name": "Jast05",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "877fc8c6-b7e4-32ff-9d83-1a635e5b36f8",
+    "name": "Pepito",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
