@@ -298,3 +298,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 04:45:41.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
 [09Jun2025 04:47:36.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
 [09Jun2025 04:51:12.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[09Jun2025 04:52:09.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[09Jun2025 04:52:09.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[09Jun2025 04:52:09.214] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[09Jun2025 04:52:44.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[09Jun2025 04:52:52.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[09Jun2025 04:52:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[09Jun2025 04:52:52.556] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[09Jun2025 04:53:51.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[09Jun2025 05:01:07.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[09Jun2025 05:01:07.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[09Jun2025 05:01:07.947] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
