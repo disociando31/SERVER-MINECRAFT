@@ -268,3 +268,45 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 03:37:29.433] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [09Jun2025 03:38:05.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
 [09Jun2025 03:38:17.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
+[09Jun2025 03:39:34.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was burnt to a crisp whilst fighting Fire Dragon
+[09Jun2025 03:39:34.731] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mpalabra with unique ID travelersbackpack.standard_09.06.2025-03.39.34.dat
+[09Jun2025 03:39:34.731] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 235 Y: 63 Z: -901
+[09Jun2025 03:39:34.736] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[09Jun2025 03:39:36.298] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:39:36.299] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[09Jun2025 03:39:41.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was incinerated by Fire Dragon
+[09Jun2025 03:39:41.311] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[09Jun2025 03:39:42.502] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:39:42.503] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[09Jun2025 03:39:53.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[09Jun2025 03:40:26.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=246, y=61, z=-920} BlockPos{x=246, y=62, z=-920}
+[09Jun2025 03:40:33.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=61, z=-921} BlockPos{x=243, y=62, z=-921}
+[09Jun2025 03:40:33.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=61, z=-921} BlockPos{x=243, y=62, z=-921}
+[09Jun2025 03:40:44.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Disconnected
+[09Jun2025 03:40:44.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
+[09Jun2025 03:40:44.738] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
+[09Jun2025 03:41:19.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[09Jun2025 03:41:38.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28062225[id=<null>,name=Jast05,properties={},legacy=false] (/127.68.191.22:42803) lost connection: Disconnected
+[09Jun2025 03:41:46.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jast05[/127.68.191.22:35433] logged in with entity id 4699 at (223.40323768982415, 64.0, -893.2248480321975)
+[09Jun2025 03:41:46.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 joined the game
+[09Jun2025 03:41:46.604] [Server thread/INFO] [Jade/]: Syncing config to Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd)
+[09Jun2025 03:41:47.106] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jast05 (18)
+[09Jun2025 03:41:47.106] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jast05
+[09Jun2025 03:41:49.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[09Jun2025 03:41:52.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[09Jun2025 03:41:53.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[09Jun2025 03:41:53.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) successfully connected to voice chat
+[09Jun2025 03:42:04.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[09Jun2025 03:42:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
+[09Jun2025 03:42:34.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
+[09Jun2025 03:42:34.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[09Jun2025 03:43:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
+[09Jun2025 03:43:33.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[09Jun2025 03:43:53.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[09Jun2025 03:44:02.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Take Aim]
+[09Jun2025 03:44:06.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Dragonslayer]
+[09Jun2025 03:45:21.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
+[09Jun2025 03:45:42.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[09Jun2025 03:45:53.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=71, z=-1158} BlockPos{x=212, y=70, z=-1159}
+[09Jun2025 03:45:53.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=70, z=-1157} BlockPos{x=213, y=70, z=-1158}
+[09Jun2025 03:46:40.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzzz
