@@ -3932,3 +3932,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 05:01:07.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
 [09Jun2025 05:01:07.946] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Pepito
 [09Jun2025 05:01:07.947] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
+[09Jun2025 05:02:22.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[09Jun2025 05:02:22.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[09Jun2025 05:07:22.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[09Jun2025 05:07:22.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[09Jun2025 05:12:22.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[09Jun2025 05:12:22.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
