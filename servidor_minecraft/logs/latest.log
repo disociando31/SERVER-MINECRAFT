@@ -310,3 +310,57 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 03:45:53.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=71, z=-1158} BlockPos{x=212, y=70, z=-1159}
 [09Jun2025 03:45:53.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=70, z=-1157} BlockPos{x=213, y=70, z=-1158}
 [09Jun2025 03:46:40.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzzz
+[09Jun2025 03:50:20.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Dragon Growth Hormone]
+[09Jun2025 03:52:26.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Strong or Careful]
+[09Jun2025 03:52:26.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Mpalabra
+[09Jun2025 03:52:26.908] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[09Jun2025 03:52:28.234] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:52:28.235] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[09Jun2025 03:52:35.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Funeral Theft]
+[09Jun2025 03:52:35.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Discreet Search]
+[09Jun2025 03:52:37.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[09Jun2025 03:53:40.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Ice Bucket Challenge]
+[09Jun2025 03:55:35.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was doomed to fall
+[09Jun2025 03:55:35.982] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_09.06.2025-03.55.35.dat
+[09Jun2025 03:55:35.982] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 88 Y: 73 Z: -787
+[09Jun2025 03:55:35.983] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[09Jun2025 03:55:37.157] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:55:37.157] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[09Jun2025 03:55:54.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Fire Dragon
+[09Jun2025 03:55:54.833] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[09Jun2025 03:55:56.063] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:55:56.063] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[09Jun2025 03:56:16.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[09Jun2025 03:56:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was incinerated by Fire Dragon
+[09Jun2025 03:56:16.236] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[09Jun2025 03:56:18.305] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:56:18.305] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[09Jun2025 03:56:26.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Fire Dragon
+[09Jun2025 03:56:26.382] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[09Jun2025 03:56:28.095] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:56:28.095] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[09Jun2025 03:56:37.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[09Jun2025 03:56:41.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 walked into fire whilst fighting Fire Dragon
+[09Jun2025 03:56:41.535] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[09Jun2025 03:56:42.965] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:56:42.965] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[09Jun2025 03:57:03.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Chain Death]
+[09Jun2025 03:57:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was doomed to fall by Fire Dragon
+[09Jun2025 03:57:03.270] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[09Jun2025 03:57:04.640] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:57:04.640] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[09Jun2025 03:57:11.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[09Jun2025 03:57:17.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was doomed to fall by Fire Dragon
+[09Jun2025 03:57:17.030] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[09Jun2025 03:57:18.527] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:57:18.527] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[09Jun2025 03:57:41.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Here They Come]
+[09Jun2025 03:57:44.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was incinerated by Fire Dragon
+[09Jun2025 03:57:44.491] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[09Jun2025 03:57:45.727] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:57:45.728] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[09Jun2025 03:58:26.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[09Jun2025 03:58:37.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was incinerated by Fire Dragon
+[09Jun2025 03:58:37.233] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[09Jun2025 03:58:38.341] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 03:58:38.341] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

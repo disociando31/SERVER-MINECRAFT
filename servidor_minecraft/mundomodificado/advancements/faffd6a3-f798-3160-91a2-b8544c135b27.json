@@ -2247,6 +2247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-06-09 03:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-09 03:43:17 +0000"
@@ -2289,6 +2295,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-09 03:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-06-09 03:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-06-09 03:44:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2025-06-09 03:44:05 +0000"
@@ -2298,6 +2322,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-09 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-06-09 03:44:57 +0000"
     },
     "done": true
   },
