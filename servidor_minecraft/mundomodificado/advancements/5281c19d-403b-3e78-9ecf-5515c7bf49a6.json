@@ -962,6 +962,8 @@
     "criteria": {
       "minecraft:pillager": "2025-06-07 03:17:28 +0000",
       "minecraft:skeleton": "2025-06-07 00:56:17 +0000",
+      "minecraft:ghast": "2025-06-09 04:42:47 +0000",
+      "minecraft:magma_cube": "2025-06-09 04:38:04 +0000",
       "minecraft:spider": "2025-06-07 02:08:17 +0000",
       "minecraft:creeper": "2025-06-07 02:08:07 +0000",
       "minecraft:phantom": "2025-06-07 04:58:27 +0000",
@@ -3001,7 +3003,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-09 04:31:37 +0000",
-      "minecraft:soul_sand_valley": "2025-06-09 04:32:00 +0000"
+      "minecraft:soul_sand_valley": "2025-06-09 04:32:00 +0000",
+      "minecraft:basalt_deltas": "2025-06-09 04:38:33 +0000"
     },
     "done": false
   },
@@ -3272,6 +3275,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-06-09 04:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-09 04:43:45 +0000"
     },
     "done": true
   },

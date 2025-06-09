@@ -285,3 +285,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 04:37:25.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
 [09Jun2025 04:39:43.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
 [09Jun2025 04:41:26.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[09Jun2025 04:42:48.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito tried to swim in lava
+[09Jun2025 04:42:48.705] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[09Jun2025 04:42:50.662] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 04:42:50.663] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[09Jun2025 04:42:58.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[09Jun2025 04:44:38.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has completed the challenge [Return to Sender]
+[09Jun2025 04:45:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito discovered the floor was lava
+[09Jun2025 04:45:30.905] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[09Jun2025 04:45:32.907] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 04:45:32.908] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[09Jun2025 04:45:41.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[09Jun2025 04:47:36.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[09Jun2025 04:51:12.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
