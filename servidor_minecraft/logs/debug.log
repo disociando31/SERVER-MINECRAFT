@@ -3857,3 +3857,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 04:18:35.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4832ms or 96 ticks behind
 [09Jun2025 04:18:42.598] [Worker-Main-1/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:gauntlet_arena/base is being run through DFU (hash 0d871524445703c1a906ae6c3ac7e4ca8da8c54137a1bee15180b207637d0493), this will cause launch time delays
 [09Jun2025 04:18:53.558] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityFireDragon['Fire Dragon'/2193, l='ServerLevel[mundomodificado]', x=-157.55, y=96.60, z=-783.99]
+[09Jun2025 04:22:20.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[09Jun2025 04:22:20.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[09Jun2025 04:24:11.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Those Were the Days]
+[09Jun2025 04:26:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [War Pigs]
+[09Jun2025 04:26:59.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [It Belongs in a Museum]
+[09Jun2025 04:27:20.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[09Jun2025 04:27:20.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[09Jun2025 04:28:44.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 fell from a high place
+[09Jun2025 04:28:44.819] [Server thread/DEBUG] [tombstone/]: A new grave of the player juangl2003 was created at position [x:-24, y:2, z:-1020, dim:minecraft:overworld]
+[09Jun2025 04:28:44.820] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[09Jun2025 04:28:51.153] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[09Jun2025 04:28:51.153] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[09Jun2025 04:28:51.195] [Server thread/DEBUG] [twilightforest/]: Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) respawned and received items held in storage
+[09Jun2025 04:29:16.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Where Is The Stone Pen?]
+[09Jun2025 04:31:29.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Who is Cutting Onions?]
+[09Jun2025 04:31:37.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [We Need to Go Deeper]
+[09Jun2025 04:31:59.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[09Jun2025 04:32:00.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Those Were the Days]
+[09Jun2025 04:32:20.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[09Jun2025 04:32:20.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[09Jun2025 04:33:18.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [War Pigs]
+[09Jun2025 04:33:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [We Need to Go Deeper]
+[09Jun2025 04:33:49.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[09Jun2025 04:33:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Those Were the Days]
+[09Jun2025 04:33:51.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [The Parrots and the Bats]
+[09Jun2025 04:34:08.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Who is Cutting Onions?]
+[09Jun2025 04:35:02.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[09Jun2025 04:35:09.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [We Need to Go Deeper]
+[09Jun2025 04:35:19.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
+[09Jun2025 04:35:19.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Those Were the Days]
+[09Jun2025 04:37:20.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[09Jun2025 04:37:20.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[09Jun2025 04:37:25.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[09Jun2025 04:39:43.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[09Jun2025 04:41:26.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
