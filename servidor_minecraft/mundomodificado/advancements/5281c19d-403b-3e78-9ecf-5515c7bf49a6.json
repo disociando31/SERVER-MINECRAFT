@@ -245,6 +245,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-06-14 04:31:36 +0000",
       "minecraft:cherry_grove": "2025-06-07 00:45:24 +0000",
       "minecraft:sunflower_plains": "2025-06-07 03:30:08 +0000",
       "minecraft:birch_forest": "2025-06-07 00:58:30 +0000",
@@ -254,6 +255,7 @@
       "minecraft:dripstone_caves": "2025-06-07 01:30:02 +0000",
       "minecraft:swamp": "2025-06-07 04:16:55 +0000",
       "minecraft:forest": "2025-06-07 00:44:11 +0000",
+      "minecraft:windswept_forest": "2025-06-14 04:31:41 +0000",
       "minecraft:ocean": "2025-06-07 04:09:23 +0000",
       "minecraft:flower_forest": "2025-06-07 01:59:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 04:25:56 +0000",
@@ -3297,6 +3299,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-06-14 04:21:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-06-14 04:33:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-14 04:21:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2025-06-14 04:09:34 +0000"
@@ -3315,9 +3335,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-06-14 04:21:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-14 04:18:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-14 04:04:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-06-14 04:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-14 04:15:34 +0000"
     },
     "done": true
   },
@@ -3327,9 +3371,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-06-14 04:15:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2025-06-14 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-06-14 04:21:18 +0000"
     },
     "done": true
   },

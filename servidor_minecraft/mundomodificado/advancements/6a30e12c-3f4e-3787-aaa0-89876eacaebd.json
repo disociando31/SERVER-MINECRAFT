@@ -1261,7 +1261,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-06-07 03:18:31 +0000"
+      "cooked_porkchop": "2025-06-14 04:21:13 +0000",
+      "bread": "2025-06-07 03:18:31 +0000",
+      "golden_carrot": "2025-06-14 04:23:31 +0000"
     },
     "done": false
   },
@@ -1407,6 +1409,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-07 03:34:57 +0000",
       "minecraft:ghast": "2025-06-09 04:44:38 +0000",
+      "minecraft:hoglin": "2025-06-14 04:20:38 +0000",
       "minecraft:magma_cube": "2025-06-14 04:08:47 +0000",
       "minecraft:spider": "2025-06-07 03:23:30 +0000",
       "minecraft:piglin_brute": "2025-06-09 04:26:03 +0000",
@@ -2957,6 +2960,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-14 04:20:50 +0000",
       "minecraft:nether_wastes": "2025-06-09 04:18:36 +0000",
       "minecraft:soul_sand_valley": "2025-06-09 04:24:01 +0000",
       "minecraft:basalt_deltas": "2025-06-09 04:45:45 +0000"
@@ -3389,6 +3393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-14 04:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-14 04:09:32 +0000"
@@ -3401,9 +3411,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-14 04:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-14 04:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-06-14 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-14 04:14:36 +0000"
     },
     "done": true
   },
@@ -3419,6 +3447,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-06-14 04:25:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-06-14 04:09:32 +0000"
@@ -3428,6 +3462,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-14 04:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-14 04:23:22 +0000"
     },
     "done": true
   },
@@ -3461,6 +3501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-14 04:23:22 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-06-14 04:09:32 +0000"
@@ -3476,6 +3522,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-06-14 04:02:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-14 04:23:22 +0000"
     },
     "done": true
   },

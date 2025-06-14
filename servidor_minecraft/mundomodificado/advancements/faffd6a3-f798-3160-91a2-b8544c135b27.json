@@ -2567,6 +2567,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-06-14 04:27:04 +0000",
+      "minecraft:cow": "2025-06-14 04:27:09 +0000",
       "minecraft:chicken": "2025-06-09 04:33:51 +0000"
     },
     "done": false
@@ -2800,6 +2802,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-14 04:29:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-06-14 04:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-14 04:07:56 +0000"
@@ -2815,6 +2829,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-06-14 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-14 04:29:36 +0000"
     },
     "done": true
   },
