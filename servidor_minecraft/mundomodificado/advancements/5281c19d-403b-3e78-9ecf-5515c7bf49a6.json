@@ -969,7 +969,8 @@
       "minecraft:phantom": "2025-06-07 04:58:27 +0000",
       "minecraft:cave_spider": "2025-06-07 01:01:33 +0000",
       "minecraft:enderman": "2025-06-07 01:41:02 +0000",
-      "minecraft:zombie": "2025-06-07 00:53:11 +0000"
+      "minecraft:zombie": "2025-06-07 00:53:11 +0000",
+      "minecraft:drowned": "2025-06-14 04:02:47 +0000"
     },
     "done": false
   },
@@ -3293,6 +3294,54 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-09 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-06-14 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-06-14 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-06-14 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-14 04:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-14 04:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-06-14 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-14 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-06-14 04:09:34 +0000"
     },
     "done": true
   },

@@ -3877,3 +3877,54 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Jun2025 04:05:56.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
 [14Jun2025 04:06:01.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
 [14Jun2025 04:06:14.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[14Jun2025 04:07:05.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was turned into KFC by Fire Dragon
+[14Jun2025 04:07:05.870] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mpalabra with unique ID travelersbackpack.standard_14.06.2025-04.07.05.dat
+[14Jun2025 04:07:05.871] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -30 Y: 61 Z: -812
+[14Jun2025 04:07:05.871] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mpalabra was created at position [x:-25, y:62, z:-819, dim:minecraft:overworld]
+[14Jun2025 04:07:05.888] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[14Jun2025 04:07:07.195] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jun2025 04:07:07.196] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Jun2025 04:07:07.233] [Server thread/DEBUG] [twilightforest/]: Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) respawned and received items held in storage
+[14Jun2025 04:07:14.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Fire Dragon
+[14Jun2025 04:07:14.096] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pepito was created at position [x:-25, y:64, z:-805, dim:minecraft:overworld]
+[14Jun2025 04:07:14.117] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[14Jun2025 04:07:15.230] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jun2025 04:07:15.230] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Jun2025 04:07:15.279] [Server thread/DEBUG] [twilightforest/]: Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) respawned and received items held in storage
+[14Jun2025 04:07:23.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[14Jun2025 04:07:29.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[14Jun2025 04:07:29.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[14Jun2025 04:07:29.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was turned into KFC by Fire Dragon
+[14Jun2025 04:07:29.674] [Server thread/DEBUG] [tombstone/]: A new grave of the player juangl2003 was created at position [x:-10, y:53, z:-841, dim:minecraft:overworld]
+[14Jun2025 04:07:29.701] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[14Jun2025 04:07:31.684] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jun2025 04:07:31.685] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Jun2025 04:07:31.705] [Server thread/DEBUG] [twilightforest/]: Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) respawned and received items held in storage
+[14Jun2025 04:07:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[14Jun2025 04:07:41.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[14Jun2025 04:08:07.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was incinerated by Fire Dragon
+[14Jun2025 04:08:07.876] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mpalabra was created at position [x:-22, y:57, z:-822, dim:minecraft:overworld]
+[14Jun2025 04:08:07.899] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[14Jun2025 04:08:09.134] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jun2025 04:08:09.135] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Jun2025 04:08:09.178] [Server thread/DEBUG] [twilightforest/]: Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) respawned and received items held in storage
+[14Jun2025 04:09:22.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Dragonslayer]
+[14Jun2025 04:09:35.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Take Aim]
+[14Jun2025 04:10:50.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=69, z=-990} BlockPos{x=1, y=67, z=-990}
+[14Jun2025 04:10:50.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=69, z=-990} BlockPos{x=1, y=67, z=-990}
+[14Jun2025 04:11:00.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=68, z=-992} BlockPos{x=27, y=66, z=-994}
+[14Jun2025 04:12:29.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[14Jun2025 04:12:29.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[14Jun2025 04:12:58.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Piglin Brute
+[14Jun2025 04:12:58.937] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_14.06.2025-04.12.58.dat
+[14Jun2025 04:12:58.938] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 649 Y: 47 Z: -350
+[14Jun2025 04:12:58.939] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jast05 was created at position [x:647, y:47, z:-350, dim:minecraft:the_nether]
+[14Jun2025 04:12:58.941] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[14Jun2025 04:13:00.448] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jun2025 04:13:00.448] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Jun2025 04:13:00.500] [Server thread/DEBUG] [twilightforest/]: Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) respawned and received items held in storage
+[14Jun2025 04:14:36.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Hidden in the Depths]
+[14Jun2025 04:15:24.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[14Jun2025 04:15:24.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_4_haste
+[14Jun2025 04:15:34.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [The Parrots and the Bats]
+[14Jun2025 04:16:25.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
