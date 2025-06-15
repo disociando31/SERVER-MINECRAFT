@@ -227,3 +227,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Jun2025 04:07:53.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
 [15Jun2025 04:07:53.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
 [15Jun2025 04:12:45.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Rotten to the Core]
+[15Jun2025 05:06:55.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepito[/127.248.27.57:54265] logged in with entity id 10960 at (-42.232380292587, 64.0, -1030.883010762479)
+[15Jun2025 05:06:55.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito joined the game
+[15Jun2025 05:06:55.955] [Server thread/INFO] [Jade/]: Syncing config to Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8)
+[15Jun2025 05:06:58.106] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pepito (18)
+[15Jun2025 05:06:58.107] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pepito
+[15Jun2025 05:07:00.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[15Jun2025 05:07:01.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[15Jun2025 05:07:01.009] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
+[15Jun2025 05:07:26.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[15Jun2025 05:07:26.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[15Jun2025 05:07:26.012] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
+[15Jun2025 05:15:25.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[15Jun2025 05:15:25.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[15Jun2025 05:15:25.098] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
