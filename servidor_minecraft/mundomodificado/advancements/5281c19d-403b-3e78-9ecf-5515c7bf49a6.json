@@ -3360,6 +3360,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-06-15 04:13:31 +0000",
+      "minecraft:cow": "2025-06-15 04:13:33 +0000",
       "minecraft:chicken": "2025-06-14 04:15:34 +0000"
     },
     "done": false
@@ -3979,6 +3981,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-06-14 06:08:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-06-15 04:12:45 +0000"
     },
     "done": true
   },
