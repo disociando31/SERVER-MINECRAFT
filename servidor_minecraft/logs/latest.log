@@ -1,21 +1,21 @@
-[14Jun2025 04:34:56.802] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[14Jun2025 04:34:56.806] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[14Jun2025 04:34:57.802] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[14Jun2025 04:34:57.862] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[14Jun2025 04:34:58.212] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[14Jun2025 04:34:58.214] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Jun2025 04:34:58.216] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Jun2025 04:34:58.217] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Jun2025 04:34:58.396] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[14Jun2025 04:35:00.807] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14Jun2025 04:35:00.944] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[14Jun2025 04:35:00.945] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[14Jun2025 04:35:00.954] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[14Jun2025 04:35:00.974] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Jun2025 04:35:01.073] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.10+mc1.20.1: 83 options available, 0 override(s) found
-[14Jun2025 04:35:01.074] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[14Jun2025 04:35:01.094] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[14Jun2025 04:35:01.245] [main/INFO] [Puzzles Lib/]: Loading 39 mods:
+[15Jun2025 04:04:40.588] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15Jun2025 04:04:40.594] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[15Jun2025 04:04:41.799] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15Jun2025 04:04:41.872] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15Jun2025 04:04:42.386] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jun2025 04:04:42.388] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jun2025 04:04:42.389] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jun2025 04:04:42.391] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jun2025 04:04:42.646] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[15Jun2025 04:04:45.325] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Jun2025 04:04:45.501] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[15Jun2025 04:04:45.503] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[15Jun2025 04:04:45.509] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Jun2025 04:04:45.528] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Jun2025 04:04:45.641] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.10+mc1.20.1: 83 options available, 0 override(s) found
+[15Jun2025 04:04:45.642] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[15Jun2025 04:04:45.675] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[15Jun2025 04:04:45.870] [main/INFO] [Puzzles Lib/]: Loading 39 mods:
 	- alexscaves 1.1.5
 	- aquaculture 2.5.2
 	- architectury 9.2.14
@@ -55,69 +55,63 @@
 	- travelersbackpack 9.1.15
 	- twilightforest 4.3.2508
 	- voicechat 1.20.1-2.5.20
-[14Jun2025 04:35:01.257] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Jun2025 04:35:02.495] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[14Jun2025 04:35:02.497] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[14Jun2025 04:35:02.628] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[14Jun2025 04:35:02.629] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[14Jun2025 04:35:02.629] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[14Jun2025 04:35:02.630] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[14Jun2025 04:35:02.631] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[14Jun2025 04:35:02.631] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[14Jun2025 04:35:02.633] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[14Jun2025 04:35:02.633] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[14Jun2025 04:35:02.732] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[14Jun2025 04:35:03.313] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.218 s after launch)
-[14Jun2025 04:35:03.465] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[14Jun2025 04:35:03.466] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[14Jun2025 04:35:05.109] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1792 milliseconds
-[14Jun2025 04:35:08.366] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello Forge world!
-[14Jun2025 04:35:08.368] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello from MoreBowsAndArrows Common init on Forge! we are currently in a production environment!
-[14Jun2025 04:35:08.368] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: The ID for diamonds is minecraft:diamond
-[14Jun2025 04:35:08.370] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello to MoreBowsAndArrows
-[14Jun2025 04:35:08.420] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[14Jun2025 04:35:08.783] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[14Jun2025 04:35:08.787] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[14Jun2025 04:35:08.787] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[14Jun2025 04:35:08.787] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[14Jun2025 04:35:08.788] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[14Jun2025 04:35:08.788] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[14Jun2025 04:35:08.788] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[14Jun2025 04:35:08.926] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[14Jun2025 04:35:09.023] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[14Jun2025 04:35:09.079] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
-[14Jun2025 04:35:09.085] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
-[14Jun2025 04:35:09.085] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
-[14Jun2025 04:35:09.085] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
-[14Jun2025 04:35:09.389] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[14Jun2025 04:35:09.389] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[14Jun2025 04:35:09.766] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
-[14Jun2025 04:35:09.767] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
-[14Jun2025 04:35:13.494] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[14Jun2025 04:35:13.556] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[14Jun2025 04:35:13.564] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[14Jun2025 04:35:13.564] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[14Jun2025 04:35:13.565] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[14Jun2025 04:35:13.714] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[14Jun2025 04:35:13.731] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[14Jun2025 04:35:13.946] [main/INFO] [journeymap/]: Initializing Packet Registries
-[14Jun2025 04:35:13.974] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[14Jun2025 04:35:13.974] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[14Jun2025 04:35:13.975] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[14Jun2025 04:35:13.975] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[14Jun2025 04:35:14.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[14Jun2025 04:35:14.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[14Jun2025 04:35:14.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[14Jun2025 04:35:14.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[14Jun2025 04:35:14.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[14Jun2025 04:35:14.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[14Jun2025 04:35:14.459] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[14Jun2025 04:35:14.478] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[14Jun2025 04:35:14.482] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[14Jun2025 04:35:14.483] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[14Jun2025 04:35:14.483] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[14Jun2025 04:35:14.484] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[14Jun2025 04:35:14.492] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[15Jun2025 04:04:45.885] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Jun2025 04:04:47.366] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[15Jun2025 04:04:47.366] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[15Jun2025 04:04:47.594] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[15Jun2025 04:04:47.595] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[15Jun2025 04:04:47.596] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[15Jun2025 04:04:47.598] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[15Jun2025 04:04:47.599] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[15Jun2025 04:04:47.599] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[15Jun2025 04:04:47.601] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[15Jun2025 04:04:47.602] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[15Jun2025 04:04:47.739] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[15Jun2025 04:04:48.619] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (11.11 s after launch)
+[15Jun2025 04:04:48.780] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[15Jun2025 04:04:48.781] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[15Jun2025 04:04:50.834] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2208 milliseconds
+[15Jun2025 04:04:56.072] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello Forge world!
+[15Jun2025 04:04:56.083] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello from MoreBowsAndArrows Common init on Forge! we are currently in a production environment!
+[15Jun2025 04:04:56.084] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: The ID for diamonds is minecraft:diamond
+[15Jun2025 04:04:56.084] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello to MoreBowsAndArrows
+[15Jun2025 04:04:56.145] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[15Jun2025 04:04:56.515] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[15Jun2025 04:04:56.516] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[15Jun2025 04:04:56.516] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[15Jun2025 04:04:56.516] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[15Jun2025 04:04:56.517] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[15Jun2025 04:04:56.517] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[15Jun2025 04:04:56.517] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[15Jun2025 04:04:56.664] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[15Jun2025 04:04:56.808] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[15Jun2025 04:04:56.856] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
+[15Jun2025 04:04:56.860] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
+[15Jun2025 04:04:56.860] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
+[15Jun2025 04:04:56.860] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
+[15Jun2025 04:04:57.115] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[15Jun2025 04:04:57.115] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[15Jun2025 04:04:57.451] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[15Jun2025 04:04:57.453] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15Jun2025 04:05:01.735] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[15Jun2025 04:05:01.878] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[15Jun2025 04:05:02.065] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[15Jun2025 04:05:02.073] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[15Jun2025 04:05:02.074] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[15Jun2025 04:05:02.074] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[15Jun2025 04:05:02.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[15Jun2025 04:05:02.414] [main/INFO] [journeymap/]: Initializing Packet Registries
+[15Jun2025 04:05:02.460] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[15Jun2025 04:05:02.461] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[15Jun2025 04:05:02.461] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[15Jun2025 04:05:02.461] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[15Jun2025 04:05:02.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[15Jun2025 04:05:02.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[15Jun2025 04:05:02.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[15Jun2025 04:05:02.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[15Jun2025 04:05:02.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[15Jun2025 04:05:02.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[15Jun2025 04:05:02.937] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -132,21 +126,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14Jun2025 04:35:14.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[14Jun2025 04:35:14.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
-[14Jun2025 04:35:14.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[14Jun2025 04:35:14.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
-[14Jun2025 04:35:14.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[14Jun2025 04:35:15.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
-[14Jun2025 04:35:15.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[14Jun2025 04:35:15.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.9.5
-[14Jun2025 04:35:15.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[14Jun2025 04:35:15.121] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14Jun2025 04:35:15.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[14Jun2025 04:35:15.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[14Jun2025 04:35:15.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
-[14Jun2025 04:35:15.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[14Jun2025 04:35:15.202] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[15Jun2025 04:05:02.938] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[15Jun2025 04:05:03.012] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[15Jun2025 04:05:03.038] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[15Jun2025 04:05:03.042] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[15Jun2025 04:05:03.044] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[15Jun2025 04:05:03.044] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[15Jun2025 04:05:03.045] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[15Jun2025 04:05:03.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
+[15Jun2025 04:05:03.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[15Jun2025 04:05:03.697] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Jun2025 04:05:03.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.1 Target: null
+[15Jun2025 04:05:03.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[15Jun2025 04:05:03.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
+[15Jun2025 04:05:03.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[15Jun2025 04:05:03.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.9.7
+[15Jun2025 04:05:03.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[15Jun2025 04:05:03.957] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[15Jun2025 04:05:03.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[15Jun2025 04:05:03.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
+[15Jun2025 04:05:03.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[15Jun2025 04:05:04.000] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -161,542 +161,69 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14Jun2025 04:35:15.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[14Jun2025 04:35:15.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[14Jun2025 04:35:15.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[14Jun2025 04:35:15.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.20 Target: 1.20.1-2.5.30
-[14Jun2025 04:35:15.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[14Jun2025 04:35:15.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[14Jun2025 04:35:15.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Jun2025 04:35:15.455] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
-[14Jun2025 04:35:15.456] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
-[14Jun2025 04:35:15.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[14Jun2025 04:35:15.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[14Jun2025 04:35:15.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[14Jun2025 04:35:20.006] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[14Jun2025 04:35:20.031] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[14Jun2025 04:35:20.036] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[14Jun2025 04:35:20.044] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[14Jun2025 04:35:20.071] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[14Jun2025 04:35:20.073] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[14Jun2025 04:35:20.075] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[14Jun2025 04:35:20.078] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[14Jun2025 04:35:20.081] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[14Jun2025 04:35:20.259] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2760 advancements
-[14Jun2025 04:35:20.294] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[14Jun2025 04:35:20.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[14Jun2025 04:35:20.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Jun2025 04:35:20.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Jun2025 04:35:20.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Jun2025 04:35:20.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Jun2025 04:35:20.564] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14Jun2025 04:35:20.663] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Jun2025 04:35:20.664] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Jun2025 04:35:20.664] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Jun2025 04:35:20.664] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Jun2025 04:35:20.681] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[14Jun2025 04:35:20.683] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Jun2025 04:35:20.873] [Server thread/INFO] [Framework/]: Loading server configs...
-[14Jun2025 04:35:20.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "mundomodificado"
-[14Jun2025 04:35:21.424] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[14Jun2025 04:35:21.428] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[14Jun2025 04:35:21.432] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[14Jun2025 04:35:21.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Jun2025 04:35:23.334] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jun2025 04:35:23.335] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jun2025 04:35:23.336] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jun2025 04:35:23.336] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jun2025 04:35:23.859] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2031 ms
-[14Jun2025 04:35:23.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.183s)! For help, type "help"
-[14Jun2025 04:35:23.914] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14Jun2025 04:35:23.950] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[14Jun2025 04:35:23.951] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[14Jun2025 04:35:23.961] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[14Jun2025 04:35:23.963] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[14Jun2025 04:35:23.975] [Server thread/WARN] [ModernFix/]: Dedicated server took 29.881 seconds to load
-[14Jun2025 04:35:23.976] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'zip-atmosphere.gl.at.ply.gg:4276'
-[14Jun2025 04:35:23.977] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4276
-[14Jun2025 04:35:37.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.134.208.36:38659] logged in with entity id 709 at (-873.7994276710276, 66.0, -1715.699999988079)
-[14Jun2025 04:35:37.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
-[14Jun2025 04:35:37.253] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
-[14Jun2025 04:35:37.300] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
-[14Jun2025 04:35:37.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
-[14Jun2025 04:35:38.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
-[14Jun2025 04:35:39.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
-[14Jun2025 04:35:39.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
-[14Jun2025 04:36:04.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/861, l='ServerLevel[mundomodificado]', x=-884.69, y=64.00, z=-1627.70] died, message: 'Unemployed was shot by Stymphalian Bird'
-[14Jun2025 04:36:31.241] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67ce05e2[id=<null>,name=Jast05,properties={},legacy=false] (/127.68.191.22:57587) lost connection: Disconnected
-[14Jun2025 04:36:45.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jast05[/127.68.191.22:47871] logged in with entity id 1318 at (1392.699999988079, 32.0, -709.9973699384209)
-[14Jun2025 04:36:45.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 joined the game
-[14Jun2025 04:36:45.805] [Server thread/INFO] [Jade/]: Syncing config to Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd)
-[14Jun2025 04:36:46.328] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jast05 (18)
-[14Jun2025 04:36:46.329] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jast05
-[14Jun2025 04:36:50.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
-[14Jun2025 04:36:51.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
-[14Jun2025 04:36:51.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) successfully connected to voice chat
-[14Jun2025 04:41:56.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juangl2003[/127.102.10.244:60507] logged in with entity id 2853 at (-43.5, 64.0, -1029.5)
-[14Jun2025 04:41:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 joined the game
-[14Jun2025 04:41:56.095] [Server thread/INFO] [Jade/]: Syncing config to juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27)
-[14Jun2025 04:41:56.317] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
-[14Jun2025 04:41:56.318] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
-[14Jun2025 04:41:58.004] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player faffd6a3-f798-3160-91a2-b8544c135b27
-[14Jun2025 04:41:59.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
-[14Jun2025 04:41:59.004] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
-[14Jun2025 04:42:37.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 burned to death
-[14Jun2025 04:42:37.678] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:42:39.147] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:42:39.148] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 04:43:58.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 tried to swim in lava
-[14Jun2025 04:43:58.761] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:43:59.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepito[/127.248.27.57:38245] logged in with entity id 4282 at (-36.665982799001966, 64.5625, -1034.753298502558)
-[14Jun2025 04:43:59.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito joined the game
-[14Jun2025 04:43:59.896] [Server thread/INFO] [Jade/]: Syncing config to Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8)
-[14Jun2025 04:44:00.017] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pepito (18)
-[14Jun2025 04:44:00.018] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pepito
-[14Jun2025 04:44:00.091] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:44:00.091] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 04:44:02.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
-[14Jun2025 04:44:03.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
-[14Jun2025 04:44:03.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
-[14Jun2025 04:44:15.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was blown up by Creeper
-[14Jun2025 04:44:15.835] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 04:44:17.735] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:44:17.736] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 04:45:43.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 04:45:43.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Distant Dreamer]
-[14Jun2025 04:45:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
-[14Jun2025 04:45:50.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Distant Dreamer]
-[14Jun2025 04:45:55.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was doomed to fall by Mpalabra
-[14Jun2025 04:45:55.756] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:46:02.383] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:46:02.384] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:46:11.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
-[14Jun2025 04:47:06.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 04:48:11.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 04:48:12.007] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:48:14.102] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:48:14.103] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:48:25.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 04:48:26.015] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:48:27.616] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:48:27.616] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 04:48:32.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Hoglin
-[14Jun2025 04:48:32.165] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:48:33.853] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:48:33.853] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 04:48:34.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 04:48:34.998] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:48:37.514] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:48:37.514] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 04:49:00.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 04:49:00.735] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:49:02.132] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:49:02.132] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:49:09.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 04:49:09.806] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:49:11.468] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:49:11.468] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 04:49:16.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 04:49:16.806] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:49:18.375] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:49:18.376] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:49:36.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 04:49:36.825] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:49:38.262] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:49:38.263] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:49:43.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 04:49:43.907] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:49:45.068] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:49:45.068] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:49:45.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Piglin
-[14Jun2025 04:49:45.495] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:49:46.822] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:49:46.822] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 04:49:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 04:49:53.799] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:49:55.209] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:49:55.210] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 04:50:13.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 tried to swim in lava to escape Piglin
-[14Jun2025 04:50:13.510] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:50:14.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
-[14Jun2025 04:50:14.762] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:50:14.762] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:51:14.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 04:51:14.104] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 04:51:15.667] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:51:15.667] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 04:51:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 04:51:57.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 tried to swim in lava
-[14Jun2025 04:51:57.706] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:51:58.799] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:51:58.800] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:52:10.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 04:52:10.161] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 04:52:11.415] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:52:11.415] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:52:16.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 04:52:26.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 burned to death
-[14Jun2025 04:52:26.204] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:52:27.342] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:52:27.343] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 04:53:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Ol' Betsy]
-[14Jun2025 04:55:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Herc was on a Roll!]
-[14Jun2025 04:55:30.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was blown up by Creeper
-[14Jun2025 04:55:30.257] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 04:55:31.666] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:55:31.667] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:55:36.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 04:55:42.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 burned to death
-[14Jun2025 04:55:42.756] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:55:43.852] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:55:43.853] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 04:56:11.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Cover Me with Diamonds]
-[14Jun2025 04:57:14.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 tried to swim in lava
-[14Jun2025 04:57:14.102] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:57:15.392] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:57:15.393] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 04:57:16.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Not Today, Thank You]
-[14Jun2025 04:57:34.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Herc was on a Roll!]
-[14Jun2025 04:57:35.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was blown up by Creeper
-[14Jun2025 04:57:35.062] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 04:57:37.014] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:57:37.014] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:57:57.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Cover Me with Diamonds]
-[14Jun2025 04:58:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 burned to death
-[14Jun2025 04:58:53.000] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 04:58:54.164] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 04:58:54.165] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 04:59:49.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
-[14Jun2025 04:59:59.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Cover Me with Diamonds]
-[14Jun2025 05:00:17.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Diamonds!]
-[14Jun2025 05:01:10.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:04:07.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported Jast05 to juangl2003]
-[14Jun2025 05:04:08.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Distant Dreamer]
-[14Jun2025 05:05:31.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:05:31.093] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:05:32.919] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:05:32.919] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:05:38.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:06:18.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Ashes 'n Bones]
-[14Jun2025 05:06:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:06:49.294] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:06:50.872] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:06:50.873] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:06:55.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:08:09.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:08:09.995] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:08:11.155] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:08:11.156] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:08:15.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:08:35.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was doomed to fall by Skeleton
-[14Jun2025 05:08:35.292] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 05:08:38.441] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:08:38.441] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:09:20.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:09:42.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
-[14Jun2025 05:09:47.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:09:47.393] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_14.06.2025-05.09.47.dat
-[14Jun2025 05:09:47.395] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -905 Y: 181 Z: -1827
-[14Jun2025 05:09:47.403] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:09:48.896] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:09:48.896] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:10:30.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:10:30.305] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:10:31.714] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:10:31.715] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:10:35.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:12:59.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 froze to death
-[14Jun2025 05:12:59.894] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 05:13:01.520] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:13:01.520] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:13:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
-[14Jun2025 05:13:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:13:45.397] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:13:46.815] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:13:46.816] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:13:51.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:15:54.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was burnt to a crisp whilst fighting Wither Skeleton
-[14Jun2025 05:15:54.492] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:15:55.721] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:15:55.722] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:16:01.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [A Fast Comeback]
-[14Jun2025 05:16:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:16:16.552] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:16:17.956] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:16:17.957] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:17:09.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:17:09.398] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:17:10.767] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:17:10.768] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:17:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 05:17:29.157] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 05:17:30.940] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:17:30.940] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:17:38.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has reached the goal [A Fast Comeback]
-[14Jun2025 05:17:52.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was doomed to fall by Skeleton
-[14Jun2025 05:17:52.143] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 05:17:54.666] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:17:54.666] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:18:20.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
-[14Jun2025 05:18:48.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was shot by Wither Skeleton
-[14Jun2025 05:18:48.444] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_14.06.2025-05.18.48.dat
-[14Jun2025 05:18:48.445] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -970 Y: 222 Z: -1764
-[14Jun2025 05:18:48.446] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:18:49.794] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:18:49.794] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:19:06.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 drowned whilst trying to escape Wither Skeleton
-[14Jun2025 05:19:06.901] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 05:19:08.305] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:19:08.305] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:19:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Magic Writing]
-[14Jun2025 05:19:58.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was shot by Wither Skeleton
-[14Jun2025 05:19:58.497] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:20:00.445] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:20:00.445] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:20:28.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
-[14Jun2025 05:20:37.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Zombie
-[14Jun2025 05:20:37.593] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:20:38.789] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:20:38.790] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:21:23.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
-[14Jun2025 05:21:23.701] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
-[14Jun2025 05:21:25.398] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:21:25.398] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:21:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was shot by Wither Skeleton
-[14Jun2025 05:21:35.096] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:21:36.258] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:21:36.258] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:22:16.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
-[14Jun2025 05:22:58.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
-[14Jun2025 05:22:58.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
-[14Jun2025 05:22:58.952] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
-[14Jun2025 05:25:58.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:26:22.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was burnt to a crisp whilst fighting Wither Skeleton
-[14Jun2025 05:26:22.944] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_14.06.2025-05.26.22.dat
-[14Jun2025 05:26:22.944] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -892 Y: 223 Z: -1772
-[14Jun2025 05:26:22.945] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:26:24.154] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:26:24.154] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:26:33.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:26:33.848] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:26:35.307] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:26:35.308] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:28:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:28:58.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was burnt to a crisp whilst fighting Wither Skeleton
-[14Jun2025 05:28:58.243] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_14.06.2025-05.28.58.dat
-[14Jun2025 05:28:58.244] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -920 Y: 223 Z: -1754
-[14Jun2025 05:28:58.245] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:28:59.440] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:28:59.440] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:30:50.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:31:28.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Mutual Aid]
-[14Jun2025 05:31:28.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Death Will Not Be Enough]
-[14Jun2025 05:32:11.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Not even afraid of death]
-[14Jun2025 05:32:11.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Back to childhood]
-[14Jun2025 05:32:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [I slipped]
-[14Jun2025 05:33:47.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:33:47.890] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_14.06.2025-05.33.47.dat
-[14Jun2025 05:33:47.891] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -965 Y: 104 Z: -1832
-[14Jun2025 05:33:47.893] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:33:49.312] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:33:49.312] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:34:19.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:34:19.347] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:34:21.505] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:34:21.505] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:34:29.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:34:29.692] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:34:31.025] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:34:31.025] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:34:48.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:34:48.692] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:34:50.245] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:34:50.245] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:35:10.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:35:10.644] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:35:11.918] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:35:11.919] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:35:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:35:31.452] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:35:32.654] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:35:32.654] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:35:40.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:35:40.590] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:35:43.099] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:35:43.099] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:36:41.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was slain by Skeleton
-[14Jun2025 05:36:41.552] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
-[14Jun2025 05:36:43.545] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:36:43.545] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:36:50.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was slain by Skeleton
-[14Jun2025 05:36:50.799] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
-[14Jun2025 05:36:52.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:36:52.647] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:36:53.219] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:36:53.219] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:36:53.971] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:36:53.973] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:37:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:37:04.807] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:37:06.097] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:37:06.097] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:37:10.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was slain by Skeleton
-[14Jun2025 05:37:10.849] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
-[14Jun2025 05:37:12.220] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:37:12.220] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:37:15.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:37:16.001] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:37:17.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:37:17.197] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:37:17.407] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:37:17.408] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:37:18.392] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:37:18.393] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:37:25.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was slain by Skeleton
-[14Jun2025 05:37:25.800] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
-[14Jun2025 05:37:26.871] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:37:26.871] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:37:29.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:37:29.748] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:37:30.920] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:37:30.920] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:37:43.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was slain by Skeleton
-[14Jun2025 05:37:43.753] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
-[14Jun2025 05:37:46.047] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:37:46.048] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:37:49.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:37:49.450] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:37:50.858] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:37:50.858] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:38:31.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:38:31.748] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:38:33.096] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:38:33.096] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:38:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:39:38.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:39:38.050] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:39:39.273] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:39:39.274] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:40:07.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:40:07.795] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:40:09.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:40:09.319] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:40:14.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:41:03.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:41:03.243] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:41:04.459] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:41:04.460] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:41:24.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:41:24.746] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:41:26.191] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:41:26.191] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:41:32.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:41:32.842] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:41:33.992] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:41:33.993] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:42:09.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:42:09.998] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:42:11.425] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:42:11.425] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:42:56.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:42:56.180] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:42:57.674] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:42:57.675] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:43:02.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:43:25.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
-[14Jun2025 05:44:12.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:44:12.198] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:44:13.604] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:44:13.604] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:44:37.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:44:37.746] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:44:39.466] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:44:39.466] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:44:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:44:46.748] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:44:49.132] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:44:49.133] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:44:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:45:30.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:45:30.900] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:45:32.268] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:45:32.269] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:45:57.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:45:57.406] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:45:58.505] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:45:58.505] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:46:01.054] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra
-[14Jun2025 05:46:02.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:46:02.451] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:46:03.717] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:46:03.717] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:46:09.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:46:09.648] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:46:10.971] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:46:10.972] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:46:18.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
-[14Jun2025 05:46:18.042] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:46:19.255] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:46:19.255] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:46:23.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
-[14Jun2025 05:46:45.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:46:45.045] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:46:46.266] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:46:46.267] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:47:01.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Pepito]
-[14Jun2025 05:47:03.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito fell from a high place
-[14Jun2025 05:47:03.378] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
-[14Jun2025 05:47:05.330] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:47:05.330] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[14Jun2025 05:47:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:47:08.360] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:47:09.616] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:47:09.616] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:47:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:47:25.396] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:47:26.596] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:47:26.597] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:49:06.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:49:06.707] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:49:08.362] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:49:08.362] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:49:12.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:49:12.823] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:49:14.243] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:49:14.244] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[14Jun2025 05:49:39.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
-[14Jun2025 05:49:39.397] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
-[14Jun2025 05:49:40.800] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[14Jun2025 05:49:40.800] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[14Jun2025 05:49:52.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Pepito]
-[14Jun2025 05:50:41.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
-[14Jun2025 05:51:23.507] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra
-[14Jun2025 05:52:02.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Disconnected
-[14Jun2025 05:52:02.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
-[14Jun2025 05:52:02.848] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
-[14Jun2025 05:52:10.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
-[14Jun2025 05:52:10.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
-[14Jun2025 05:52:10.993] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
-[14Jun2025 06:05:56.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Enchanter]
-[14Jun2025 06:24:40.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Gave 1 [Chance Heart] to Mpalabra]
-[14Jun2025 06:25:48.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Gave 2 [Enchanted Heart] to Mpalabra]
-[14Jun2025 06:32:54.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
-[14Jun2025 06:32:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
-[14Jun2025 06:32:54.585] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
-[14Jun2025 06:33:10.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[14Jun2025 06:33:10.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[14Jun2025 06:33:10.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[14Jun2025 06:33:10.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:overworld
-[14Jun2025 06:33:10.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_end
-[14Jun2025 06:33:10.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/deeperdarker:otherside
-[14Jun2025 06:33:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_nether
-[14Jun2025 06:33:10.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/twilightforest:twilight_forest
-[14Jun2025 06:33:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mundomodificado): All chunks are saved
-[14Jun2025 06:33:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14Jun2025 06:33:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[14Jun2025 06:33:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14Jun2025 06:33:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[14Jun2025 06:33:10.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14Jun2025 06:33:10.249] [Server thread/INFO] [Framework/]: Unloading server configs...
-[14Jun2025 06:33:10.250] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[14Jun2025 06:33:10.253] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Jun2025 04:05:04.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[15Jun2025 04:05:04.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[15Jun2025 04:05:04.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[15Jun2025 04:05:04.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.20 Target: 1.20.1-2.5.30
+[15Jun2025 04:05:04.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[15Jun2025 04:05:04.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[15Jun2025 04:05:04.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Jun2025 04:05:04.245] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[15Jun2025 04:05:04.246] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[15Jun2025 04:05:04.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[15Jun2025 04:05:04.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[15Jun2025 04:05:04.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[15Jun2025 04:05:10.581] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[15Jun2025 04:05:10.622] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[15Jun2025 04:05:10.627] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[15Jun2025 04:05:10.639] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[15Jun2025 04:05:10.676] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[15Jun2025 04:05:10.678] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[15Jun2025 04:05:10.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[15Jun2025 04:05:10.683] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[15Jun2025 04:05:10.688] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[15Jun2025 04:05:10.865] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2760 advancements
+[15Jun2025 04:05:10.905] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[15Jun2025 04:05:11.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15Jun2025 04:05:11.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Jun2025 04:05:11.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Jun2025 04:05:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Jun2025 04:05:11.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Jun2025 04:05:11.265] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Jun2025 04:05:11.372] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Jun2025 04:05:11.373] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Jun2025 04:05:11.373] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Jun2025 04:05:11.374] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Jun2025 04:05:11.419] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[15Jun2025 04:05:11.424] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Jun2025 04:05:11.579] [Server thread/INFO] [Framework/]: Loading server configs...
+[15Jun2025 04:05:11.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "mundomodificado"
+[15Jun2025 04:05:12.348] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[15Jun2025 04:05:12.352] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[15Jun2025 04:05:12.357] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[15Jun2025 04:05:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Jun2025 04:05:15.178] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 04:05:15.228] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 04:05:15.272] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 04:05:15.272] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 04:05:15.273] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 04:05:15.423] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jun2025 04:05:16.042] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3120 ms
+[15Jun2025 04:05:16.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.641s)! For help, type "help"
+[15Jun2025 04:05:16.102] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Jun2025 04:05:16.157] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[15Jun2025 04:05:16.158] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[15Jun2025 04:05:16.169] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[15Jun2025 04:05:16.172] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[15Jun2025 04:05:16.184] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'zip-atmosphere.gl.at.ply.gg:4276'
+[15Jun2025 04:05:16.185] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4276
+[15Jun2025 04:05:16.187] [Server thread/WARN] [ModernFix/]: Dedicated server took 38.673 seconds to load
+[15Jun2025 04:07:47.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.134.208.36:50289] logged in with entity id 705 at (-41.64425076900377, 64.0, -1014.0178450100551)
+[15Jun2025 04:07:47.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
+[15Jun2025 04:07:47.244] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
+[15Jun2025 04:07:48.996] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
+[15Jun2025 04:07:48.998] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[15Jun2025 04:07:52.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[15Jun2025 04:07:53.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[15Jun2025 04:07:53.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
+[15Jun2025 04:12:45.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Rotten to the Core]
