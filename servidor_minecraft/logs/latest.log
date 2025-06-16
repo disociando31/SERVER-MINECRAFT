@@ -242,3 +242,104 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 03:25:25.351] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
 [16Jun2025 03:25:26.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
 [16Jun2025 03:25:26.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
+[16Jun2025 03:29:11.916] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at -2189 14 1573 in 0s
+[16Jun2025 03:29:17.547] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5afd5246[id=<null>,name=Jast05,properties={},legacy=false] (/127.68.191.22:54809) lost connection: Disconnected
+[16Jun2025 03:29:39.191] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1afd7db2[id=<null>,name=Jast05,properties={},legacy=false] (/127.68.191.22:33007) lost connection: Disconnected
+[16Jun2025 03:29:51.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jast05[/127.68.191.22:35633] logged in with entity id 1622 at (-44.73282897601595, 64.0, -1029.7733123743287)
+[16Jun2025 03:29:51.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 joined the game
+[16Jun2025 03:29:51.797] [Server thread/INFO] [Jade/]: Syncing config to Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd)
+[16Jun2025 03:29:56.374] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jast05 (18)
+[16Jun2025 03:29:56.375] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jast05
+[16Jun2025 03:30:07.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[16Jun2025 03:30:08.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[16Jun2025 03:30:08.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) successfully connected to voice chat
+[16Jun2025 03:31:41.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[16Jun2025 03:31:42.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[16Jun2025 03:31:51.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[16Jun2025 03:32:19.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[16Jun2025 03:32:20.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[16Jun2025 03:32:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:21.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:22.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[16Jun2025 03:32:23.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:24.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:25.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:25.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:26.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:27.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:28.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:29.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zz
+[16Jun2025 03:32:29.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zz
+[16Jun2025 03:32:30.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:31.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:32.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:32.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zz
+[16Jun2025 03:32:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> z
+[16Jun2025 03:32:34.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:34.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:36.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:36.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:38.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:38.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:40.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:32:43.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zz
+[16Jun2025 03:32:43.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> z
+[16Jun2025 03:32:44.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zz
+[16Jun2025 03:32:55.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:55.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:55.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:55.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:55.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:56.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:57.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:57.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:57.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:57.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:57.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:58.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:58.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:58.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:59.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:59.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:59.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:59.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:32:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:33:00.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jast05> z
+[16Jun2025 03:33:10.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[16Jun2025 03:33:11.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[16Jun2025 03:33:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:12.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:13.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:14.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:14.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:15.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:16.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:16.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:17.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:18.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:19.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> zZZZzzzzZZZzzzz
+[16Jun2025 03:33:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzz
+[16Jun2025 03:33:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzzz
+[16Jun2025 03:33:25.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzz
+[16Jun2025 03:35:08.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[16Jun2025 03:38:48.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3451, l='ServerLevel[mundomodificado]', x=-302.31, y=31.00, z=-381.70] died, message: 'Unemployed was slain by Zombie'
+[16Jun2025 03:41:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Would you Like to Know More?]
+[16Jun2025 03:44:53.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito fell from a high place
+[16Jun2025 03:44:53.346] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[16Jun2025 03:44:56.474] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 03:44:56.474] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jun2025 03:47:55.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Iron Golem
+[16Jun2025 03:47:55.814] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_16.06.2025-03.47.55.dat
+[16Jun2025 03:47:55.816] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -373 Y: 63 Z: -377
+[16Jun2025 03:47:55.832] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[16Jun2025 03:47:57.326] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 03:47:57.327] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jun2025 03:51:01.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzzz
