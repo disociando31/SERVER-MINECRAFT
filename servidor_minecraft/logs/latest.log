@@ -516,3 +516,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 05:11:12.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
 [16Jun2025 05:11:12.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
 [16Jun2025 05:11:12.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
+[16Jun2025 05:19:16.998] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Jast05})
+[16Jun2025 05:22:36.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Set own game mode to Spectator Mode]
+[16Jun2025 05:23:37.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Set own game mode to Survival Mode]
+[16Jun2025 05:29:25.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-376, y=64, z=-357} BlockPos{x=-375, y=62, z=-357}
+[16Jun2025 05:29:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[16Jun2025 05:30:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[16Jun2025 05:31:54.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[16Jun2025 05:31:54.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[16Jun2025 05:31:54.493] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[16Jun2025 05:36:56.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Disconnected
+[16Jun2025 05:36:56.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
+[16Jun2025 05:36:56.892] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
+[16Jun2025 05:37:00.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jun2025 05:37:00.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jun2025 05:37:00.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jun2025 05:37:00.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:overworld
+[16Jun2025 05:37:00.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/deeperdarker:otherside
+[16Jun2025 05:37:00.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_nether
+[16Jun2025 05:37:00.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/twilightforest:twilight_forest
+[16Jun2025 05:37:00.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_end
+[16Jun2025 05:37:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mundomodificado): All chunks are saved
+[16Jun2025 05:37:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16Jun2025 05:37:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jun2025 05:37:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16Jun2025 05:37:00.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jun2025 05:37:00.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Jun2025 05:37:00.876] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16Jun2025 05:37:00.877] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[16Jun2025 05:37:00.879] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
