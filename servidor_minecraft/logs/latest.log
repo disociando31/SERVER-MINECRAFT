@@ -510,3 +510,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 05:07:14.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
 [16Jun2025 05:07:15.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
 [16Jun2025 05:07:15.118] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
+[16Jun2025 05:09:16.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[16Jun2025 05:09:16.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[16Jun2025 05:09:16.057] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[16Jun2025 05:11:12.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[16Jun2025 05:11:12.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[16Jun2025 05:11:12.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
