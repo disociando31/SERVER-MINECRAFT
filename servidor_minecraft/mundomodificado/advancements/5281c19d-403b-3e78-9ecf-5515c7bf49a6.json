@@ -971,6 +971,7 @@
       "minecraft:creeper": "2025-06-07 02:08:07 +0000",
       "minecraft:slime": "2025-06-14 04:49:42 +0000",
       "minecraft:phantom": "2025-06-07 04:58:27 +0000",
+      "minecraft:zombified_piglin": "2025-06-16 04:32:32 +0000",
       "minecraft:wither_skeleton": "2025-06-14 05:11:37 +0000",
       "minecraft:cave_spider": "2025-06-07 01:01:33 +0000",
       "minecraft:enderman": "2025-06-07 01:41:02 +0000",
@@ -3993,6 +3994,36 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-06-15 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-16 04:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-06-16 04:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-16 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-16 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-16 04:29:15 +0000"
     },
     "done": true
   },

@@ -355,3 +355,58 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 04:06:00.621] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
 [16Jun2025 04:06:02.113] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [16Jun2025 04:06:02.114] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jun2025 04:08:07.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11063, l='ServerLevel[mundomodificado]', x=-312.52, y=50.05, z=-373.50] died, message: 'Unemployed drowned'
+[16Jun2025 04:08:16.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Bone Crusher]
+[16Jun2025 04:09:36.212] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Mpalabra})
+[16Jun2025 04:18:46.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[16Jun2025 04:21:48.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
+[16Jun2025 04:21:48.119] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[16Jun2025 04:21:49.574] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 04:21:49.574] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jun2025 04:21:58.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
+[16Jun2025 04:21:58.935] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[16Jun2025 04:22:00.504] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 04:22:00.505] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jun2025 04:25:53.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[16Jun2025 04:25:53.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[16Jun2025 04:25:53.410] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[16Jun2025 04:26:34.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito moved wrongly!
+[16Jun2025 04:27:21.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[16Jun2025 04:27:27.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito moved wrongly!
+[16Jun2025 04:28:32.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Zombie
+[16Jun2025 04:28:32.350] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_16.06.2025-04.28.32.dat
+[16Jun2025 04:28:32.352] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -404 Y: 61 Z: -371
+[16Jun2025 04:28:32.394] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[16Jun2025 04:28:33.750] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 04:28:33.751] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jun2025 04:28:38.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito moved wrongly!
+[16Jun2025 04:29:47.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[16Jun2025 04:29:47.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[16Jun2025 04:29:47.610] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
+[16Jun2025 04:32:31.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepito[/127.248.27.57:52049] logged in with entity id 36337 at (-359.30000001192093, 60.0, -1459.6956655352708)
+[16Jun2025 04:32:31.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito joined the game
+[16Jun2025 04:32:31.081] [Server thread/INFO] [Jade/]: Syncing config to Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8)
+[16Jun2025 04:32:31.210] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pepito (18)
+[16Jun2025 04:32:31.211] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pepito
+[16Jun2025 04:32:31.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[16Jun2025 04:32:32.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[16Jun2025 04:32:32.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
+[16Jun2025 04:32:44.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=64, z=-357} BlockPos{x=-379, y=62, z=-355}
+[16Jun2025 04:34:39.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juangl2003[/127.102.10.244:51679] logged in with entity id 38514 at (-31.149933420272507, 64.0, -1030.5371528189437)
+[16Jun2025 04:34:39.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 joined the game
+[16Jun2025 04:34:39.995] [Server thread/INFO] [Jade/]: Syncing config to juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27)
+[16Jun2025 04:34:41.150] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
+[16Jun2025 04:34:41.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
+[16Jun2025 04:34:45.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player faffd6a3-f798-3160-91a2-b8544c135b27
+[16Jun2025 04:34:46.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
+[16Jun2025 04:34:46.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
+[16Jun2025 04:35:01.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito moved wrongly!
+[16Jun2025 04:35:17.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito moved wrongly!
+[16Jun2025 04:35:27.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito moved wrongly!
+[16Jun2025 04:35:27.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was killed by magic
+[16Jun2025 04:35:27.354] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[16Jun2025 04:35:27.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito moved wrongly!
+[16Jun2025 04:35:30.507] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 04:35:30.507] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jun2025 04:36:45.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Gave 1 [Milk Bucket] to Pepito]
+[16Jun2025 04:37:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
