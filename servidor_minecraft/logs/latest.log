@@ -236,3 +236,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 06:22:42.186] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=45, y=58, z=1100} but found not block entity block Block{minecraft:water}[level=0] at location
 [16Jun2025 06:22:42.188] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=45, y=58, z=1100}
 [16Jun2025 06:23:43.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Set own game mode to Survival Mode]
+[16Jun2025 06:27:08.641] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 3675 ms
+[16Jun2025 06:27:08.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[16Jun2025 06:27:34.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to 983.500000, 0.000000, 1281.500000]
+[16Jun2025 06:27:34.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Radiation Vibe]
+[16Jun2025 06:27:44.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Set own game mode to Spectator Mode]
+[16Jun2025 06:30:21.476] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[16Jun2025 06:30:21.477] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[16Jun2025 06:30:25.468] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[16Jun2025 06:30:25.469] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[16Jun2025 06:30:25.499] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[16Jun2025 06:31:26.848] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:abyssal_chasm took 5776 ms
+[16Jun2025 06:31:26.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5767ms or 115 ticks behind
+[16Jun2025 06:31:46.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to -1735.500000, -2.000000, -1275.500000]
+[16Jun2025 06:31:46.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
+[16Jun2025 06:31:46.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Beyond the Sea]
+[16Jun2025 06:34:34.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Shell City]
+[16Jun2025 06:36:58.797] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:magnetic_caves took 4486 ms
+[16Jun2025 06:36:58.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4466ms or 89 ticks behind

@@ -3324,3 +3324,86 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 06:24:27.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_spawner_0
 [16Jun2025 06:24:27.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
 [16Jun2025 06:24:27.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[16Jun2025 06:27:08.641] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 3675 ms
+[16Jun2025 06:27:08.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[16Jun2025 06:27:26.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[16Jun2025 06:27:26.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[16Jun2025 06:27:33.764] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_11 is being run through DFU (hash 07774ed7c65a43e4f0dc06ace45dffa8a7d3d2cefa527668762dcaa408d52698), this will cause launch time delays
+[16Jun2025 06:27:34.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to 983.500000, 0.000000, 1281.500000]
+[16Jun2025 06:27:34.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Radiation Vibe]
+[16Jun2025 06:27:34.656] [Worker-Main-3/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_10 is being run through DFU (hash 84ec623b973238115e393ae0890b6f142519debd488c41f5718ffec4f914ddeb), this will cause launch time delays
+[16Jun2025 06:27:35.721] [Worker-Main-3/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_8 is being run through DFU (hash 6632ecebccf60d8d638fbd13152c83bb53bacb154d33e8ef665cd17db122f497), this will cause launch time delays
+[16Jun2025 06:27:36.473] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_4 is being run through DFU (hash 6fefb53d385f8b325ca8762da5268d7313db81a1abb608a4288410dd11f6af23), this will cause launch time delays
+[16Jun2025 06:27:36.493] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[16Jun2025 06:27:36.509] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[16Jun2025 06:27:36.520] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[16Jun2025 06:27:37.260] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_7 is being run through DFU (hash 90275fd55e2becb0f897c72ff40bb853e55b275449e20a9ce0a841d9a4bdaa31), this will cause launch time delays
+[16Jun2025 06:27:37.575] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_9 is being run through DFU (hash 7d1d8d3e7497c1017234745b03a7d5b9fc0624076feaff7a36c3b160e0e9e650), this will cause launch time delays
+[16Jun2025 06:27:37.611] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_2 is being run through DFU (hash 3719ec6fd67641e3f2ca31e0741ab7626e3129caeee740e91c32eb6c150625ca), this will cause launch time delays
+[16Jun2025 06:27:39.735] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[16Jun2025 06:27:42.081] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_6 is being run through DFU (hash 50f12c7b4093b127df7bb00a26b2a8ba4a8b9cdc63d610ebb07518f8f6f31f8c), this will cause launch time delays
+[16Jun2025 06:27:43.488] [Worker-Main-3/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_1 is being run through DFU (hash 8ac6538d173a17d0a80b37133fcb17e389d63163ccffbcbee5887b87c31f2e62), this will cause launch time delays
+[16Jun2025 06:27:44.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Set own game mode to Spectator Mode]
+[16Jun2025 06:27:48.648] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_5 is being run through DFU (hash b7a316c6c2d948e115fcd28abe20d991a9f97cb9153390402b2d35746afbb3da), this will cause launch time delays
+[16Jun2025 06:27:52.180] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_3 is being run through DFU (hash daab2f2272e9667fcfa3a6e8dcb750002303e7a4b325778c2b546ef222e1d979), this will cause launch time delays
+[16Jun2025 06:28:04.045] [Worker-Main-3/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_0 is being run through DFU (hash e1a904a1cd9c7c6658b1c67d6cbd765acb7a5e081d03082d12803e73d2ca991a), this will cause launch time delays
+[16Jun2025 06:28:11.198] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[16Jun2025 06:28:11.204] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[16Jun2025 06:28:11.212] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[16Jun2025 06:28:11.221] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[16Jun2025 06:28:11.230] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[16Jun2025 06:28:11.240] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[16Jun2025 06:28:11.253] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[16Jun2025 06:28:11.266] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[16Jun2025 06:28:11.339] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[16Jun2025 06:28:11.356] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[16Jun2025 06:28:37.221] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[16Jun2025 06:30:21.476] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[16Jun2025 06:30:21.477] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[16Jun2025 06:30:25.468] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[16Jun2025 06:30:25.469] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[16Jun2025 06:30:25.499] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[16Jun2025 06:30:35.926] [Worker-Main-2/DEBUG] [ModernFix/]: Structure iceandfire:village/snowy_scriber_1 is being run through DFU (hash e3063e0cd6ec61e0a0ad4b65cfe074f41407e540188719c8d2fd5f4bb6f1b0ac), this will cause launch time delays
+[16Jun2025 06:31:26.848] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:abyssal_chasm took 5776 ms
+[16Jun2025 06:31:26.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5767ms or 115 ticks behind
+[16Jun2025 06:31:44.073] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:abyssal_ruins_0
+[16Jun2025 06:31:44.111] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_1 is being run through DFU (hash d1f776f1e47613d0d2f150ddb53693548859d3ad87c74a97a019bd4d775f1fb2), this will cause launch time delays
+[16Jun2025 06:31:44.120] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_2 is being run through DFU (hash a065931b223ae535149a44ab4e3db455be860fdbe3a3e47acc2e1db87b459ef8), this will cause launch time delays
+[16Jun2025 06:31:44.241] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:abyssal_ruins_3
+[16Jun2025 06:31:46.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to -1735.500000, -2.000000, -1275.500000]
+[16Jun2025 06:31:46.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
+[16Jun2025 06:31:46.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Beyond the Sea]
+[16Jun2025 06:32:08.704] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_1 is being run through DFU (hash e312aeb0d43b6cfe2743b69a481b155b9edcedae4cb67695a8f5198d039538d9), this will cause launch time delays
+[16Jun2025 06:32:28.338] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_2 is being run through DFU (hash 1d1ee602572333460956864a92b2f53f393c1c323bb6e773dadaef07d1fa0a82), this will cause launch time delays
+[16Jun2025 06:32:34.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[16Jun2025 06:32:34.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[16Jun2025 06:32:46.894] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[16Jun2025 06:32:46.934] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[16Jun2025 06:32:46.963] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[16Jun2025 06:32:46.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[16Jun2025 06:32:47.003] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[16Jun2025 06:32:47.056] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[16Jun2025 06:32:47.123] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[16Jun2025 06:32:47.130] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[16Jun2025 06:32:47.175] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[16Jun2025 06:32:47.208] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[16Jun2025 06:32:47.229] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[16Jun2025 06:32:47.232] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[16Jun2025 06:32:47.233] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[16Jun2025 06:32:47.233] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[16Jun2025 06:32:51.931] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_3 is being run through DFU (hash 83bd2c96c1756bbd206b05133ee0a8ca84526c06513d4c358a39db82852b9d94), this will cause launch time delays
+[16Jun2025 06:32:52.393] [Worker-Main-3/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_0 is being run through DFU (hash 04e5babb3b7b40c100ba982a0bef9200379bae3e0d962006e07dd308de6736e1), this will cause launch time delays
+[16Jun2025 06:32:59.704] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_skull_1 is being run through DFU (hash 33e1717980d67c88bcef4f90f82de4f1246c1d597f38712fa710f32c902994dc), this will cause launch time delays
+[16Jun2025 06:32:59.708] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_1 is being run through DFU (hash 666a7f51a7d39edc6d18a9cb7ab131bb03bb3d3cb8330c0e26baf82ee712fcb3), this will cause launch time delays
+[16Jun2025 06:32:59.713] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_1 is being run through DFU (hash c6cd90bd7c906c34f725d1ef672a34abb218f7d35262c00177e2fa482c3c3540), this will cause launch time delays
+[16Jun2025 06:32:59.863] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_0 is being run through DFU (hash b319dfbdc567d87adb21d54e8609603b4e9e9933f411d144e54a9efec77b074c), this will cause launch time delays
+[16Jun2025 06:32:59.866] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_0 is being run through DFU (hash ffe9edd5718c8bd1c78e0e860f2b33e3a00fb95086d16924f6042fd84194707b), this will cause launch time delays
+[16Jun2025 06:33:06.385] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_3 is being run through DFU (hash 54ad9e7dc3553fcd52df470ed7430cbb23da9537d10fb568a7de530495a30ba5), this will cause launch time delays
+[16Jun2025 06:33:06.387] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_2 is being run through DFU (hash 5a8d22a48837fea81fea3ec99071babaf80711d832d0127650e9e4f9ed6f70f2), this will cause launch time delays
+[16Jun2025 06:33:06.950] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_skull_2 is being run through DFU (hash 03b257e4edd3784c01d1e1288ddc7dc7bd284817cbc197519599c1d13e8057b1), this will cause launch time delays
+[16Jun2025 06:33:06.952] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_3 is being run through DFU (hash 4e928cb83afddb6a04dec38dfeb36e0a0f378c2e33e47f622725e9082b00b3fb), this will cause launch time delays
+[16Jun2025 06:34:07.638] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_skull_0 is being run through DFU (hash 1253ebb7a0107689368651eb71cf927c41bdec76a7b890fb2dad646896751dd3), this will cause launch time delays
+[16Jun2025 06:34:07.640] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_2 is being run through DFU (hash d627487fc7e9e68e95a15507465f1ae595895f56afcc16a1f2d4905d12c57f4e), this will cause launch time delays
+[16Jun2025 06:34:34.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Shell City]
+[16Jun2025 06:36:58.797] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:magnetic_caves took 4486 ms
+[16Jun2025 06:36:58.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4466ms or 89 ticks behind
