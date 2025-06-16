@@ -410,3 +410,103 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 04:35:30.507] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [16Jun2025 04:36:45.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Gave 1 [Milk Bucket] to Pepito]
 [16Jun2025 04:37:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[16Jun2025 04:41:31.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [What a Deal!]
+[16Jun2025 04:45:22.450] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/41055, l='ServerLevel[mundomodificado]', x=-308.80, y=65.50, z=-335.32] died, message: 'Farmer was slain by Zombie'
+[16Jun2025 04:47:21.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Zombie
+[16Jun2025 04:47:21.302] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_16.06.2025-04.47.21.dat
+[16Jun2025 04:47:21.303] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -404 Y: 61 Z: -375
+[16Jun2025 04:47:21.336] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[16Jun2025 04:47:22.425] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 04:47:22.426] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jun2025 04:47:25.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/41458, l='ServerLevel[mundomodificado]', x=-403.83, y=60.90, z=-370.88] died, message: 'Unemployed was slain by Zombie'
+[16Jun2025 04:47:25.593] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/41098, l='ServerLevel[mundomodificado]', x=-404.04, y=61.00, z=-374.50] died, message: 'Mason was slain by Zombie'
+[16Jun2025 04:47:29.747] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[16Jun2025 04:47:49.452] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/41099, l='ServerLevel[mundomodificado]', x=-401.92, y=61.00, z=-374.99] died, message: 'Unemployed was blown up by Creeper'
+[16Jun2025 04:47:49.452] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/41100, l='ServerLevel[mundomodificado]', x=-401.30, y=61.00, z=-374.67] died, message: 'Mason was blown up by Creeper'
+[16Jun2025 04:47:49.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/41075, l='ServerLevel[mundomodificado]', x=-401.30, y=61.00, z=-375.70] died, message: 'Unemployed was blown up by Creeper'
+[16Jun2025 04:49:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Hot Stuff]
+[16Jun2025 04:49:27.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[16Jun2025 04:51:21.872] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[16Jun2025 04:51:21.874] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[16Jun2025 04:51:21.874] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[16Jun2025 04:51:21.874] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[16Jun2025 04:51:21.874] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[16Jun2025 04:51:21.880] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[16Jun2025 04:51:21.880] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[16Jun2025 04:51:21.893] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[16Jun2025 04:51:21.893] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[16Jun2025 04:51:58.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[16Jun2025 04:52:33.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[16Jun2025 04:52:53.701] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[16Jun2025 04:52:53.702] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[16Jun2025 04:52:53.703] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[16Jun2025 04:52:53.735] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[16Jun2025 04:52:53.735] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[16Jun2025 04:52:53.736] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[16Jun2025 04:52:53.736] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[16Jun2025 04:52:53.737] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[16Jun2025 04:53:29.994] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[16Jun2025 04:53:29.995] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[16Jun2025 04:53:29.996] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[16Jun2025 04:53:29.996] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[16Jun2025 04:53:29.998] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[16Jun2025 04:53:29.999] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[16Jun2025 04:53:30.000] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[16Jun2025 04:53:30.039] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[16Jun2025 04:53:30.040] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[16Jun2025 04:53:30.040] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[16Jun2025 04:53:30.040] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[16Jun2025 04:53:30.041] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[16Jun2025 04:53:37.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Sea? Not a Problem]
+[16Jun2025 04:55:09.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[16Jun2025 04:57:54.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[16Jun2025 04:58:54.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[16Jun2025 05:02:43.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Tie me to the Mast]
+[16Jun2025 05:03:15.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1815, y=53, z=1039} BlockPos{x=-1815, y=54, z=1039}
+[16Jun2025 05:03:43.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8 timed out
+[16Jun2025 05:03:43.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Pepito
+[16Jun2025 05:03:43.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Pepito
+[16Jun2025 05:03:43.795] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6a30e12c-3f4e-3787-aaa0-89876eacaebd timed out
+[16Jun2025 05:03:43.795] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jast05
+[16Jun2025 05:03:43.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jast05
+[16Jun2025 05:03:43.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player faffd6a3-f798-3160-91a2-b8544c135b27 timed out
+[16Jun2025 05:03:43.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player juangl2003
+[16Jun2025 05:03:43.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
+[16Jun2025 05:03:43.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5281c19d-403b-3e78-9ecf-5515c7bf49a6 timed out
+[16Jun2025 05:03:43.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mpalabra
+[16Jun2025 05:03:43.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[16Jun2025 05:03:44.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[16Jun2025 05:03:45.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[16Jun2025 05:03:45.065] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
+[16Jun2025 05:03:45.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player faffd6a3-f798-3160-91a2-b8544c135b27
+[16Jun2025 05:03:46.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
+[16Jun2025 05:03:46.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
+[16Jun2025 05:03:46.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[16Jun2025 05:03:46.888] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[16Jun2025 05:03:47.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[16Jun2025 05:03:47.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) successfully connected to voice chat
+[16Jun2025 05:03:47.888] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[16Jun2025 05:03:47.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
+[16Jun2025 05:04:17.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Disconnected
+[16Jun2025 05:04:17.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
+[16Jun2025 05:04:17.555] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
+[16Jun2025 05:05:05.508] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67643d78[id=<null>,name=Jast05,properties={},legacy=false] (/127.68.191.22:40791) lost connection: Disconnected
+[16Jun2025 05:05:09.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jast05[/127.68.191.22:52013] logged in with entity id 60902 at (-375.5, 63.5625, -363.5)
+[16Jun2025 05:05:09.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 joined the game
+[16Jun2025 05:05:09.127] [Server thread/INFO] [Jade/]: Syncing config to Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd)
+[16Jun2025 05:05:09.777] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jast05 (18)
+[16Jun2025 05:05:09.777] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jast05
+[16Jun2025 05:05:13.686] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[16Jun2025 05:05:14.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[16Jun2025 05:05:14.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) successfully connected to voice chat
+[16Jun2025 05:06:56.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[16Jun2025 05:06:56.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[16Jun2025 05:06:56.855] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[16Jun2025 05:07:12.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.134.208.36:59199] logged in with entity id 63079 at (-2133.60590684453, 63.0, 1430.110643759092)
+[16Jun2025 05:07:12.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
+[16Jun2025 05:07:12.681] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
+[16Jun2025 05:07:13.072] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
+[16Jun2025 05:07:13.073] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[16Jun2025 05:07:14.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[16Jun2025 05:07:15.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[16Jun2025 05:07:15.118] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
