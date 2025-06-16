@@ -254,3 +254,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 06:34:34.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Shell City]
 [16Jun2025 06:36:58.797] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:magnetic_caves took 4486 ms
 [16Jun2025 06:36:58.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4466ms or 89 ticks behind
+[16Jun2025 06:37:16.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to -210.500000, 7.000000, 1285.500000]
+[16Jun2025 06:37:16.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Opposites Attract]
+[16Jun2025 06:38:11.180] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:forlorn_hollows took 505 ms
+[16Jun2025 06:38:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to -774.500000, 2.000000, 2086.500000]
+[16Jun2025 06:38:37.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2856ms or 57 ticks behind
+[16Jun2025 06:38:38.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Forlornliest Day of My Life]
+[16Jun2025 06:39:10.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8297, l='ServerLevel[mundomodificado]', x=-787.63, y=68.00, z=1952.72] died, message: 'Unemployed suffocated in a wall'
+[16Jun2025 06:39:11.000] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8307, l='ServerLevel[mundomodificado]', x=-708.28, y=65.00, z=1960.63] died, message: 'Unemployed suffocated in a wall'
+[16Jun2025 06:41:06.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to -774.500000, 2.000000, 2086.500000]
+[16Jun2025 06:44:01.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: The difficulty has been set to Hard]
+[16Jun2025 06:45:34.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jast05[/127.68.191.22:35143] logged in with entity id 9754 at (-362.644046267919, 63.0, -366.30000001192093)
+[16Jun2025 06:45:34.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 joined the game
+[16Jun2025 06:45:34.452] [Server thread/INFO] [Jade/]: Syncing config to Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd)
+[16Jun2025 06:45:38.859] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jast05 (18)
+[16Jun2025 06:45:38.859] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jast05
+[16Jun2025 06:45:52.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[16Jun2025 06:45:53.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[16Jun2025 06:45:53.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) successfully connected to voice chat
+[16Jun2025 06:46:04.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9781, l='ServerLevel[mundomodificado]', x=-405.45, y=60.56, z=-375.45] died, message: 'Unemployed was slain by Zombie'
+[16Jun2025 06:46:08.692] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9782, l='ServerLevel[mundomodificado]', x=-399.41, y=60.00, z=-374.70] died, message: 'Unemployed was slain by Zombie'
