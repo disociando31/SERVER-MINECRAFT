@@ -274,3 +274,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 06:45:53.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) successfully connected to voice chat
 [16Jun2025 06:46:04.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9781, l='ServerLevel[mundomodificado]', x=-405.45, y=60.56, z=-375.45] died, message: 'Unemployed was slain by Zombie'
 [16Jun2025 06:46:08.692] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9782, l='ServerLevel[mundomodificado]', x=-399.41, y=60.00, z=-374.70] died, message: 'Unemployed was slain by Zombie'
+[16Jun2025 06:48:38.263] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[16Jun2025 06:48:38.264] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[16Jun2025 06:48:38.264] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[16Jun2025 06:48:38.265] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[16Jun2025 06:48:38.265] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[16Jun2025 06:51:49.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Zombie
+[16Jun2025 06:51:49.363] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_16.06.2025-06.51.49.dat
+[16Jun2025 06:51:49.367] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -409 Y: 64 Z: -364
+[16Jun2025 06:51:49.410] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[16Jun2025 06:51:50.875] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 06:51:50.876] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jun2025 06:52:20.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Set own game mode to Survival Mode]
+[16Jun2025 06:56:10.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Disconnected
+[16Jun2025 06:56:10.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
+[16Jun2025 06:56:10.852] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
+[16Jun2025 06:56:14.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[16Jun2025 06:56:14.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[16Jun2025 06:56:14.088] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[16Jun2025 06:57:17.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jun2025 06:57:17.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jun2025 06:57:17.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jun2025 06:57:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:overworld
+[16Jun2025 06:57:17.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_end
+[16Jun2025 06:57:17.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_nether
+[16Jun2025 06:57:17.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/twilightforest:twilight_forest
+[16Jun2025 06:57:17.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/deeperdarker:otherside
+[16Jun2025 06:57:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mundomodificado): All chunks are saved
+[16Jun2025 06:57:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jun2025 06:57:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jun2025 06:57:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16Jun2025 06:57:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16Jun2025 06:57:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Jun2025 06:57:17.705] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16Jun2025 06:57:17.706] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[16Jun2025 06:57:17.709] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
