@@ -343,3 +343,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 03:47:57.326] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [16Jun2025 03:47:57.327] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [16Jun2025 03:51:01.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzzz
+[16Jun2025 03:58:32.762] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra
+[16Jun2025 03:59:23.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Ice Bucket Challenge]
+[16Jun2025 04:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Pepito
+[16Jun2025 04:00:53.636] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[16Jun2025 04:00:58.014] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 04:00:58.014] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jun2025 04:05:09.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[16Jun2025 04:05:25.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Mutual Aid]
+[16Jun2025 04:06:00.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
+[16Jun2025 04:06:00.621] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[16Jun2025 04:06:02.113] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 04:06:02.114] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty

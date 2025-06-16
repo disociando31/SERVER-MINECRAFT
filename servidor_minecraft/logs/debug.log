@@ -4043,3 +4043,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Jun2025 03:51:01.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzzz
 [16Jun2025 03:52:22.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [16Jun2025 03:52:22.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[16Jun2025 03:57:22.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[16Jun2025 03:57:22.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[16Jun2025 03:58:32.762] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra
+[16Jun2025 03:59:23.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Ice Bucket Challenge]
+[16Jun2025 04:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Pepito
+[16Jun2025 04:00:53.634] [Server thread/DEBUG] [tombstone/]: A new grave of the player juangl2003 was created at position [x:-4, y:65, z:-995, dim:minecraft:overworld]
+[16Jun2025 04:00:53.636] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[16Jun2025 04:00:58.014] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 04:00:58.014] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jun2025 04:00:58.067] [Server thread/DEBUG] [twilightforest/]: Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) respawned and received items held in storage
+[16Jun2025 04:02:22.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[16Jun2025 04:02:22.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[16Jun2025 04:04:50.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[16Jun2025 04:04:50.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_4_haste
+[16Jun2025 04:05:09.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[16Jun2025 04:05:25.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Mutual Aid]
+[16Jun2025 04:06:00.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Skeleton
+[16Jun2025 04:06:00.599] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pepito was created at position [x:-950, y:104, z:-1816, dim:minecraft:overworld]
+[16Jun2025 04:06:00.621] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[16Jun2025 04:06:02.113] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jun2025 04:06:02.114] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jun2025 04:06:02.174] [Server thread/DEBUG] [twilightforest/]: Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) respawned and received items held in storage
