@@ -444,3 +444,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 04:59:37.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
 [17Jun2025 04:59:37.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
 [17Jun2025 05:05:32.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 05:07:26.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Splintering II]
+[17Jun2025 05:08:14.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [A Flaming Sword]
+[17Jun2025 05:08:41.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [A Flaming Sword]
+[17Jun2025 05:10:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [A Flaming Sword]
+[17Jun2025 05:11:07.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 05:11:09.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [A Flaming Sword]
+[17Jun2025 05:12:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 05:12:21.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> ZZZZZZzzzzz

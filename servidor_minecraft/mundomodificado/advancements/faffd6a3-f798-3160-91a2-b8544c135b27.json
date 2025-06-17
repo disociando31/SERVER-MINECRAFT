@@ -3166,5 +3166,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-17 05:10:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
