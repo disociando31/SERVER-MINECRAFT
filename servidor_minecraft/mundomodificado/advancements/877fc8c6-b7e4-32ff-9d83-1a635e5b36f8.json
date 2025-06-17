@@ -3011,5 +3011,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-17 04:25:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2025-06-17 03:57:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

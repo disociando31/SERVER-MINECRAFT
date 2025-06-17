@@ -3973,3 +3973,151 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 03:54:20.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [17Jun2025 03:54:20.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
 [17Jun2025 03:54:26.058] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jun2025 03:54:48.408] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[17Jun2025 03:55:02.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[17Jun2025 03:55:58.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=62, z=-102} BlockPos{x=-45, y=61, z=-103}
+[17Jun2025 03:56:30.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 03:56:37.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=59, z=-95} BlockPos{x=-38, y=60, z=-96}
+[17Jun2025 03:56:37.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=59, z=-95} BlockPos{x=-38, y=60, z=-96}
+[17Jun2025 03:56:37.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=59, z=-95} BlockPos{x=-38, y=60, z=-96}
+[17Jun2025 03:56:37.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=59, z=-95} BlockPos{x=-37, y=60, z=-96}
+[17Jun2025 03:58:04.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=40, z=-124} BlockPos{x=-29, y=41, z=-125}
+[17Jun2025 03:58:04.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=40, z=-124} BlockPos{x=-29, y=41, z=-125}
+[17Jun2025 03:58:04.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=40, z=-124} BlockPos{x=-29, y=41, z=-125}
+[17Jun2025 03:58:05.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=40, z=-124} BlockPos{x=-29, y=41, z=-125}
+[17Jun2025 03:58:05.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=40, z=-124} BlockPos{x=-29, y=41, z=-125}
+[17Jun2025 03:58:05.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=40, z=-124} BlockPos{x=-29, y=41, z=-125}
+[17Jun2025 03:58:05.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=40, z=-124} BlockPos{x=-29, y=41, z=-125}
+[17Jun2025 03:58:05.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=40, z=-124} BlockPos{x=-29, y=41, z=-125}
+[17Jun2025 03:59:05.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=40, z=-129} BlockPos{x=-48, y=39, z=-128}
+[17Jun2025 03:59:20.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 03:59:20.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 03:59:31.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=40, z=-140} BlockPos{x=-50, y=40, z=-139}
+[17Jun2025 03:59:33.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=40, z=-141} BlockPos{x=-51, y=40, z=-141}
+[17Jun2025 03:59:33.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=40, z=-141} BlockPos{x=-51, y=40, z=-141}
+[17Jun2025 03:59:33.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=40, z=-141} BlockPos{x=-51, y=40, z=-141}
+[17Jun2025 03:59:33.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=40, z=-141} BlockPos{x=-51, y=40, z=-141}
+[17Jun2025 03:59:33.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=40, z=-141} BlockPos{x=-51, y=40, z=-141}
+[17Jun2025 03:59:33.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=40, z=-141} BlockPos{x=-51, y=40, z=-141}
+[17Jun2025 03:59:56.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=40, z=-132} BlockPos{x=-52, y=40, z=-133}
+[17Jun2025 03:59:57.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=39, z=-134} BlockPos{x=-50, y=40, z=-131}
+[17Jun2025 03:59:57.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=39, z=-134} BlockPos{x=-50, y=40, z=-131}
+[17Jun2025 03:59:57.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=39, z=-134} BlockPos{x=-50, y=40, z=-131}
+[17Jun2025 03:59:57.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=39, z=-134} BlockPos{x=-50, y=40, z=-131}
+[17Jun2025 03:59:57.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=39, z=-134} BlockPos{x=-50, y=40, z=-131}
+[17Jun2025 04:00:03.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=40, z=-124} BlockPos{x=-44, y=40, z=-124}
+[17Jun2025 04:00:08.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=40, z=-121} BlockPos{x=-48, y=39, z=-120}
+[17Jun2025 04:00:25.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=40, z=-119} BlockPos{x=-44, y=40, z=-118}
+[17Jun2025 04:00:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=40, z=-121} BlockPos{x=-41, y=39, z=-117}
+[17Jun2025 04:00:28.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=40, z=-121} BlockPos{x=-41, y=39, z=-117}
+[17Jun2025 04:00:28.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=40, z=-118} BlockPos{x=-41, y=40, z=-120}
+[17Jun2025 04:00:41.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=38, z=-111} BlockPos{x=-38, y=39, z=-112}
+[17Jun2025 04:00:41.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=38, z=-111} BlockPos{x=-38, y=39, z=-112}
+[17Jun2025 04:00:42.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=38, z=-111} BlockPos{x=-38, y=39, z=-112}
+[17Jun2025 04:00:42.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=38, z=-111} BlockPos{x=-38, y=39, z=-112}
+[17Jun2025 04:01:10.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=41, z=-107} BlockPos{x=-50, y=41, z=-105}
+[17Jun2025 04:01:12.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=40, z=-105} BlockPos{x=-50, y=40, z=-106}
+[17Jun2025 04:01:43.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=40, z=-100} BlockPos{x=-44, y=40, z=-100}
+[17Jun2025 04:01:43.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=39, z=-100} BlockPos{x=-44, y=40, z=-100}
+[17Jun2025 04:01:51.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=40, z=-99} BlockPos{x=-37, y=40, z=-100}
+[17Jun2025 04:01:55.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=40, z=-102} BlockPos{x=-35, y=40, z=-102}
+[17Jun2025 04:02:08.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=39, z=-105} BlockPos{x=-33, y=38, z=-105}
+[17Jun2025 04:02:10.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=40, z=-103} BlockPos{x=-30, y=39, z=-104}
+[17Jun2025 04:02:12.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=39, z=-105} BlockPos{x=-29, y=40, z=-105}
+[17Jun2025 04:02:46.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=40, z=-105} BlockPos{x=-51, y=39, z=-105}
+[17Jun2025 04:02:54.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=40, z=-97} BlockPos{x=-45, y=40, z=-95}
+[17Jun2025 04:02:58.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=39, z=-94} BlockPos{x=-42, y=39, z=-93}
+[17Jun2025 04:03:27.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=39, z=-84} BlockPos{x=-56, y=39, z=-85}
+[17Jun2025 04:03:27.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=39, z=-84} BlockPos{x=-56, y=39, z=-85}
+[17Jun2025 04:03:27.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=39, z=-84} BlockPos{x=-56, y=39, z=-85}
+[17Jun2025 04:03:27.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=39, z=-84} BlockPos{x=-56, y=39, z=-85}
+[17Jun2025 04:03:33.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-58, y=36, z=-83} BlockPos{x=-58, y=38, z=-83}
+[17Jun2025 04:04:20.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 04:04:20.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 04:05:20.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=54, z=-140} BlockPos{x=-98, y=54, z=-138}
+[17Jun2025 04:05:23.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:05:32.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:32.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:32.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:32.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:32.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:32.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:32.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:32.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:32.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:33.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:33.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-139} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:33.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=52, z=-140} BlockPos{x=-98, y=52, z=-139}
+[17Jun2025 04:05:35.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=52, z=-142} BlockPos{x=-97, y=52, z=-142}
+[17Jun2025 04:05:35.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=52, z=-142} BlockPos{x=-97, y=52, z=-142}
+[17Jun2025 04:05:35.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=52, z=-142} BlockPos{x=-97, y=52, z=-142}
+[17Jun2025 04:05:35.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=52, z=-142} BlockPos{x=-97, y=52, z=-142}
+[17Jun2025 04:05:35.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=52, z=-142} BlockPos{x=-97, y=52, z=-142}
+[17Jun2025 04:05:39.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:05:41.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=49, z=-145} BlockPos{x=-97, y=49, z=-143}
+[17Jun2025 04:06:07.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[17Jun2025 04:06:12.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was doomed to fall by Pepito
+[17Jun2025 04:06:12.209] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for juangl2003 with unique ID travelersbackpack.wolf_17.06.2025-04.06.12.dat
+[17Jun2025 04:06:12.210] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 58 Y: 49 Z: -988
+[17Jun2025 04:06:12.210] [Server thread/DEBUG] [tombstone/]: A new grave of the player juangl2003 was created at position [x:58, y:49, z:-989, dim:minecraft:overworld]
+[17Jun2025 04:06:12.211] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[17Jun2025 04:06:14.302] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jun2025 04:06:14.302] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jun2025 04:06:14.334] [Server thread/DEBUG] [twilightforest/]: Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) respawned and received items held in storage
+[17Jun2025 04:06:16.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:06:41.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:06:43.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-114, y=57, z=-144} BlockPos{x=-115, y=57, z=-144}
+[17Jun2025 04:09:20.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 04:09:20.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 04:14:20.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 04:14:20.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 04:15:23.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> zzzzzz
+[17Jun2025 04:15:24.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> zzzzzz
+[17Jun2025 04:18:49.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> wwwwwZzzzzz
+[17Jun2025 04:19:20.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 04:19:20.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 04:19:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:21:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:24:20.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 04:24:20.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 04:24:33.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[17Jun2025 04:24:43.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[17Jun2025 04:27:38.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to juangl2003]
+[17Jun2025 04:28:07.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[17Jun2025 04:28:07.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_4_haste
+[17Jun2025 04:28:28.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[17Jun2025 04:28:29.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[17Jun2025 04:28:29.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[17Jun2025 04:28:29.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0
+[17Jun2025 04:28:29.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0
+[17Jun2025 04:28:29.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[17Jun2025 04:28:29.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_husk_0
+[17Jun2025 04:28:29.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_4
+[17Jun2025 04:28:29.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[17Jun2025 04:28:29.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
+[17Jun2025 04:28:29.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_7
+[17Jun2025 04:28:29.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_6
+[17Jun2025 04:28:47.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[17Jun2025 04:28:47.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[17Jun2025 04:28:47.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[17Jun2025 04:28:47.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6
+[17Jun2025 04:29:06.387] [Server thread/INFO] [Scaling Health/]: Blight Pixie has died
+[17Jun2025 04:29:20.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 04:29:20.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 04:29:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:29:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 fell from a high place
+[17Jun2025 04:29:42.490] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for juangl2003 with unique ID travelersbackpack.wolf_17.06.2025-04.29.42.dat
+[17Jun2025 04:29:42.490] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 59 Y: 38 Z: -978
+[17Jun2025 04:29:42.491] [Server thread/DEBUG] [tombstone/]: A new grave of the player juangl2003 was created at position [x:59, y:38, z:-979, dim:minecraft:overworld]
+[17Jun2025 04:29:42.492] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[17Jun2025 04:29:45.387] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jun2025 04:29:45.387] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jun2025 04:29:45.427] [Server thread/DEBUG] [twilightforest/]: Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) respawned and received items held in storage
+[17Jun2025 04:29:59.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:32:21.010] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[17Jun2025 04:32:21.020] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[17Jun2025 04:32:21.029] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[17Jun2025 04:32:21.041] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[17Jun2025 04:34:16.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[17Jun2025 04:34:20.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 04:34:20.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado

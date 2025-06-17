@@ -276,7 +276,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-06-07 03:38:12 +0000",
+      "minecraft:birch_forest": "2025-06-17 04:32:59 +0000",
       "minecraft:beach": "2025-06-07 05:05:28 +0000",
+      "minecraft:dark_forest": "2025-06-17 04:29:34 +0000",
       "minecraft:river": "2025-06-07 03:07:13 +0000",
       "minecraft:dripstone_caves": "2025-06-07 03:36:47 +0000",
       "minecraft:swamp": "2025-06-14 05:04:08 +0000",
@@ -284,6 +286,7 @@
       "minecraft:forest": "2025-06-16 04:08:34 +0000",
       "minecraft:ocean": "2025-06-07 05:21:51 +0000",
       "minecraft:flower_forest": "2025-06-07 03:22:54 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-17 04:27:40 +0000",
       "minecraft:deep_dark": "2025-06-07 03:28:00 +0000",
       "minecraft:meadow": "2025-06-07 03:27:52 +0000",
       "minecraft:plains": "2025-06-07 02:56:19 +0000"
@@ -3920,15 +3923,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-06-17 03:17:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf_smithing": {
     "criteria": {
       "has_wolf": "2025-06-17 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-17 04:29:24 +0000"
     },
     "done": true
   },
@@ -3941,6 +3998,12 @@
   "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
       "has_cow": "2025-06-17 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
     },
     "done": true
   },

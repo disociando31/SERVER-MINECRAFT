@@ -983,6 +983,7 @@
       "minecraft:zombified_piglin": "2025-06-16 04:32:32 +0000",
       "minecraft:wither_skeleton": "2025-06-14 05:11:37 +0000",
       "minecraft:cave_spider": "2025-06-07 01:01:33 +0000",
+      "minecraft:piglin": "2025-06-17 03:57:30 +0000",
       "minecraft:enderman": "2025-06-07 01:41:02 +0000",
       "minecraft:zombie": "2025-06-07 00:53:11 +0000",
       "minecraft:drowned": "2025-06-14 04:02:47 +0000",
@@ -4273,6 +4274,12 @@
   "travelersbackpack:recipes/misc/spider_smithing": {
     "criteria": {
       "has_spider": "2025-06-17 03:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-17 04:16:01 +0000"
     },
     "done": true
   },
