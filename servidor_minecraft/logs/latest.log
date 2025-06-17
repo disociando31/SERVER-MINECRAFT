@@ -434,3 +434,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 04:43:14.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
 [17Jun2025 04:43:14.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
 [17Jun2025 04:43:14.386] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[17Jun2025 04:50:05.440] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra

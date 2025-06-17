@@ -4271,6 +4271,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-06-17 04:53:08 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider_smithing": {
     "criteria": {
       "has_spider": "2025-06-17 03:33:15 +0000"
