@@ -4518,3 +4518,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 05:54:53.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [17Jun2025 05:54:53.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
 [17Jun2025 05:56:18.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[17Jun2025 05:58:37.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[17Jun2025 05:59:53.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 05:59:53.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 06:02:11.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[17Jun2025 06:02:19.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Disconnected
+[17Jun2025 06:02:19.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
+[17Jun2025 06:02:19.801] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jast05
+[17Jun2025 06:02:19.801] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
+[17Jun2025 06:04:53.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 06:04:53.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 06:05:24.796] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element bosses_of_mass_destruction:void_blossom took 0 ms
+[17Jun2025 06:05:42.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to 304.500000, -2.000000, 1472.500000]
