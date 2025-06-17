@@ -423,3 +423,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 04:29:45.387] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [17Jun2025 04:29:59.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
 [17Jun2025 04:34:16.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[17Jun2025 04:35:03.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:35:04.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was doomed to fall
+[17Jun2025 04:35:04.845] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[17Jun2025 04:35:07.785] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jun2025 04:35:07.785] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Jun2025 04:37:42.732] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Jast05})
+[17Jun2025 04:37:52.261] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Jast05})
+[17Jun2025 04:38:42.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 04:43:14.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[17Jun2025 04:43:14.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[17Jun2025 04:43:14.386] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
