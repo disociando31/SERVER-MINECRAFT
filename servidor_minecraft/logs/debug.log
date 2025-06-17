@@ -3911,3 +3911,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 03:32:34.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
 [17Jun2025 03:32:34.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Pepito: {disabled=true, disconnected=false, uuid=877fc8c6-b7e4-32ff-9d83-1a635e5b36f8, name=Pepito, group=null}
 [17Jun2025 03:33:17.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14139, l='ServerLevel[mundomodificado]', x=-403.84, y=59.90, z=-370.46] died, message: 'Unemployed was slain by Zombie'
+[17Jun2025 03:34:20.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 03:34:20.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 03:35:02.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[17Jun2025 03:39:20.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 03:39:20.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 03:41:48.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was doomed to fall by Jast05
+[17Jun2025 03:41:48.741] [Server thread/DEBUG] [tombstone/]: A new grave of the player juangl2003 was created at position [x:-48, y:95, z:-1039, dim:minecraft:overworld]
+[17Jun2025 03:41:48.742] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[17Jun2025 03:41:50.540] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jun2025 03:41:50.541] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jun2025 03:41:50.595] [Server thread/DEBUG] [twilightforest/]: Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) respawned and received items held in storage
+[17Jun2025 03:42:58.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
+[17Jun2025 03:43:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was doomed to fall by Jast05
+[17Jun2025 03:43:01.591] [Server thread/DEBUG] [tombstone/]: A new grave of the player juangl2003 was created at position [x:-43, y:64, z:-1043, dim:minecraft:overworld]
+[17Jun2025 03:43:01.592] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[17Jun2025 03:43:04.477] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jun2025 03:43:04.478] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jun2025 03:43:04.527] [Server thread/DEBUG] [twilightforest/]: Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) respawned and received items held in storage
