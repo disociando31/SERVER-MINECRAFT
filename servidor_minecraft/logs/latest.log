@@ -531,3 +531,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 05:45:23.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
 [17Jun2025 05:45:23.113] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
 [17Jun2025 05:45:39.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[17Jun2025 05:46:39.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Jun2025 05:46:50.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Re-Extinct]
+[17Jun2025 05:46:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Tastes Like Chicken]
+[17Jun2025 05:48:17.753] [Server thread/INFO] [Scaling Health/]: Blight Grottoceratops was killed by Jast05
+[17Jun2025 05:48:17.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Re-Extinct]
+[17Jun2025 05:49:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Law of Club and Fang]
+[17Jun2025 05:49:55.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Zombie
+[17Jun2025 05:49:55.073] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[17Jun2025 05:49:56.222] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jun2025 05:49:56.223] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jun2025 05:56:18.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
