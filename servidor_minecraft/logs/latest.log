@@ -236,3 +236,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 06:43:08.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
 [17Jun2025 06:53:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Fronds Like These]
 [17Jun2025 06:54:22.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Strictly Medicinal Purposes]
+[17Jun2025 07:16:56.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5281c19d-403b-3e78-9ecf-5515c7bf49a6 timed out
+[17Jun2025 07:16:56.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mpalabra
+[17Jun2025 07:16:56.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[17Jun2025 07:17:03.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Timed out
+[17Jun2025 07:17:03.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[17Jun2025 07:17:03.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[17Jun2025 07:17:03.047] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

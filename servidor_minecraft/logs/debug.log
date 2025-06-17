@@ -3486,3 +3486,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 07:02:46.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
 [17Jun2025 07:07:46.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [17Jun2025 07:07:46.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 07:12:46.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 07:12:46.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[17Jun2025 07:16:56.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5281c19d-403b-3e78-9ecf-5515c7bf49a6 timed out
+[17Jun2025 07:16:56.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mpalabra
+[17Jun2025 07:16:56.626] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Mpalabra
+[17Jun2025 07:16:56.626] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Mpalabra
+[17Jun2025 07:16:56.626] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Mpalabra
+[17Jun2025 07:16:56.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[17Jun2025 07:16:56.627] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5281c19d-403b-3e78-9ecf-5515c7bf49a6 to disconnected: {disabled=false, disconnected=true, uuid=5281c19d-403b-3e78-9ecf-5515c7bf49a6, name=Mpalabra, group=null}
+[17Jun2025 07:17:03.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Timed out
+[17Jun2025 07:17:03.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[17Jun2025 07:17:03.015] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mpalabra
+[17Jun2025 07:17:03.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[17Jun2025 07:17:03.047] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jun2025 07:17:46.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[17Jun2025 07:17:46.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
