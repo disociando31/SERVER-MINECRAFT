@@ -3932,6 +3932,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2025-06-17 03:50:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
       "has_cow": "2025-06-17 03:31:32 +0000"
