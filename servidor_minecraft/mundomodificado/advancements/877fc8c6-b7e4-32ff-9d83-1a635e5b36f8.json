@@ -279,6 +279,7 @@
       "minecraft:sunflower_plains": "2025-06-07 05:17:18 +0000",
       "minecraft:beach": "2025-06-09 03:42:23 +0000",
       "minecraft:river": "2025-06-07 05:14:52 +0000",
+      "minecraft:snowy_plains": "2025-06-17 05:36:00 +0000",
       "minecraft:dripstone_caves": "2025-06-09 02:42:21 +0000",
       "minecraft:swamp": "2025-06-14 04:45:43 +0000",
       "minecraft:cold_ocean": "2025-06-14 05:03:23 +0000",
@@ -3017,6 +3018,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-06-17 05:40:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-06-17 05:15:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-06-17 05:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-17 04:55:31 +0000"
@@ -3026,6 +3045,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-06-17 04:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-17 05:15:30 +0000"
     },
     "done": true
   },
@@ -3086,6 +3111,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-17 04:55:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-06-17 05:37:38 +0000"
     },
     "done": true
   },
