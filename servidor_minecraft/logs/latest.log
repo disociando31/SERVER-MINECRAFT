@@ -237,3 +237,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jun2025 03:08:17.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
 [17Jun2025 03:08:17.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
 [17Jun2025 03:10:55.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzzz
+[17Jun2025 03:15:28.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Set own game mode to Spectator Mode]
+[17Jun2025 03:15:28.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Set own game mode to Survival Mode]
+[17Jun2025 03:16:03.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.219.164.225:60663] logged in with entity id 4438 at (-27.441030628808928, 70.0, -1001.1151998882251)
+[17Jun2025 03:16:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
+[17Jun2025 03:16:04.045] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
+[17Jun2025 03:16:06.234] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
+[17Jun2025 03:16:06.235] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[17Jun2025 03:16:10.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[17Jun2025 03:16:11.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[17Jun2025 03:16:11.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
+[17Jun2025 03:16:30.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Set own game mode to Spectator Mode]
+[17Jun2025 03:16:32.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Set own game mode to Survival Mode]
+[17Jun2025 03:17:00.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Neighborhood Brawl]
+[17Jun2025 03:19:27.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was doomed to fall by Jast05
+[17Jun2025 03:19:27.368] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[17Jun2025 03:19:28.851] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jun2025 03:19:28.851] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jun2025 03:21:42.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
+[17Jun2025 03:22:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 fell from a high place
+[17Jun2025 03:22:55.898] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_17.06.2025-03.22.55.dat
+[17Jun2025 03:22:55.900] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -51 Y: 68 Z: -1050
+[17Jun2025 03:22:55.903] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[17Jun2025 03:22:57.043] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jun2025 03:22:57.044] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jun2025 03:23:21.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[17Jun2025 03:23:29.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 fell from a high place
+[17Jun2025 03:23:29.260] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[17Jun2025 03:23:31.690] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jun2025 03:23:31.690] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Jun2025 03:24:23.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
+[17Jun2025 03:24:55.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
+[17Jun2025 03:25:50.203] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra
+[17Jun2025 03:27:18.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[17Jun2025 03:31:04.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[17Jun2025 03:32:29.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepito[/127.248.27.57:60751] logged in with entity id 13737 at (1.0240032472082625, 67.0, -956.5212030503428)
+[17Jun2025 03:32:29.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito joined the game
+[17Jun2025 03:32:29.767] [Server thread/INFO] [Jade/]: Syncing config to Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8)
+[17Jun2025 03:32:31.606] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pepito (18)
+[17Jun2025 03:32:31.607] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pepito
+[17Jun2025 03:32:33.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[17Jun2025 03:32:34.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[17Jun2025 03:32:34.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
+[17Jun2025 03:33:17.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14139, l='ServerLevel[mundomodificado]', x=-403.84, y=59.90, z=-370.46] died, message: 'Unemployed was slain by Zombie'
