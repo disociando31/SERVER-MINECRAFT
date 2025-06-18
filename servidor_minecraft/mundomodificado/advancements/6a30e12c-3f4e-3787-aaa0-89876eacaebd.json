@@ -1432,6 +1432,7 @@
       "minecraft:slime": "2025-06-14 05:28:31 +0000",
       "minecraft:zombified_piglin": "2025-06-18 05:16:22 +0000",
       "minecraft:wither_skeleton": "2025-06-14 05:13:23 +0000",
+      "minecraft:ender_dragon": "2025-06-18 05:49:26 +0000",
       "minecraft:cave_spider": "2025-06-07 04:17:46 +0000",
       "minecraft:piglin": "2025-06-09 04:39:06 +0000",
       "minecraft:enderman": "2025-06-09 04:52:04 +0000",
@@ -4078,9 +4079,21 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-06-18 05:49:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-06-18 05:22:39 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:wickpiercer": {
+    "criteria": {
+      "requirement": "2025-06-18 05:50:46 +0000"
     },
     "done": true
   },
@@ -4168,6 +4181,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-18 05:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-18 05:10:46 +0000"
@@ -4195,6 +4214,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-06-18 05:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-18 05:43:12 +0000"
     },
     "done": true
   },

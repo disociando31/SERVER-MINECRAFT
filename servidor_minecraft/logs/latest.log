@@ -333,3 +333,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 05:43:14.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 moved too quickly! 75.01975902061301,41.39260454995134,1336.7618910178214
 [18Jun2025 05:43:14.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [The End?]
 [18Jun2025 05:43:14.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3262ms or 65 ticks behind
+[18Jun2025 05:43:34.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 05:43:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[18Jun2025 05:49:26.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Free the End]
+[18Jun2025 05:49:29.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was killed by Ender Dragon using magic
+[18Jun2025 05:49:29.692] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[18Jun2025 05:49:30.960] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 05:49:30.961] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[18Jun2025 05:49:40.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Wax Off]
+[18Jun2025 05:50:46.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Wax Off]
+[18Jun2025 05:52:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 05:52:57.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Remote Getaway]
