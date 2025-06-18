@@ -2580,6 +2580,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-06-18 05:17:53 +0000",
       "minecraft:sheep": "2025-06-14 04:27:04 +0000",
       "minecraft:cow": "2025-06-14 04:27:09 +0000",
       "minecraft:chicken": "2025-06-09 04:33:51 +0000"
@@ -3373,6 +3374,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-06-18 05:18:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-06-18 04:33:28 +0000"
@@ -3478,6 +3485,12 @@
   "iceandfire:recipes/combat/tide_purple_chestplate": {
     "criteria": {
       "has_item": "2025-06-18 04:33:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-06-18 05:18:12 +0000"
     },
     "done": true
   },
@@ -3808,6 +3821,12 @@
   "aquaculture:recipes/tools/neptunium_pickaxe": {
     "criteria": {
       "has_items": "2025-06-18 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-18 05:17:00 +0000"
     },
     "done": true
   },
