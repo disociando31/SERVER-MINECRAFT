@@ -249,3 +249,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 04:36:58.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Not even afraid of death]
 [18Jun2025 04:36:58.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Back to childhood]
 [18Jun2025 04:37:07.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Dragon Growth Hormone]
+[18Jun2025 04:43:07.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.219.164.225:50141] logged in with entity id 20596 at (-53.422548879492616, 64.0, -1018.4764421867995)
+[18Jun2025 04:43:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
+[18Jun2025 04:43:07.419] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
+[18Jun2025 04:43:08.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
+[18Jun2025 04:43:08.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[18Jun2025 04:43:11.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[18Jun2025 04:43:12.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5281c19d-403b-3e78-9ecf-5515c7bf49a6
+[18Jun2025 04:43:12.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) successfully connected to voice chat
+[18Jun2025 04:44:05.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [It Belongs in a Museum]
+[18Jun2025 04:44:22.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Who is Cutting Onions?]
+[18Jun2025 04:44:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Book of Monsters]
+[18Jun2025 04:46:33.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Once Upon a Cave]
+[18Jun2025 04:51:38.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> ZzzZzzz
