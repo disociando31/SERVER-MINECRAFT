@@ -1275,6 +1275,7 @@
       "porkchop": "2025-06-14 04:47:52 +0000",
       "apple": "2025-06-16 03:33:39 +0000",
       "bread": "2025-06-07 03:18:31 +0000",
+      "golden_apple": "2025-06-18 06:36:33 +0000",
       "rotten_flesh": "2025-06-14 05:16:48 +0000",
       "golden_carrot": "2025-06-14 04:23:31 +0000",
       "cooked_chicken": "2025-06-14 05:22:50 +0000"
@@ -1430,6 +1431,7 @@
       "minecraft:piglin_brute": "2025-06-09 04:26:03 +0000",
       "minecraft:creeper": "2025-06-07 03:23:35 +0000",
       "minecraft:slime": "2025-06-14 05:28:31 +0000",
+      "minecraft:phantom": "2025-06-18 06:38:49 +0000",
       "minecraft:zombified_piglin": "2025-06-18 05:16:22 +0000",
       "minecraft:wither_skeleton": "2025-06-14 05:13:23 +0000",
       "minecraft:ender_dragon": "2025-06-18 05:49:26 +0000",
@@ -4163,6 +4165,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2025-06-18 06:31:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-18 05:20:47 +0000"
@@ -4190,6 +4198,18 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-06-18 06:07:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 06:38:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-06-18 06:29:08 +0000"
     },
     "done": true
   },
@@ -4286,6 +4306,18 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-06-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-18 06:38:49 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-18 06:39:09 +0000"
     },
     "done": true
   },

@@ -377,3 +377,36 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 06:12:15.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
 [18Jun2025 06:17:49.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [The City at the End of the Game]
 [18Jun2025 06:24:26.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 06:27:26.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Ghost Riders In The Sky]
+[18Jun2025 06:28:36.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 06:28:46.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 06:29:08.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Ghost Riders In The Sky]
+[18Jun2025 06:31:18.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Your First Receptacle]
+[18Jun2025 06:32:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Like a bird]
+[18Jun2025 06:35:44.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Fortuitous Militia]
+[18Jun2025 06:38:49.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Ambush]
+[18Jun2025 06:39:09.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Magic Writing]
+[18Jun2025 06:41:57.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 06:44:58.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Disconnected
+[18Jun2025 06:44:58.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
+[18Jun2025 06:44:58.991] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
+[18Jun2025 06:45:06.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[18Jun2025 06:45:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[18Jun2025 06:45:06.038] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[18Jun2025 06:45:28.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jun2025 06:45:28.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jun2025 06:45:28.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jun2025 06:45:29.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:overworld
+[18Jun2025 06:45:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_end
+[18Jun2025 06:45:29.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_nether
+[18Jun2025 06:45:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/twilightforest:twilight_forest
+[18Jun2025 06:45:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/deeperdarker:otherside
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mundomodificado): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jun2025 06:45:29.531] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Jun2025 06:45:29.531] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18Jun2025 06:45:29.535] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

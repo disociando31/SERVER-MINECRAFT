@@ -976,6 +976,7 @@
       "minecraft:blaze": "2025-06-18 06:00:45 +0000",
       "minecraft:skeleton": "2025-06-07 00:56:17 +0000",
       "minecraft:ghast": "2025-06-09 04:42:47 +0000",
+      "minecraft:hoglin": "2025-06-18 06:36:10 +0000",
       "minecraft:magma_cube": "2025-06-09 04:38:04 +0000",
       "minecraft:spider": "2025-06-07 02:08:17 +0000",
       "minecraft:creeper": "2025-06-07 02:08:07 +0000",
@@ -1296,6 +1297,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-07 01:01:51 +0000",
+      "chorus_fruit": "2025-06-18 06:44:17 +0000",
       "baked_potato": "2025-06-07 03:50:18 +0000",
       "spider_eye": "2025-06-07 01:16:42 +0000",
       "bread": "2025-06-07 01:51:31 +0000",
@@ -4569,6 +4571,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-06-18 06:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2025-06-18 06:10:10 +0000"
@@ -4665,6 +4673,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 06:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-06-18 05:04:25 +0000"
@@ -4680,6 +4694,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-06-18 06:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-18 06:25:48 +0000"
     },
     "done": true
   },
@@ -4716,6 +4736,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-18 05:40:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-06-18 06:27:26 +0000"
     },
     "done": true
   },
@@ -4866,6 +4892,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-06-18 06:10:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-18 06:32:09 +0000"
     },
     "done": true
   },

@@ -4398,3 +4398,52 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 06:21:11.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [18Jun2025 06:21:11.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
 [18Jun2025 06:24:26.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 06:26:11.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 06:26:11.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 06:27:26.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Ghost Riders In The Sky]
+[18Jun2025 06:28:36.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 06:28:46.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 06:29:08.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Ghost Riders In The Sky]
+[18Jun2025 06:31:11.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 06:31:11.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 06:31:18.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Your First Receptacle]
+[18Jun2025 06:32:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Like a bird]
+[18Jun2025 06:35:44.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Fortuitous Militia]
+[18Jun2025 06:36:11.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 06:36:11.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 06:38:49.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Ambush]
+[18Jun2025 06:39:09.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Magic Writing]
+[18Jun2025 06:41:11.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 06:41:11.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 06:41:57.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 06:43:24.236] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[18Jun2025 06:43:24.247] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_3 is being run through DFU (hash 3fe650034339e7f0ca054ff6db4df41a21cbd3b06735b87ec8d667c133a1c188), this will cause launch time delays
+[18Jun2025 06:43:24.310] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_3 is being run through DFU (hash 3ac376c9a279c6182c0df40bd79f9aefa7a7a2e45a1fbd70c7fc5c52d8fdfcd0), this will cause launch time delays
+[18Jun2025 06:44:58.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 lost connection: Disconnected
+[18Jun2025 06:44:58.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 left the game
+[18Jun2025 06:44:58.991] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jast05
+[18Jun2025 06:44:58.991] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jast05
+[18Jun2025 06:45:06.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[18Jun2025 06:45:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[18Jun2025 06:45:06.038] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mpalabra
+[18Jun2025 06:45:06.038] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[18Jun2025 06:45:28.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jun2025 06:45:28.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jun2025 06:45:28.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jun2025 06:45:29.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:overworld
+[18Jun2025 06:45:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_end
+[18Jun2025 06:45:29.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/minecraft:the_nether
+[18Jun2025 06:45:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/twilightforest:twilight_forest
+[18Jun2025 06:45:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundomodificado]'/deeperdarker:otherside
+[18Jun2025 06:45:29.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 06:45:29.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mundomodificado): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Jun2025 06:45:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jun2025 06:45:29.531] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Jun2025 06:45:29.531] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18Jun2025 06:45:29.534] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[18Jun2025 06:45:29.535] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
