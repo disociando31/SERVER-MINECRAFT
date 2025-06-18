@@ -3260,3 +3260,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 03:16:08.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
 [18Jun2025 03:20:27.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
 [18Jun2025 03:20:27.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_4_haste
+[18Jun2025 03:21:08.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 03:21:08.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 03:22:56.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[18Jun2025 03:22:57.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_spawner_3
+[18Jun2025 03:22:57.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_spawner_1
+[18Jun2025 03:22:57.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_spawner_4
+[18Jun2025 03:22:57.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_spawner_5
+[18Jun2025 03:22:57.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_spawner_7
+[18Jun2025 03:22:57.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_spawner_2
+[18Jun2025 03:22:57.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_spawner_0
+[18Jun2025 03:22:57.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_spawner_6
+[18Jun2025 03:22:57.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_spawner_8
+[18Jun2025 03:22:57.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[18Jun2025 03:22:57.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[18Jun2025 03:22:57.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[18Jun2025 03:22:57.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[18Jun2025 03:22:57.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[18Jun2025 03:22:57.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[18Jun2025 03:22:57.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[18Jun2025 03:22:57.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[18Jun2025 03:22:57.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[18Jun2025 03:22:57.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[18Jun2025 03:23:44.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[18Jun2025 03:23:44.995] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Jun2025 03:24:10.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[18Jun2025 03:24:22.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:abyssal_ruins_2
+[18Jun2025 03:24:22.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:abyssal_ruins_0
+[18Jun2025 03:24:22.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:abyssal_ruins_1
+[18Jun2025 03:24:22.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:abyssal_ruins_3
+[18Jun2025 03:24:45.905] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:deep_one_ruins_3
+[18Jun2025 03:26:08.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 03:26:08.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
