@@ -226,3 +226,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 02:51:45.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
 [18Jun2025 02:51:46.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
 [18Jun2025 02:51:46.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
+[18Jun2025 04:17:44.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito moved too quickly! 4.964145519611158,-1.2491870787446828,8.735578008859761
