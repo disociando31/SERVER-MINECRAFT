@@ -375,3 +375,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 06:06:53.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Remote Getaway]
 [18Jun2025 06:07:00.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
 [18Jun2025 06:12:15.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 06:17:49.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [The City at the End of the Game]
+[18Jun2025 06:24:26.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
