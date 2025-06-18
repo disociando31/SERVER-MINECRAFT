@@ -227,3 +227,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 02:51:46.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
 [18Jun2025 02:51:46.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat
 [18Jun2025 04:17:44.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito moved too quickly! 4.964145519611158,-1.2491870787446828,8.735578008859761
+[18Jun2025 04:24:54.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juangl2003[/127.102.10.244:53603] logged in with entity id 16896 at (239.6104352583032, -41.0, 1528.8007591883832)
+[18Jun2025 04:24:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 joined the game
+[18Jun2025 04:24:54.197] [Server thread/INFO] [Jade/]: Syncing config to juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27)
+[18Jun2025 04:24:55.405] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
+[18Jun2025 04:24:55.406] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
+[18Jun2025 04:24:58.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player faffd6a3-f798-3160-91a2-b8544c135b27
+[18Jun2025 04:24:59.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player faffd6a3-f798-3160-91a2-b8544c135b27
+[18Jun2025 04:24:59.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) successfully connected to voice chat
+[18Jun2025 04:25:15.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Pepito]
+[18Jun2025 04:26:29.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Ambush]
+[18Jun2025 04:26:44.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Voluntary Exile]
+[18Jun2025 04:27:08.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was shot by Pillager
+[18Jun2025 04:27:08.368] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[18Jun2025 04:27:10.049] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 04:27:10.050] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18Jun2025 04:27:13.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Ambush]
+[18Jun2025 04:27:36.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Knowledge raises the soul]

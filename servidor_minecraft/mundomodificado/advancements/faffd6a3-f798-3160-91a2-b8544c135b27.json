@@ -833,6 +833,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-18 04:26:29 +0000",
       "minecraft:skeleton": "2025-06-09 03:24:48 +0000",
       "minecraft:spider": "2025-06-09 03:43:17 +0000",
       "minecraft:creeper": "2025-06-14 04:55:06 +0000",
@@ -3167,9 +3168,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
-      "killed_by_vallumraptor": "2025-06-17 05:39:06 +0000"
+      "sword": "2025-06-17 05:10:17 +0000"
     },
     "done": true
   },
@@ -3188,12 +3189,6 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-06-17 05:18:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-06-17 05:10:17 +0000"
     },
     "done": true
   },
@@ -3227,15 +3222,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-17 05:18:02 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-06-17 05:37:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "has_planks": "2025-06-17 05:18:02 +0000"
+      "killed_by_vallumraptor": "2025-06-17 05:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-18 04:26:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 04:26:29 +0000"
     },
     "done": true
   },

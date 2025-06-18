@@ -1292,6 +1292,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-18 04:27:13 +0000",
       "minecraft:skeleton": "2025-06-09 02:43:00 +0000",
       "minecraft:magma_cube": "2025-06-09 04:38:11 +0000",
       "minecraft:spider": "2025-06-09 04:01:41 +0000",
@@ -3165,6 +3166,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 04:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-18 03:51:07 +0000"
@@ -3186,6 +3193,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-18 04:01:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 04:27:13 +0000"
     },
     "done": true
   },
