@@ -277,6 +277,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-06-07 05:12:12 +0000",
       "minecraft:sunflower_plains": "2025-06-07 05:17:18 +0000",
+      "minecraft:windswept_hills": "2025-06-18 05:37:30 +0000",
       "minecraft:beach": "2025-06-09 03:42:23 +0000",
       "minecraft:river": "2025-06-07 05:14:52 +0000",
       "minecraft:snowy_plains": "2025-06-17 05:36:00 +0000",
@@ -3223,6 +3224,67 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-06-18 05:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-18 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-18 05:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-18 05:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-18 05:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-18 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-06-18 05:30:06 +0000",
+      "minecraft:sheep": "2025-06-18 05:24:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-18 05:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-18 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-18 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-06-18 05:23:16 +0000"
     },
     "done": true
   },

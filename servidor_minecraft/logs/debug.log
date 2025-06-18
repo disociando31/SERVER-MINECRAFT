@@ -4229,3 +4229,66 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 05:21:08.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
 [18Jun2025 05:21:19.965] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra
 [18Jun2025 05:22:54.464] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra
+[18Jun2025 05:24:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [The Parrots and the Bats]
+[18Jun2025 05:25:17.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzzz
+[18Jun2025 05:26:08.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 05:26:08.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 05:26:27.058] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Jast05})
+[18Jun2025 05:28:28.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=72, z=-1363} BlockPos{x=210, y=72, z=-1364}
+[18Jun2025 05:28:28.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=72, z=-1363} BlockPos{x=210, y=72, z=-1364}
+[18Jun2025 05:31:08.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 05:31:08.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 05:34:29.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[18Jun2025 05:34:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[18Jun2025 05:34:29.107] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of juangl2003
+[18Jun2025 05:34:29.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[18Jun2025 05:36:08.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 05:36:08.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 05:36:21.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Eye Spy]
+[18Jun2025 05:37:22.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[18Jun2025 05:37:29.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[18Jun2025 05:37:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Eye Spy]
+[18Jun2025 05:38:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[18Jun2025 05:39:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[18Jun2025 05:40:15.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 05:40:15.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Eye Spy]
+[18Jun2025 05:41:08.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 05:41:08.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 05:42:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 05:42:49.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[18Jun2025 05:43:11.418] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[18Jun2025 05:43:11.422] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[18Jun2025 05:43:11.425] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[18Jun2025 05:43:11.431] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[18Jun2025 05:43:11.482] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[18Jun2025 05:43:11.530] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[18Jun2025 05:43:11.549] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[18Jun2025 05:43:11.553] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[18Jun2025 05:43:11.557] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[18Jun2025 05:43:11.610] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[18Jun2025 05:43:11.623] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[18Jun2025 05:43:11.670] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[18Jun2025 05:43:11.702] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[18Jun2025 05:43:11.717] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[18Jun2025 05:43:11.721] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[18Jun2025 05:43:11.727] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[18Jun2025 05:43:11.736] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[18Jun2025 05:43:11.741] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[18Jun2025 05:43:12.012] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[18Jun2025 05:43:12.068] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[18Jun2025 05:43:12.095] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[18Jun2025 05:43:12.107] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[18Jun2025 05:43:12.131] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[18Jun2025 05:43:12.136] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 1497612195e1c3437613f4a0b399542740027b53e57da6c7c6051fe69c109053), this will cause launch time delays
+[18Jun2025 05:43:12.259] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[18Jun2025 05:43:12.262] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[18Jun2025 05:43:12.301] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[18Jun2025 05:43:12.314] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[18Jun2025 05:43:12.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [The End?]
+[18Jun2025 05:43:12.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [The End?]
+[18Jun2025 05:43:13.845] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[18Jun2025 05:43:13.877] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[18Jun2025 05:43:14.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 moved too quickly! 75.01975902061301,41.39260454995134,1336.7618910178214
+[18Jun2025 05:43:14.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [The End?]
+[18Jun2025 05:43:14.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3262ms or 65 ticks behind
+[18Jun2025 05:43:16.032] [Worker-Main-1/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:obsidilith_arena/base is being run through DFU (hash 5aae15799233df324ef3fffe90f32ece26a2e0972b73cddf8f2c25d40189f4e8), this will cause launch time delays

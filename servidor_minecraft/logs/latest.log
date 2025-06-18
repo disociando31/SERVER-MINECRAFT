@@ -308,3 +308,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 05:21:07.301] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
 [18Jun2025 05:21:19.965] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra
 [18Jun2025 05:22:54.464] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Mpalabra
+[18Jun2025 05:24:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [The Parrots and the Bats]
+[18Jun2025 05:25:17.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juangl2003> zzzzz
+[18Jun2025 05:26:27.058] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Jast05})
+[18Jun2025 05:28:28.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=72, z=-1363} BlockPos{x=210, y=72, z=-1364}
+[18Jun2025 05:28:28.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=72, z=-1363} BlockPos{x=210, y=72, z=-1364}
+[18Jun2025 05:34:29.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[18Jun2025 05:34:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[18Jun2025 05:34:29.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[18Jun2025 05:36:21.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Eye Spy]
+[18Jun2025 05:37:22.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[18Jun2025 05:37:29.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[18Jun2025 05:37:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Eye Spy]
+[18Jun2025 05:38:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[18Jun2025 05:39:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Mpalabra]
+[18Jun2025 05:40:15.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 05:40:15.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Eye Spy]
+[18Jun2025 05:42:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 05:42:49.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepito: Teleported Pepito to Jast05]
+[18Jun2025 05:43:12.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [The End?]
+[18Jun2025 05:43:12.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [The End?]
+[18Jun2025 05:43:13.845] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[18Jun2025 05:43:13.877] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[18Jun2025 05:43:14.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jast05 moved too quickly! 75.01975902061301,41.39260454995134,1336.7618910178214
+[18Jun2025 05:43:14.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [The End?]
+[18Jun2025 05:43:14.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3262ms or 65 ticks behind
