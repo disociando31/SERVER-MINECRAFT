@@ -262,3 +262,42 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 04:44:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Book of Monsters]
 [18Jun2025 04:46:33.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Once Upon a Cave]
 [18Jun2025 04:51:38.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> ZzzZzzz
+[18Jun2025 04:55:36.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jast05[/127.68.191.22:45905] logged in with entity id 24964 at (235.0107491688957, -19.0, 1493.9306313368395)
+[18Jun2025 04:55:36.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 joined the game
+[18Jun2025 04:55:36.395] [Server thread/INFO] [Jade/]: Syncing config to Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd)
+[18Jun2025 04:55:40.517] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jast05 (18)
+[18Jun2025 04:55:40.517] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jast05
+[18Jun2025 04:55:49.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[18Jun2025 04:55:50.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a30e12c-3f4e-3787-aaa0-89876eacaebd
+[18Jun2025 04:55:50.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) successfully connected to voice chat
+[18Jun2025 05:00:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Pepito]
+[18Jun2025 05:01:05.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Fire Dragon
+[18Jun2025 05:01:05.964] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[18Jun2025 05:01:07.809] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 05:01:07.810] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18Jun2025 05:03:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 05:04:25.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [What a Deal!]
+[18Jun2025 05:04:51.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Spider
+[18Jun2025 05:04:51.212] [Server thread/INFO] [tombstone/]: The player Pepito has successfully been saved
+[18Jun2025 05:04:52.599] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 05:04:52.599] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[18Jun2025 05:05:21.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to juangl2003]
+[18Jun2025 05:07:51.452] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Jast05
+[18Jun2025 05:08:30.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8 timed out
+[18Jun2025 05:08:30.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Pepito
+[18Jun2025 05:08:30.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Pepito
+[18Jun2025 05:08:38.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[18Jun2025 05:08:38.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[18Jun2025 05:08:38.810] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
+[18Jun2025 05:08:38.857] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jun2025 05:09:42.561] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@573c46b7[id=<null>,name=Pepito,properties={},legacy=false] (/127.248.27.57:36863) lost connection: Disconnected
+[18Jun2025 05:11:12.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [A Terrible Fortress]
+[18Jun2025 05:11:57.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has completed the challenge [Hot Tourist Destinations]
+[18Jun2025 05:12:32.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepito[/127.248.27.57:34465] logged in with entity id 34523 at (73.69999998807907, 76.5625, -980.929645571842)
+[18Jun2025 05:12:32.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito joined the game
+[18Jun2025 05:12:32.105] [Server thread/INFO] [Jade/]: Syncing config to Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8)
+[18Jun2025 05:12:32.253] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pepito (18)
+[18Jun2025 05:12:32.253] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pepito
+[18Jun2025 05:12:33.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[18Jun2025 05:12:34.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 877fc8c6-b7e4-32ff-9d83-1a635e5b36f8
+[18Jun2025 05:12:34.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pepito (877fc8c6-b7e4-32ff-9d83-1a635e5b36f8) successfully connected to voice chat

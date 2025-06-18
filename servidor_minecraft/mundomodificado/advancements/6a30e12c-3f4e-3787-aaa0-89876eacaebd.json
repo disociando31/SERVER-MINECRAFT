@@ -3924,33 +3924,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_vallumraptor": "2025-06-17 05:39:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-17 04:30:01 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-06-17 03:17:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-06-17 05:47:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-17 04:30:01 +0000"
     },
     "done": true
   },
@@ -3960,33 +3936,45 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2025-06-17 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2025-06-17 03:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-17 04:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-06-17 04:30:01 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-06-17 05:08:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-06-17 05:29:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-17 04:30:01 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pumpkin_smithing": {
-    "criteria": {
-      "has_pumpkin": "2025-06-17 05:57:16 +0000"
     },
     "done": true
   },
@@ -4014,27 +4002,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-17 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-17 05:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-17 05:29:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-06-17 05:37:10 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-06-17 05:37:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-06-17 05:47:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-17 04:29:24 +0000"
     },
     "done": true
   },
@@ -4044,9 +4032,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bee_smithing": {
+  "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
-      "has_bee": "2025-06-17 03:50:27 +0000"
+      "discover": "2025-06-17 05:37:53 +0000"
     },
     "done": true
   },
@@ -4056,21 +4044,87 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cow_smithing": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "has_cow": "2025-06-17 03:31:32 +0000"
+      "killed_by_vallumraptor": "2025-06-17 05:39:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_planks": "2025-06-17 04:30:01 +0000"
+      "has_log": "2025-06-17 05:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-17 05:47:37 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_grottoceratops": "2025-06-17 05:48:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin_smithing": {
+    "criteria": {
+      "has_pumpkin": "2025-06-17 05:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-18 05:10:46 +0000"
     },
     "done": true
   },

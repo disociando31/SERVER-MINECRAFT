@@ -1299,6 +1299,7 @@
       "bread": "2025-06-07 01:51:31 +0000",
       "golden_apple": "2025-06-14 05:26:03 +0000",
       "rotten_flesh": "2025-06-07 00:54:40 +0000",
+      "golden_carrot": "2025-06-18 05:01:12 +0000",
       "cooked_rabbit": "2025-06-07 01:03:20 +0000"
     },
     "done": false
@@ -4544,6 +4545,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-06-18 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-18 05:04:25 +0000"
     },
     "done": true
   },
