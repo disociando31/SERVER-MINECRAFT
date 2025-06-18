@@ -344,3 +344,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 05:50:46.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Wax Off]
 [18Jun2025 05:52:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
 [18Jun2025 05:52:57.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Remote Getaway]
+[18Jun2025 05:55:10.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 05:56:48.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Mpalabra to Jast05]
+[18Jun2025 05:58:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 05:59:18.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Mpalabra to Jast05]
+[18Jun2025 05:59:28.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra fell from a high place
+[18Jun2025 05:59:28.370] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mpalabra with unique ID travelersbackpack.spider_18.06.2025-05.59.28.dat
+[18Jun2025 05:59:28.372] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -412 Y: -20 Z: -1259
+[18Jun2025 05:59:28.376] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[18Jun2025 05:59:30.079] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 05:59:30.079] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18Jun2025 05:59:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was doomed to fall by Endermite
+[18Jun2025 05:59:32.579] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_18.06.2025-05.59.32.dat
+[18Jun2025 05:59:32.580] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -213 Y: 74 Z: 7
+[18Jun2025 05:59:32.642] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[18Jun2025 05:59:34.280] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 05:59:34.280] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[18Jun2025 06:00:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 06:00:14.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [A Terrible Fortress]
+[18Jun2025 06:00:22.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[18Jun2025 06:00:22.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[18Jun2025 06:00:22.201] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
+[18Jun2025 06:00:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Into Fire]
+[18Jun2025 06:03:56.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]

@@ -973,6 +973,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-07 03:17:28 +0000",
+      "minecraft:blaze": "2025-06-18 06:00:45 +0000",
       "minecraft:skeleton": "2025-06-07 00:56:17 +0000",
       "minecraft:ghast": "2025-06-09 04:42:47 +0000",
       "minecraft:magma_cube": "2025-06-09 04:38:04 +0000",
@@ -3078,7 +3079,8 @@
     "criteria": {
       "minecraft:nether_wastes": "2025-06-09 04:31:37 +0000",
       "minecraft:soul_sand_valley": "2025-06-09 04:32:00 +0000",
-      "minecraft:basalt_deltas": "2025-06-09 04:38:33 +0000"
+      "minecraft:basalt_deltas": "2025-06-09 04:38:33 +0000",
+      "minecraft:warped_forest": "2025-06-18 06:00:14 +0000"
     },
     "done": false
   },
@@ -4572,6 +4574,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-18 06:00:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-18 05:40:03 +0000"
@@ -4668,6 +4676,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-18 05:52:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-18 05:40:03 +0000"
@@ -4680,9 +4694,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-18 06:00:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-06-18 05:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-18 06:00:46 +0000"
     },
     "done": true
   },
@@ -4701,6 +4727,18 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-06-18 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-18 06:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-18 06:00:46 +0000"
     },
     "done": true
   },

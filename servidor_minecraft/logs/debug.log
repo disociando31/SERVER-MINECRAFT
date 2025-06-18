@@ -4337,3 +4337,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jun2025 05:52:36.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_4
 [18Jun2025 05:52:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
 [18Jun2025 05:52:57.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Remote Getaway]
+[18Jun2025 05:55:10.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 05:56:11.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 05:56:11.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 05:56:48.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Mpalabra to Jast05]
+[18Jun2025 05:58:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Jast05 to Mpalabra]
+[18Jun2025 05:59:18.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jast05: Teleported Mpalabra to Jast05]
+[18Jun2025 05:59:27.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[18Jun2025 05:59:27.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[18Jun2025 05:59:27.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[18Jun2025 05:59:28.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra fell from a high place
+[18Jun2025 05:59:28.370] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mpalabra with unique ID travelersbackpack.spider_18.06.2025-05.59.28.dat
+[18Jun2025 05:59:28.372] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -412 Y: -20 Z: -1259
+[18Jun2025 05:59:28.374] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mpalabra was created at position [x:-414, y:-20, z:-1260, dim:minecraft:overworld]
+[18Jun2025 05:59:28.376] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[18Jun2025 05:59:30.079] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 05:59:30.079] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18Jun2025 05:59:30.110] [Server thread/DEBUG] [twilightforest/]: Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) respawned and received items held in storage
+[18Jun2025 05:59:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was doomed to fall by Endermite
+[18Jun2025 05:59:32.579] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_18.06.2025-05.59.32.dat
+[18Jun2025 05:59:32.580] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -213 Y: 74 Z: 7
+[18Jun2025 05:59:32.610] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jast05 was created at position [x:-214, y:74, z:7, dim:minecraft:the_nether]
+[18Jun2025 05:59:32.642] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[18Jun2025 05:59:34.280] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 05:59:34.280] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[18Jun2025 05:59:34.289] [Server thread/DEBUG] [twilightforest/]: Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) respawned and received items held in storage
+[18Jun2025 06:00:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[18Jun2025 06:00:14.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [A Terrible Fortress]
+[18Jun2025 06:00:22.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[18Jun2025 06:00:22.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[18Jun2025 06:00:22.201] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Pepito
+[18Jun2025 06:00:22.201] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pepito
+[18Jun2025 06:00:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Into Fire]
+[18Jun2025 06:01:11.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[18Jun2025 06:01:11.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[18Jun2025 06:03:56.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
