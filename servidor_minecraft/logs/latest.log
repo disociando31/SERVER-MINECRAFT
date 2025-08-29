@@ -279,3 +279,8 @@ java.net.http.HttpTimeoutException: request timed out
 [29Aug2025 04:34:17.311] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
 [29Aug2025 04:34:18.705] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [29Aug2025 04:34:18.706] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[29Aug2025 04:52:56.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.159.249.113:57703] logged in with entity id 9268 at (1854.085378353475, 58.0, 739.9034629746998)
+[29Aug2025 04:52:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
+[29Aug2025 04:52:56.407] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
+[29Aug2025 04:52:56.593] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
+[29Aug2025 04:52:56.593] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
