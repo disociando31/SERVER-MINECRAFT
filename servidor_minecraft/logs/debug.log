@@ -3985,3 +3985,7 @@ java.net.http.HttpTimeoutException: request timed out
 [29Aug2025 05:24:17.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [29Aug2025 05:24:18.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
 [29Aug2025 05:24:38.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra moved too quickly! -1.7360666697996407,-27.0,3.447035447144117
+[29Aug2025 05:29:18.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[29Aug2025 05:29:18.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[29Aug2025 05:34:17.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[29Aug2025 05:34:18.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
