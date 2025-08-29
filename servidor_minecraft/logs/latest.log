@@ -284,3 +284,11 @@ java.net.http.HttpTimeoutException: request timed out
 [29Aug2025 04:52:56.407] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
 [29Aug2025 04:52:56.593] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
 [29Aug2025 04:52:56.593] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[29Aug2025 05:01:27.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juangl2003 lost connection: Disconnected
+[29Aug2025 05:01:27.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 left the game
+[29Aug2025 05:01:27.173] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juangl2003
+[29Aug2025 05:03:25.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juangl2003[/127.52.108.94:45447] logged in with entity id 10902 at (55.955599986117946, 73.9375, -963.8469880192741)
+[29Aug2025 05:03:25.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 joined the game
+[29Aug2025 05:03:25.806] [Server thread/INFO] [Jade/]: Syncing config to juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27)
+[29Aug2025 05:03:27.100] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
+[29Aug2025 05:03:27.101] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
