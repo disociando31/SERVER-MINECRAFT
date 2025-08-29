@@ -293,3 +293,5 @@ java.net.http.HttpTimeoutException: request timed out
 [29Aug2025 05:03:27.100] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juangl2003 (18)
 [29Aug2025 05:03:27.101] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
 [29Aug2025 05:07:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
+[29Aug2025 05:21:49.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
+[29Aug2025 05:24:38.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra moved too quickly! -1.7360666697996407,-27.0,3.447035447144117

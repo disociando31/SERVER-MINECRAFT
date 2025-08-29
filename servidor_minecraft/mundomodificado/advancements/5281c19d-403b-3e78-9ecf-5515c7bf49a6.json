@@ -4901,5 +4901,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-29 05:16:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
