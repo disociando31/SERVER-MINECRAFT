@@ -3974,3 +3974,8 @@ java.net.http.HttpTimeoutException: request timed out
 [29Aug2025 05:03:27.101] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juangl2003
 [29Aug2025 05:04:18.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [29Aug2025 05:04:18.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[29Aug2025 05:07:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
+[29Aug2025 05:09:18.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[29Aug2025 05:09:18.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[29Aug2025 05:14:17.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[29Aug2025 05:14:18.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
