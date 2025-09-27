@@ -3779,3 +3779,194 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Sep2025 03:49:25.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=18, z=-206} BlockPos{x=-151, y=17, z=-206}
 [27Sep2025 03:49:25.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=18, z=-206} BlockPos{x=-151, y=17, z=-206}
 [27Sep2025 03:49:25.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=18, z=-206} BlockPos{x=-151, y=17, z=-206}
+[27Sep2025 03:49:39.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[27Sep2025 03:49:39.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[27Sep2025 03:49:39.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=15, z=-205} BlockPos{x=-152, y=14, z=-207}
+[27Sep2025 03:49:40.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-205} BlockPos{x=-149, y=16, z=-206}
+[27Sep2025 03:49:40.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-205} BlockPos{x=-149, y=16, z=-206}
+[27Sep2025 03:49:40.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-205} BlockPos{x=-149, y=16, z=-206}
+[27Sep2025 03:49:40.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-205} BlockPos{x=-149, y=16, z=-206}
+[27Sep2025 03:49:40.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-205} BlockPos{x=-149, y=16, z=-206}
+[27Sep2025 03:49:41.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-205} BlockPos{x=-149, y=16, z=-206}
+[27Sep2025 03:49:41.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-205} BlockPos{x=-149, y=16, z=-206}
+[27Sep2025 03:49:49.213] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:obsidilith_arena/base
+[27Sep2025 03:49:49.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=15, z=-196} BlockPos{x=-157, y=16, z=-197}
+[27Sep2025 03:49:56.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=14, z=-208} BlockPos{x=-149, y=14, z=-208}
+[27Sep2025 03:49:59.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=15, z=-209} BlockPos{x=-156, y=15, z=-209}
+[27Sep2025 03:49:59.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=15, z=-209} BlockPos{x=-156, y=15, z=-209}
+[27Sep2025 03:50:12.540] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[27Sep2025 03:50:14.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=16, z=-213} BlockPos{x=-161, y=15, z=-215}
+[27Sep2025 03:50:25.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=16, z=-208} BlockPos{x=-163, y=15, z=-208}
+[27Sep2025 03:50:32.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=14, z=-205} BlockPos{x=-163, y=13, z=-204}
+[27Sep2025 03:50:53.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=17, z=-211} BlockPos{x=-166, y=18, z=-211}
+[27Sep2025 03:50:53.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=17, z=-211} BlockPos{x=-166, y=18, z=-212}
+[27Sep2025 03:50:53.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=18, z=-212} BlockPos{x=-165, y=18, z=-212}
+[27Sep2025 03:50:53.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=18, z=-212} BlockPos{x=-165, y=17, z=-212}
+[27Sep2025 03:50:55.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=18, z=-213} BlockPos{x=-166, y=19, z=-212}
+[27Sep2025 03:51:28.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=13, z=-199} BlockPos{x=-162, y=14, z=-199}
+[27Sep2025 03:51:28.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=13, z=-199} BlockPos{x=-162, y=14, z=-199}
+[27Sep2025 03:51:28.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=13, z=-199} BlockPos{x=-162, y=14, z=-199}
+[27Sep2025 03:51:28.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=13, z=-199} BlockPos{x=-162, y=14, z=-199}
+[27Sep2025 03:51:28.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=13, z=-199} BlockPos{x=-162, y=14, z=-199}
+[27Sep2025 03:51:28.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=14, z=-199} BlockPos{x=-162, y=14, z=-199}
+[27Sep2025 03:51:29.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=13, z=-201} BlockPos{x=-163, y=12, z=-202}
+[27Sep2025 03:51:29.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=13, z=-201} BlockPos{x=-163, y=12, z=-202}
+[27Sep2025 03:51:29.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=13, z=-201} BlockPos{x=-163, y=12, z=-202}
+[27Sep2025 03:51:29.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=13, z=-201} BlockPos{x=-163, y=12, z=-202}
+[27Sep2025 03:51:29.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=13, z=-201} BlockPos{x=-163, y=12, z=-202}
+[27Sep2025 03:51:30.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=13, z=-201} BlockPos{x=-163, y=12, z=-202}
+[27Sep2025 03:51:55.414] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[27Sep2025 03:51:55.443] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_15 is being run through DFU (hash b893ecfaa57cd3f175dcb0a4ead77de92bd0299c44d98eb4e1104a82425d874e), this will cause launch time delays
+[27Sep2025 03:51:56.087] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_22 is being run through DFU (hash b0d1e1503c78aa2a7d7d9e267897742b108094d789a6d671791ea8414b7a68c0), this will cause launch time delays
+[27Sep2025 03:51:56.341] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_0 is being run through DFU (hash b3aebe234cac5c5255e89311806c3d4980eeb236168fe4c70f821dbb8c621347), this will cause launch time delays
+[27Sep2025 03:51:56.406] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_11 is being run through DFU (hash 86fca8402b9ade98d13ed7ac5e9ec9bb598b212de707167221154ec87d7b1ebc), this will cause launch time delays
+[27Sep2025 03:51:56.458] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_26 is being run through DFU (hash 811dd66bf02975b5b17384082dcd56b84213452cf06a5e0491febf5cdec166dc), this will cause launch time delays
+[27Sep2025 03:51:56.477] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_1 is being run through DFU (hash 5557307e6ca4a765ace2000a84113438d6488939c8495db04a28d0bb48105dee), this will cause launch time delays
+[27Sep2025 03:51:56.651] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_25 is being run through DFU (hash 70ba0f26e4ee0813dbc7b2af55e3f81ff78d4ab0197cd55650d322043e1f983c), this will cause launch time delays
+[27Sep2025 03:51:56.685] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_16 is being run through DFU (hash f1e091b22a4325595427ab3a51b58515e3578a9e85a6634aeed22b625872e48e), this will cause launch time delays
+[27Sep2025 03:51:56.787] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_10 is being run through DFU (hash c61788dbc9781ccbd741f3ca29a24081352515cd3211c49d8eceba4d20501cc0), this will cause launch time delays
+[27Sep2025 03:51:56.881] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_19 is being run through DFU (hash 1c37324f8bd8c96e3fbccc7b893d29d5fcff251d7adc38abe5a7d6bc4ea7ff21), this will cause launch time delays
+[27Sep2025 03:51:56.915] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_5 is being run through DFU (hash 23246be37543310db17cd43b70f1960f5b2f3f004ad3031af7f60c61c9016e81), this will cause launch time delays
+[27Sep2025 03:51:57.079] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_9 is being run through DFU (hash 86c99010911c63c167de12ea0b23870e191a26bf1172abc10ce8d8ed9fc12048), this will cause launch time delays
+[27Sep2025 03:51:57.111] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_17 is being run through DFU (hash 10585b15f8b99824959b4f7b1ed3ad004db1962e6030fb838ff2fa5aa36e3816), this will cause launch time delays
+[27Sep2025 03:51:57.140] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_18 is being run through DFU (hash ea31bcb04334ba8e5d708b66574843ec285801766ae12dd6b2a00bfce6933801), this will cause launch time delays
+[27Sep2025 03:51:57.156] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_3 is being run through DFU (hash ce1d4276a686e2e8be208aee9282b08f14cbabc6ac676166898fe7e30eb7a780), this will cause launch time delays
+[27Sep2025 03:51:57.267] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_14 is being run through DFU (hash 5c3693f2cf7ea92fc0b8614066bc04abce0e50699020417c8b5dc85b6e3737b6), this will cause launch time delays
+[27Sep2025 03:51:57.365] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_phantom_0 is being run through DFU (hash ddd97d286d73507d5e40137ee74f035bf60042338304f83d4877a015c660e060), this will cause launch time delays
+[27Sep2025 03:51:57.418] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_skeleton_melee_1 is being run through DFU (hash 76184c0f1412261cf45fd188ffeab249503dfccc92a85fadebb827039994e693), this will cause launch time delays
+[27Sep2025 03:51:57.428] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_charged_creeper_0 is being run through DFU (hash 3aee77d2447b8e4743f4f1561454ecac93c904086365e4c7e3f19afd467628c1), this will cause launch time delays
+[27Sep2025 03:51:57.445] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_6 is being run through DFU (hash 45a97a4a28a6ee1b5c1362f53b5681171d453b2bd1d3342c489e2eea18df3f9e), this will cause launch time delays
+[27Sep2025 03:51:57.511] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_20 is being run through DFU (hash 0fd38be1248a7b997f1136b92fb724c7ac86a1946fed83bdfc022443453cf8e8), this will cause launch time delays
+[27Sep2025 03:51:57.520] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_23 is being run through DFU (hash d11c03ac4f35e08c52c5f125a541b45863bf23a5e9b8ab50802e398ed7eacfd6), this will cause launch time delays
+[27Sep2025 03:51:57.561] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_12 is being run through DFU (hash 629e5acb5393af8d97aa17e4dd5eead94eed27169589de161de11d63b2f73afa), this will cause launch time delays
+[27Sep2025 03:51:57.671] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_21 is being run through DFU (hash 44ec451dca6a33681d9d2853bae133524abf196c5cc2fd20fee6d1848dd630ca), this will cause launch time delays
+[27Sep2025 03:51:57.693] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_8 is being run through DFU (hash 2e8a84444ee11aa7fb58e17803ba3ce20439caba6606aa663002e09e3a2b36ad), this will cause launch time delays
+[27Sep2025 03:51:57.735] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_2 is being run through DFU (hash 577d16f7971495990d474a69ea965ef9351f2b0080794680b1cf33d359715850), this will cause launch time delays
+[27Sep2025 03:51:57.791] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_4 is being run through DFU (hash eafa690d9613fd0ede59308b7e20a1efabb9ce3ed019bb6f8e83d73675834ff0), this will cause launch time delays
+[27Sep2025 03:51:58.093] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_24 is being run through DFU (hash 5b07eaa6b45dd0c0bb05955709d950f5f3603540c5bb92081acf537e16fa1cbf), this will cause launch time delays
+[27Sep2025 03:51:58.118] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_7 is being run through DFU (hash e313834607e07bf58b50312e5cb9e24d0cfeb6022ec3f10212070861d741eea6), this will cause launch time delays
+[27Sep2025 03:51:58.256] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_guardian_3 is being run through DFU (hash fd735957f86603afed3a446de2e639c712801f9b24be7b3649de67001c4890cc), this will cause launch time delays
+[27Sep2025 03:51:58.268] [Worker-Main-28/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_skeleton_ranged_0 is being run through DFU (hash 6a2adb914c518d30da53863a850e4f83e6e57ce2e1a863e1532d2301c2c81976), this will cause launch time delays
+[27Sep2025 03:51:58.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=12, z=-192} BlockPos{x=-171, y=12, z=-192}
+[27Sep2025 03:51:58.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=12, z=-192} BlockPos{x=-171, y=12, z=-192}
+[27Sep2025 03:51:58.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=12, z=-192} BlockPos{x=-171, y=12, z=-192}
+[27Sep2025 03:51:58.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=12, z=-192} BlockPos{x=-171, y=12, z=-192}
+[27Sep2025 03:51:58.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=12, z=-192} BlockPos{x=-171, y=12, z=-192}
+[27Sep2025 03:51:58.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=12, z=-192} BlockPos{x=-171, y=12, z=-192}
+[27Sep2025 03:51:59.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:51:59.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:51:59.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:51:59.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:51:59.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:00.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=12, z=-192} BlockPos{x=-172, y=12, z=-191}
+[27Sep2025 03:52:04.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:04.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:04.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:04.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:04.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:04.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:04.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:04.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:04.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:04.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=14, z=-197} BlockPos{x=-172, y=13, z=-197}
+[27Sep2025 03:52:27.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=10, z=-193} BlockPos{x=-178, y=10, z=-192}
+[27Sep2025 03:52:35.184] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
+[27Sep2025 03:52:35.184] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
+[27Sep2025 03:52:35.185] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
+[27Sep2025 03:52:35.185] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
+[27Sep2025 03:52:35.185] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
+[27Sep2025 03:52:35.185] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
+[27Sep2025 03:52:35.185] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
+[27Sep2025 03:52:37.360] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1474, y=19, z=299}
+[27Sep2025 03:52:37.360] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1475, y=17, z=299}
+[27Sep2025 03:52:37.361] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1477, y=19, z=299}
+[27Sep2025 03:52:37.361] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1482, y=17, z=299}
+[27Sep2025 03:52:37.361] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1481, y=17, z=299}
+[27Sep2025 03:52:37.361] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=301}
+[27Sep2025 03:52:37.362] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=309}
+[27Sep2025 03:52:37.362] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
+[27Sep2025 03:52:37.362] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
+[27Sep2025 03:53:46.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Three Little Birds]
+[27Sep2025 03:54:23.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
+[27Sep2025 03:54:23.690] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_27.09.2025-03.54.23.dat
+[27Sep2025 03:54:23.694] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3001 Y: 55 Z: 93
+[27Sep2025 03:54:23.947] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jast05 was created at position [x:3000, y:55, z:93, dim:minecraft:the_end]
+[27Sep2025 03:54:23.978] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 03:54:25.453] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 03:54:25.454] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Sep2025 03:54:25.470] [Server thread/DEBUG] [twilightforest/]: Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) respawned and received items held in storage
+[27Sep2025 03:54:39.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[27Sep2025 03:54:39.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[27Sep2025 03:55:26.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=14, z=-173} BlockPos{x=-169, y=14, z=-173}
+[27Sep2025 03:55:26.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=14, z=-173} BlockPos{x=-169, y=14, z=-173}
+[27Sep2025 03:55:26.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=14, z=-173} BlockPos{x=-169, y=14, z=-173}
+[27Sep2025 03:55:36.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=16, z=-175} BlockPos{x=-169, y=17, z=-175}
+[27Sep2025 03:55:36.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=16, z=-175} BlockPos{x=-169, y=17, z=-175}
+[27Sep2025 03:55:36.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=16, z=-175} BlockPos{x=-169, y=17, z=-175}
+[27Sep2025 03:55:36.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=16, z=-175} BlockPos{x=-169, y=17, z=-175}
+[27Sep2025 03:56:36.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-160, y=13, z=-162} BlockPos{x=-161, y=12, z=-161}
+[27Sep2025 03:56:48.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=16, z=-164} BlockPos{x=-155, y=16, z=-164}
+[27Sep2025 03:57:16.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=13, z=-168} BlockPos{x=-152, y=12, z=-169}
+[27Sep2025 03:57:16.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=13, z=-168} BlockPos{x=-152, y=12, z=-169}
+[27Sep2025 03:57:16.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=13, z=-168} BlockPos{x=-152, y=12, z=-169}
+[27Sep2025 03:57:16.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=13, z=-168} BlockPos{x=-152, y=12, z=-169}
+[27Sep2025 03:57:17.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=13, z=-168} BlockPos{x=-152, y=12, z=-169}
+[27Sep2025 03:57:17.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=13, z=-168} BlockPos{x=-152, y=12, z=-169}
+[27Sep2025 03:57:17.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=13, z=-168} BlockPos{x=-152, y=12, z=-169}
+[27Sep2025 03:57:22.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=14, z=-176} BlockPos{x=-159, y=14, z=-175}
+[27Sep2025 03:57:22.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=14, z=-176} BlockPos{x=-159, y=14, z=-175}
+[27Sep2025 03:57:22.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=14, z=-176} BlockPos{x=-159, y=14, z=-175}
+[27Sep2025 03:57:22.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=14, z=-176} BlockPos{x=-159, y=14, z=-175}
+[27Sep2025 03:57:22.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=14, z=-176} BlockPos{x=-159, y=14, z=-175}
+[27Sep2025 03:57:26.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=14, z=-175} BlockPos{x=-157, y=13, z=-175}
+[27Sep2025 03:58:00.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=16, z=-181} BlockPos{x=-156, y=15, z=-181}
+[27Sep2025 03:58:01.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=14, z=-183} BlockPos{x=-156, y=13, z=-183}
+[27Sep2025 03:58:01.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=14, z=-183} BlockPos{x=-156, y=13, z=-183}
+[27Sep2025 03:58:01.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=14, z=-183} BlockPos{x=-156, y=13, z=-183}
+[27Sep2025 03:58:01.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=14, z=-183} BlockPos{x=-156, y=13, z=-183}
+[27Sep2025 03:58:21.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
+[27Sep2025 03:58:21.806] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jast05 was created at position [x:2984, y:53, z:73, dim:minecraft:the_end]
+[27Sep2025 03:58:21.826] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 03:58:23.094] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 03:58:23.097] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 03:58:23.110] [Server thread/DEBUG] [twilightforest/]: Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) respawned and received items held in storage
+[27Sep2025 03:58:58.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=14, z=-183} BlockPos{x=-150, y=13, z=-184}
+[27Sep2025 03:59:01.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=16, z=-185} BlockPos{x=-149, y=16, z=-185}
+[27Sep2025 03:59:21.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-151, y=14, z=-199} BlockPos{x=-151, y=14, z=-198}
+[27Sep2025 03:59:39.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[27Sep2025 03:59:39.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[27Sep2025 04:00:34.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[27Sep2025 04:00:35.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Three Little Birds]
+[27Sep2025 04:00:43.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
+[27Sep2025 04:00:43.540] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jast05 was created at position [x:3031, y:54, z:123, dim:minecraft:the_end]
+[27Sep2025 04:00:43.542] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 04:00:45.026] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:00:45.026] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 04:00:45.033] [Server thread/DEBUG] [twilightforest/]: Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) respawned and received items held in storage
+[27Sep2025 04:02:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
+[27Sep2025 04:02:37.679] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_27.09.2025-04.02.37.dat
+[27Sep2025 04:02:37.679] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3002 Y: 54 Z: 81
+[27Sep2025 04:02:37.707] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jast05 was created at position [x:3001, y:54, z:81, dim:minecraft:the_end]
+[27Sep2025 04:02:37.709] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 04:02:39.028] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:02:39.028] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 04:02:39.035] [Server thread/DEBUG] [twilightforest/]: Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) respawned and received items held in storage
+[27Sep2025 04:04:39.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[27Sep2025 04:04:39.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[27Sep2025 04:08:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [The End?]
+[27Sep2025 04:08:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
+[27Sep2025 04:08:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Three Little Birds]
+[27Sep2025 04:09:39.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[27Sep2025 04:09:39.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[27Sep2025 04:09:39.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
