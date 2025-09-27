@@ -1300,6 +1300,7 @@
       "chorus_fruit": "2025-06-18 06:44:17 +0000",
       "baked_potato": "2025-06-07 03:50:18 +0000",
       "spider_eye": "2025-06-07 01:16:42 +0000",
+      "pumpkin_pie": "2025-09-27 04:18:11 +0000",
       "bread": "2025-06-07 01:51:31 +0000",
       "golden_apple": "2025-06-14 05:26:03 +0000",
       "rotten_flesh": "2025-06-07 00:54:40 +0000",
@@ -4907,6 +4908,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-09-27 04:17:58 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_aviary": {
     "criteria": {
       "location0": "2025-09-27 04:00:35 +0000"
@@ -4919,15 +4926,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-27 04:15:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-09-27 03:42:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-27 04:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-09-27 03:42:57 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-27 04:11:46 +0000"
     },
     "done": true
   },
@@ -4940,6 +4965,12 @@
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-09-27 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-09-27 04:15:50 +0000"
     },
     "done": true
   },

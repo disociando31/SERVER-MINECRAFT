@@ -498,3 +498,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Sep2025 04:08:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Jast05]
 [27Sep2025 04:08:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 has made the advancement [Three Little Birds]
 [27Sep2025 04:09:39.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to juangl2003]
+[27Sep2025 04:15:39.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 fell from a high place
+[27Sep2025 04:15:39.884] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for juangl2003 with unique ID travelersbackpack.wolf_27.09.2025-04.15.39.dat
+[27Sep2025 04:15:39.885] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3017 Y: 26 Z: 121
+[27Sep2025 04:15:39.886] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[27Sep2025 04:15:43.104] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:15:43.105] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Sep2025 04:16:09.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
+[27Sep2025 04:17:58.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [A self-respecting Soul]

@@ -1426,6 +1426,7 @@
       "minecraft:skeleton": "2025-06-07 03:34:57 +0000",
       "minecraft:ghast": "2025-06-09 04:44:38 +0000",
       "minecraft:hoglin": "2025-06-14 04:20:38 +0000",
+      "minecraft:guardian": "2025-09-27 04:17:56 +0000",
       "minecraft:magma_cube": "2025-06-14 04:08:47 +0000",
       "minecraft:spider": "2025-06-07 03:23:30 +0000",
       "minecraft:piglin_brute": "2025-06-09 04:26:03 +0000",
@@ -4369,15 +4370,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-27 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-27 04:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_glazed_terracotta": {
     "criteria": {
       "has_pink_terracotta": "2025-09-27 04:00:02 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-27 04:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-27 04:19:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_glazed_terracotta": {
     "criteria": {
       "has_blue_terracotta": "2025-09-27 03:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-27 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-27 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-09-27 04:11:42 +0000"
     },
     "done": true
   },
