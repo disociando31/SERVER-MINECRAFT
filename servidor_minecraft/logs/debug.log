@@ -3984,3 +3984,59 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Sep2025 04:17:58.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [A self-respecting Soul]
 [27Sep2025 04:19:38.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [27Sep2025 04:19:39.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[27Sep2025 04:20:51.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was blown up by Creeper
+[27Sep2025 04:20:51.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for juangl2003 with unique ID travelersbackpack.wolf_27.09.2025-04.20.51.dat
+[27Sep2025 04:20:51.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3044 Y: 53 Z: 73
+[27Sep2025 04:20:51.822] [Server thread/DEBUG] [tombstone/]: A new grave of the player juangl2003 was created at position [x:3043, y:53, z:73, dim:minecraft:the_end]
+[27Sep2025 04:20:51.826] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[27Sep2025 04:20:53.560] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:20:53.561] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Sep2025 04:20:53.566] [Server thread/DEBUG] [twilightforest/]: Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) respawned and received items held in storage
+[27Sep2025 04:21:43.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
+[27Sep2025 04:22:12.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [To be or not to be]
+[27Sep2025 04:24:38.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[27Sep2025 04:24:39.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[27Sep2025 04:25:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Guardian
+[27Sep2025 04:25:36.820] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_27.09.2025-04.25.36.dat
+[27Sep2025 04:25:36.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2981 Y: 20 Z: 128
+[27Sep2025 04:25:36.855] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jast05 was created at position [x:2980, y:20, z:128, dim:minecraft:the_end]
+[27Sep2025 04:25:36.859] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 04:25:38.061] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:25:38.062] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Sep2025 04:25:38.068] [Server thread/DEBUG] [twilightforest/]: Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) respawned and received items held in storage
+[27Sep2025 04:25:51.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
+[27Sep2025 04:25:51.921] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for juangl2003 with unique ID travelersbackpack.wolf_27.09.2025-04.25.51.dat
+[27Sep2025 04:25:51.923] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2993 Y: 20 Z: 144
+[27Sep2025 04:25:51.923] [Server thread/DEBUG] [tombstone/]: A new grave of the player juangl2003 was created at position [x:2992, y:20, z:144, dim:minecraft:the_end]
+[27Sep2025 04:25:51.927] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[27Sep2025 04:25:55.522] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:25:55.522] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 04:25:55.527] [Server thread/DEBUG] [twilightforest/]: Player juangl2003 (faffd6a3-f798-3160-91a2-b8544c135b27) respawned and received items held in storage
+[27Sep2025 04:26:00.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Postmortal]
+[27Sep2025 04:26:00.881] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[27Sep2025 04:26:02.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was slain by Guardian
+[27Sep2025 04:26:02.276] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mpalabra with unique ID travelersbackpack.spider_27.09.2025-04.26.02.dat
+[27Sep2025 04:26:02.277] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3002 Y: 20 Z: 134
+[27Sep2025 04:26:02.277] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mpalabra was created at position [x:3001, y:20, z:134, dim:minecraft:the_end]
+[27Sep2025 04:26:02.281] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[27Sep2025 04:26:03.947] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:26:03.947] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Sep2025 04:26:03.958] [Server thread/DEBUG] [twilightforest/]: Player Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6) respawned and received items held in storage
+[27Sep2025 04:26:33.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
+[27Sep2025 04:26:33.971] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_27.09.2025-04.26.33.dat
+[27Sep2025 04:26:33.972] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2990 Y: 27 Z: 136
+[27Sep2025 04:26:33.997] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jast05 was created at position [x:2988, y:26, z:133, dim:minecraft:the_end]
+[27Sep2025 04:26:34.004] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 04:26:35.182] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:26:35.182] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 04:26:35.188] [Server thread/DEBUG] [twilightforest/]: Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) respawned and received items held in storage
+[27Sep2025 04:28:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was killed by magic whilst trying to escape Skeleton
+[27Sep2025 04:28:51.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_27.09.2025-04.28.51.dat
+[27Sep2025 04:28:51.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2992 Y: 24 Z: 129
+[27Sep2025 04:28:51.160] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jast05 was created at position [x:2987, y:25, z:133, dim:minecraft:the_end]
+[27Sep2025 04:28:51.163] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 04:28:52.284] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:28:52.284] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 04:28:52.292] [Server thread/DEBUG] [twilightforest/]: Player Jast05 (6a30e12c-3f4e-3787-aaa0-89876eacaebd) respawned and received items held in storage
+[27Sep2025 04:29:39.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[27Sep2025 04:29:39.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado

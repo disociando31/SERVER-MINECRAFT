@@ -977,6 +977,7 @@
       "minecraft:skeleton": "2025-06-07 00:56:17 +0000",
       "minecraft:ghast": "2025-06-09 04:42:47 +0000",
       "minecraft:hoglin": "2025-06-18 06:36:10 +0000",
+      "minecraft:guardian": "2025-09-27 04:24:44 +0000",
       "minecraft:magma_cube": "2025-06-09 04:38:04 +0000",
       "minecraft:spider": "2025-06-07 02:08:17 +0000",
       "minecraft:creeper": "2025-06-07 02:08:07 +0000",
@@ -4920,6 +4921,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-09-27 04:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-09-27 03:42:57 +0000"
@@ -4935,6 +4942,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-09-27 03:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-09-27 04:26:00 +0000"
     },
     "done": true
   },

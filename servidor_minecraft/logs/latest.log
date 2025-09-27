@@ -506,3 +506,43 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Sep2025 04:15:43.105] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [27Sep2025 04:16:09.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
 [27Sep2025 04:17:58.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [A self-respecting Soul]
+[27Sep2025 04:20:51.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was blown up by Creeper
+[27Sep2025 04:20:51.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for juangl2003 with unique ID travelersbackpack.wolf_27.09.2025-04.20.51.dat
+[27Sep2025 04:20:51.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3044 Y: 53 Z: 73
+[27Sep2025 04:20:51.826] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[27Sep2025 04:20:53.560] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:20:53.561] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Sep2025 04:21:43.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juangl2003: Teleported juangl2003 to Mpalabra]
+[27Sep2025 04:22:12.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [To be or not to be]
+[27Sep2025 04:25:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Guardian
+[27Sep2025 04:25:36.820] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_27.09.2025-04.25.36.dat
+[27Sep2025 04:25:36.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2981 Y: 20 Z: 128
+[27Sep2025 04:25:36.859] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 04:25:38.061] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:25:38.062] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Sep2025 04:25:51.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was slain by Skeleton
+[27Sep2025 04:25:51.921] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for juangl2003 with unique ID travelersbackpack.wolf_27.09.2025-04.25.51.dat
+[27Sep2025 04:25:51.923] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2993 Y: 20 Z: 144
+[27Sep2025 04:25:51.927] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[27Sep2025 04:25:55.522] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:25:55.522] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 04:26:00.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Postmortal]
+[27Sep2025 04:26:00.881] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[27Sep2025 04:26:02.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra was slain by Guardian
+[27Sep2025 04:26:02.276] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mpalabra with unique ID travelersbackpack.spider_27.09.2025-04.26.02.dat
+[27Sep2025 04:26:02.277] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3002 Y: 20 Z: 134
+[27Sep2025 04:26:02.281] [Server thread/INFO] [tombstone/]: The player Mpalabra has successfully been saved
+[27Sep2025 04:26:03.947] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:26:03.947] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Sep2025 04:26:33.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was slain by Skeleton
+[27Sep2025 04:26:33.971] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_27.09.2025-04.26.33.dat
+[27Sep2025 04:26:33.972] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2990 Y: 27 Z: 136
+[27Sep2025 04:26:34.004] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 04:26:35.182] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:26:35.182] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 04:28:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was killed by magic whilst trying to escape Skeleton
+[27Sep2025 04:28:51.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jast05 with unique ID travelersbackpack.bat_27.09.2025-04.28.51.dat
+[27Sep2025 04:28:51.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2992 Y: 24 Z: 129
+[27Sep2025 04:28:51.163] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 04:28:52.284] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:28:52.284] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
