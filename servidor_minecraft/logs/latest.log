@@ -546,3 +546,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Sep2025 04:28:51.163] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
 [27Sep2025 04:28:52.284] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [27Sep2025 04:28:52.284] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 04:31:25.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 was killed by magic whilst trying to escape Skeleton
+[27Sep2025 04:31:25.044] [Server thread/INFO] [tombstone/]: The player Jast05 has successfully been saved
+[27Sep2025 04:31:26.156] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:31:26.157] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Sep2025 04:31:44.910] [Server thread/INFO] [Scaling Health/]: Blight Phantom was killed by Mpalabra
+[27Sep2025 04:32:43.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was shot by Skeleton
+[27Sep2025 04:32:43.423] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for juangl2003 with unique ID travelersbackpack.wolf_27.09.2025-04.32.43.dat
+[27Sep2025 04:32:43.423] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2992 Y: 18 Z: 132
+[27Sep2025 04:32:43.425] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[27Sep2025 04:32:44.764] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:32:44.764] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Sep2025 04:36:44.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to Jast05]
+[27Sep2025 04:37:22.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Ally Enhancer]
+[27Sep2025 04:37:24.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has made the advancement [Black or White]
+[27Sep2025 04:37:49.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jast05 has completed the challenge [Cover Me in Debris]
+[27Sep2025 04:38:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juangl2003 was burnt to a crisp whilst fighting Jast05
+[27Sep2025 04:38:42.421] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for juangl2003 with unique ID travelersbackpack.wolf_27.09.2025-04.38.42.dat
+[27Sep2025 04:38:42.421] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2987 Y: 20 Z: 128
+[27Sep2025 04:38:42.423] [Server thread/INFO] [tombstone/]: The player juangl2003 has successfully been saved
+[27Sep2025 04:38:44.039] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Sep2025 04:38:44.040] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Sep2025 04:39:06.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
