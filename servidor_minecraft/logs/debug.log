@@ -3764,3 +3764,52 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 04:54:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported ALEJITA777 to Arias1179]
 [06Oct2025 04:54:33.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [06Oct2025 04:54:33.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 04:56:53.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=75, z=10} BlockPos{x=64, y=75, z=10}
+[06Oct2025 04:56:56.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=74, z=13} BlockPos{x=70, y=74, z=12}
+[06Oct2025 04:56:56.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=74, z=14} BlockPos{x=71, y=74, z=13}
+[06Oct2025 04:56:59.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=73, z=13} BlockPos{x=61, y=73, z=13}
+[06Oct2025 04:58:57.724] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[06Oct2025 04:58:58.455] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[06Oct2025 04:58:58.474] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[06Oct2025 04:58:58.494] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[06Oct2025 04:58:58.509] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[06Oct2025 04:58:58.523] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[06Oct2025 04:58:58.539] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[06Oct2025 04:58:58.550] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_0 is being run through DFU (hash f1300531218d9ff732065c9f8ca642b4b44a6e3f501632ab0e1c61e6acdb4bfa), this will cause launch time delays
+[06Oct2025 04:58:59.049] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[06Oct2025 04:58:59.050] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[06Oct2025 04:58:59.060] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[06Oct2025 04:58:59.157] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[06Oct2025 04:58:59.176] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[06Oct2025 04:58:59.180] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[06Oct2025 04:59:12.960] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[06Oct2025 04:59:12.976] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[06Oct2025 04:59:33.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 04:59:33.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 05:04:16.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Who You Gonna Call?]
+[06Oct2025 05:04:33.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 05:04:33.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 05:09:33.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 05:09:33.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 05:10:54.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Sweet Dreams]
+[06Oct2025 05:11:22.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Sweet Dreams]
+[06Oct2025 05:11:24.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> zzzzzzzz
+[06Oct2025 05:11:58.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Sweet Dreams]
+[06Oct2025 05:11:59.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> zzzzzzz
+[06Oct2025 05:12:00.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> zzzzzzzz
+[06Oct2025 05:12:01.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> zzzzz
+[06Oct2025 05:12:01.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
+[06Oct2025 05:12:01.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
+[06Oct2025 05:12:01.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
+[06Oct2025 05:12:02.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> zz
+[06Oct2025 05:12:02.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
+[06Oct2025 05:12:02.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
+[06Oct2025 05:12:03.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
+[06Oct2025 05:12:03.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
+[06Oct2025 05:12:03.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
+[06Oct2025 05:12:03.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
+[06Oct2025 05:12:55.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Arias1179 to Mpalabra]
+[06Oct2025 05:13:34.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Ice Bucket Challenge]
+[06Oct2025 05:14:30.430] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Arias1179: {disabled=false, disconnected=true, uuid=26bc5713-adb7-3494-95fd-0eacd0499b84, name=Arias1179, group=null}
+[06Oct2025 05:14:33.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 05:14:33.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
