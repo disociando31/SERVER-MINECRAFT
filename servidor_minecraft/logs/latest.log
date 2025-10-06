@@ -9163,3 +9163,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 20:52:16.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to ALEJITA777]
 [06Oct2025 20:54:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to ALEJITA777]
 [06Oct2025 20:57:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Mpalabra]
+[06Oct2025 20:59:02.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has reached the goal [Bone Crusher]
+[06Oct2025 21:00:57.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 was killed by Area Effect Cloud using magic
+[06Oct2025 21:00:57.862] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEJITA777 with unique ID travelersbackpack.standard_06.10.2025-21.00.57.dat
+[06Oct2025 21:00:57.863] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 611 Y: 82 Z: 29
+[06Oct2025 21:00:57.867] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[06Oct2025 21:00:59.409] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Oct2025 21:00:59.410] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Oct2025 21:07:50.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has reached the goal [Bone Crusher]

@@ -1221,6 +1221,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-10-06 04:37:32 +0000",
+      "minecraft:husk": "2025-10-06 20:57:30 +0000",
       "minecraft:zombie": "2025-10-06 04:37:48 +0000"
     },
     "done": false
@@ -1867,6 +1868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-10-06 21:05:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-10-06 18:37:50 +0000"
@@ -2056,6 +2063,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2025-10-06 18:37:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-10-06 21:06:48 +0000"
     },
     "done": true
   },
@@ -2554,6 +2567,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2025-10-06 18:37:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-10-06 21:02:03 +0000"
     },
     "done": true
   },
@@ -3646,6 +3665,12 @@
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-10-06 20:14:27 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-10-06 21:04:29 +0000"
     },
     "done": true
   },
@@ -4933,6 +4958,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-10-06 21:06:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/sourcestone_2": {
     "criteria": {
       "has_journal": "2025-10-06 18:37:50 +0000"
@@ -5164,6 +5195,12 @@
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-10-06 18:37:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-10-06 21:02:03 +0000"
     },
     "done": true
   },
