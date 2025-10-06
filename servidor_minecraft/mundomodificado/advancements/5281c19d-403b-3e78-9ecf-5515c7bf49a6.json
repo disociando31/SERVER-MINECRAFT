@@ -2724,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-10-06 20:32:26 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2025-10-06 18:40:19 +0000"
@@ -2835,6 +2841,12 @@
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-10-06 18:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-10-06 20:32:40 +0000"
     },
     "done": true
   },
@@ -3053,6 +3065,13 @@
       "has_oak_desk": "2025-10-06 18:40:19 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-10-06 20:32:45 +0000",
+      "minecraft:cow": "2025-10-06 20:32:40 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
@@ -3498,6 +3517,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-10-06 20:30:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-10-06 18:40:19 +0000"
@@ -3609,6 +3634,12 @@
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-10-06 19:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-10-06 20:30:39 +0000"
     },
     "done": true
   },
@@ -4149,6 +4180,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-06 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-10-06 20:31:15 +0000"
     },
     "done": true
   },
@@ -4917,6 +4954,12 @@
   "ars_nouveau:recipes/misc/yellow_sbed": {
     "criteria": {
       "has_journal": "2025-10-06 18:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-10-06 20:32:26 +0000"
     },
     "done": true
   },

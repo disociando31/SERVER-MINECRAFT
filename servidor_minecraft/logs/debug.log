@@ -16262,3 +16262,50 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 20:22:41.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> }
 [06Oct2025 20:27:07.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [06Oct2025 20:27:07.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 20:30:01.992] [Worker-Main-1/DEBUG] [ModernFix/]: Structure aquamirae:lore/outpost is being run through DFU (hash 9ad6a404df2298a3f11c688bbbb4e4e9ef9497d26b6c7f4f36738babc1580429), this will cause launch time delays
+[06Oct2025 20:30:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has reached the goal [Strong or Careful]
+[06Oct2025 20:30:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 drowned
+[06Oct2025 20:30:31.276] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEJITA777 with unique ID travelersbackpack.standard_06.10.2025-20.30.31.dat
+[06Oct2025 20:30:31.278] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 225 Y: 12 Z: 3
+[06Oct2025 20:30:31.284] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEJITA777 was created at position [x:222, y:11, z:0, dim:minecraft:overworld]
+[06Oct2025 20:30:31.287] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[06Oct2025 20:30:31.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported ALEJITA777 to Mpalabra]
+[06Oct2025 20:30:33.977] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Oct2025 20:30:33.977] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Oct2025 20:30:34.035] [Server thread/DEBUG] [twilightforest/]: Player ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e) respawned and received items held in storage
+[06Oct2025 20:31:15.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Rotten to the Core]
+[06Oct2025 20:31:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has reached the goal [Chain Death]
+[06Oct2025 20:31:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 drowned
+[06Oct2025 20:31:22.463] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEJITA777 was created at position [x:221, y:-4, z:-4, dim:minecraft:overworld]
+[06Oct2025 20:31:22.465] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[06Oct2025 20:31:23.840] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Oct2025 20:31:23.840] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Oct2025 20:31:23.895] [Server thread/DEBUG] [twilightforest/]: Player ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e) respawned and received items held in storage
+[06Oct2025 20:32:07.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 20:32:07.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 20:32:15.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 drowned
+[06Oct2025 20:32:15.811] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEJITA777 was created at position [x:223, y:8, z:6, dim:minecraft:overworld]
+[06Oct2025 20:32:15.812] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[06Oct2025 20:32:17.258] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Oct2025 20:32:17.259] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Oct2025 20:32:17.307] [Server thread/DEBUG] [twilightforest/]: Player ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e) respawned and received items held in storage
+[06Oct2025 20:32:40.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [The Parrots and the Bats]
+[06Oct2025 20:33:01.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[06Oct2025 20:33:01.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[06Oct2025 20:33:01.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[06Oct2025 20:33:01.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[06Oct2025 20:33:01.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[06Oct2025 20:33:01.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Oct2025 20:33:01.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Oct2025 20:33:24.813] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[06Oct2025 20:33:24.814] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[06Oct2025 20:34:09.933] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[06Oct2025 20:34:09.947] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[06Oct2025 20:34:09.966] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[06Oct2025 20:34:09.987] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[06Oct2025 20:34:10.074] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[06Oct2025 20:34:10.079] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[06Oct2025 20:34:10.358] [Worker-Main-3/DEBUG] [ModernFix/]: Structure aquamirae:lore/ship is being run through DFU (hash 6b391b75153ba8f87f2d642e8594c8644f176114b9b494a545501ffda3c8387f), this will cause launch time delays
+[06Oct2025 20:36:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has reached the goal [Exorcism]
+[06Oct2025 20:37:07.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 20:37:07.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado

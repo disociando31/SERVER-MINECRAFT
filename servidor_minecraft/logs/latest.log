@@ -9127,3 +9127,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 20:13:49.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/8554, l='ServerLevel[mundomodificado]', x=284.38, y=98.00, z=91.30] died, message: 'Leatherworker was slain by Door Knight'
 [06Oct2025 20:14:12.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Diamonds!]
 [06Oct2025 20:22:41.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> }
+[06Oct2025 20:30:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has reached the goal [Strong or Careful]
+[06Oct2025 20:30:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 drowned
+[06Oct2025 20:30:31.276] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEJITA777 with unique ID travelersbackpack.standard_06.10.2025-20.30.31.dat
+[06Oct2025 20:30:31.278] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 225 Y: 12 Z: 3
+[06Oct2025 20:30:31.287] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[06Oct2025 20:30:31.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported ALEJITA777 to Mpalabra]
+[06Oct2025 20:30:33.977] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Oct2025 20:30:33.977] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Oct2025 20:31:15.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Rotten to the Core]
+[06Oct2025 20:31:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has reached the goal [Chain Death]
+[06Oct2025 20:31:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 drowned
+[06Oct2025 20:31:22.465] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[06Oct2025 20:31:23.840] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Oct2025 20:31:23.840] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Oct2025 20:32:15.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 drowned
+[06Oct2025 20:32:15.812] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[06Oct2025 20:32:17.258] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Oct2025 20:32:17.259] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[06Oct2025 20:32:40.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [The Parrots and the Bats]
+[06Oct2025 20:33:24.813] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[06Oct2025 20:33:24.814] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[06Oct2025 20:36:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has reached the goal [Exorcism]
