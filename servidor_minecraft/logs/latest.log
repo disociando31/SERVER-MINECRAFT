@@ -9154,3 +9154,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 20:43:52.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Life turned out to be a comedy]
 [06Oct2025 20:44:30.817] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ALEJITA777})
 [06Oct2025 20:44:31.409] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ALEJITA777})
+[06Oct2025 20:49:07.941] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[06Oct2025 20:49:07.942] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[06Oct2025 20:49:07.942] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[06Oct2025 20:49:07.942] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[06Oct2025 20:49:07.942] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[06Oct2025 20:51:12.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Who You Gonna Call?]
+[06Oct2025 20:52:16.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to ALEJITA777]
+[06Oct2025 20:54:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Mpalabra to ALEJITA777]
+[06Oct2025 20:57:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Mpalabra]
