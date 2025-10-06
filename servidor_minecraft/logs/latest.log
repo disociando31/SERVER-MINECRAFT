@@ -266,3 +266,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 04:18:35.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Stone Free]
 [06Oct2025 04:18:55.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Stone Age]
 [06Oct2025 04:19:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Getting an Upgrade]
+[06Oct2025 04:24:29.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALEJITA777[/127.156.136.69:40313] logged in with entity id 3745 at (15.5, 72.0, 19.5)
+[06Oct2025 04:24:29.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 joined the game
+[06Oct2025 04:24:29.975] [Server thread/INFO] [Jade/]: Syncing config to ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e)
+[06Oct2025 04:24:30.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Ice and Fire]
+[06Oct2025 04:24:31.334] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ALEJITA777 (18)
+[06Oct2025 04:24:31.335] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ALEJITA777
+[06Oct2025 04:25:45.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported ALEJITA777 to Arias1179]
+[06Oct2025 04:27:19.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Acquire Hardware]
+[06Oct2025 04:27:38.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Isn't It Iron Pick]
+[06Oct2025 04:28:53.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Stone Age]
+[06Oct2025 04:29:27.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Getting an Upgrade]
+[06Oct2025 04:30:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Stone Free]
+[06Oct2025 04:30:13.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Monster Hunter]
+[06Oct2025 04:33:01.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Acquire Hardware]
