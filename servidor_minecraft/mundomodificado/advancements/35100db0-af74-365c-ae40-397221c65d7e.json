@@ -236,6 +236,7 @@
       "minecraft:beach": "2025-10-06 04:40:20 +0000",
       "minecraft:river": "2025-10-06 04:40:21 +0000",
       "minecraft:stony_shore": "2025-10-06 04:44:24 +0000",
+      "minecraft:dripstone_caves": "2025-10-06 20:42:36 +0000",
       "minecraft:forest": "2025-10-06 04:24:30 +0000",
       "minecraft:lush_caves": "2025-10-06 04:49:54 +0000",
       "minecraft:ocean": "2025-10-06 04:52:34 +0000",
@@ -3570,6 +3571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-10-06 20:40:55 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-10-06 18:37:50 +0000"
@@ -3753,6 +3760,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-10-06 18:37:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-10-06 20:43:52 +0000"
     },
     "done": true
   },

@@ -16309,3 +16309,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 20:36:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has reached the goal [Exorcism]
 [06Oct2025 20:37:07.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [06Oct2025 20:37:07.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 20:39:07.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Mpalabra]
+[06Oct2025 20:42:07.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 20:42:07.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 20:43:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Mpalabra]
+[06Oct2025 20:43:52.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Life turned out to be a comedy]
+[06Oct2025 20:44:30.817] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ALEJITA777})
+[06Oct2025 20:44:31.409] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ALEJITA777})
+[06Oct2025 20:47:07.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 20:47:07.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado

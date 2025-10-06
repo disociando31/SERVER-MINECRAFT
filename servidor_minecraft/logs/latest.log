@@ -9149,3 +9149,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 20:33:24.813] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
 [06Oct2025 20:33:24.814] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
 [06Oct2025 20:36:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has reached the goal [Exorcism]
+[06Oct2025 20:39:07.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Mpalabra]
+[06Oct2025 20:43:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Mpalabra]
+[06Oct2025 20:43:52.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Life turned out to be a comedy]
+[06Oct2025 20:44:30.817] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ALEJITA777})
+[06Oct2025 20:44:31.409] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ALEJITA777})
