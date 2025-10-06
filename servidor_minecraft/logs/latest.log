@@ -9126,3 +9126,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 20:13:44.905] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/8848, l='ServerLevel[mundomodificado]', x=279.45, y=98.00, z=89.53] died, message: 'Nitwit was slain by Door Knight'
 [06Oct2025 20:13:49.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/8554, l='ServerLevel[mundomodificado]', x=284.38, y=98.00, z=91.30] died, message: 'Leatherworker was slain by Door Knight'
 [06Oct2025 20:14:12.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Diamonds!]
+[06Oct2025 20:22:41.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> }
