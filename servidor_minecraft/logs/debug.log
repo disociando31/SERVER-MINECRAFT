@@ -16238,3 +16238,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 19:42:07.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
 [06Oct2025 19:47:07.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [06Oct2025 19:47:07.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 19:49:28.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=215, y=72, z=91} BlockPos{x=215, y=71, z=86}
+[06Oct2025 19:52:07.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 19:52:07.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[06Oct2025 19:57:07.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[06Oct2025 19:57:07.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado

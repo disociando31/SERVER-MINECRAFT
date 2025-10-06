@@ -9119,3 +9119,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 19:00:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> zzzzzzzz
 [06Oct2025 19:17:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Good Demoman]
 [06Oct2025 19:18:51.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Junior Summoner]
+[06Oct2025 19:49:28.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=215, y=72, z=91} BlockPos{x=215, y=71, z=86}
