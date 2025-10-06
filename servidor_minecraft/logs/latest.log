@@ -355,3 +355,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Oct2025 05:12:03.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> z
 [06Oct2025 05:12:55.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mpalabra: Teleported Arias1179 to Mpalabra]
 [06Oct2025 05:13:34.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra has made the advancement [Ice Bucket Challenge]
+[06Oct2025 05:15:59.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made arias1178 a server operator
+[06Oct2025 05:16:13.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ALEJITA777 a server operator
+[06Oct2025 05:16:42.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Arias1179> [name:"casa v4", x:40, y:62, z:7, dim:minecraft:overworld]
+[06Oct2025 05:19:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Arias1179 a server operator
+[06Oct2025 05:20:01.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEJITA777 moved too quickly! -2.9450759266167097,0.0,9.774107067092501
+[06Oct2025 05:20:07.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[06Oct2025 05:20:16.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Timed out
+[06Oct2025 05:20:16.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[06Oct2025 05:20:16.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[06Oct2025 05:20:19.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEJITA777 lost connection: Timed out
+[06Oct2025 05:20:19.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 left the game
+[06Oct2025 05:20:19.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ALEJITA777
+[06Oct2025 05:20:27.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.172.20.104:44303] logged in with entity id 23307 at (220.30000001192093, 65.0, 68.69999998807907)
+[06Oct2025 05:20:27.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
+[06Oct2025 05:20:27.344] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
+[06Oct2025 05:20:27.507] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
+[06Oct2025 05:20:27.508] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[06Oct2025 05:20:46.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arias1179 lost connection: Disconnected
+[06Oct2025 05:20:46.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 left the game
+[06Oct2025 05:20:46.201] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Arias1179
+[06Oct2025 05:20:50.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALEJITA777[/127.156.136.69:60199] logged in with entity id 23362 at (215.9764699117768, 70.1212968405392, 67.07429410809141)
+[06Oct2025 05:20:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 joined the game
+[06Oct2025 05:20:50.580] [Server thread/INFO] [Jade/]: Syncing config to ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e)
+[06Oct2025 05:20:50.718] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ALEJITA777 (18)
+[06Oct2025 05:20:50.718] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ALEJITA777
