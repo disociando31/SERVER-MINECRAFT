@@ -533,3 +533,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 04:35:13.963] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [07Oct2025 04:35:13.964] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [07Oct2025 04:35:53.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported ALEJITA777 to Arias1179]
+[07Oct2025 04:39:09.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[07Oct2025 04:39:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[07Oct2025 04:39:09.581] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[07Oct2025 04:39:09.666] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Oct2025 04:39:25.875] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10ef1685[id=<null>,name=Mpalabra,properties={},legacy=false] (/127.172.20.104:34479) lost connection: Disconnected
+[07Oct2025 04:39:49.873] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6932867c[id=<null>,name=Mpalabra,properties={},legacy=false] (/127.172.20.104:47131) lost connection: Disconnected

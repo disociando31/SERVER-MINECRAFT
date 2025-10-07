@@ -1997,9 +1997,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_tower_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-07 04:33:28 +0000"
     },
     "done": true
   },
@@ -2117,6 +2129,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-10-07 04:31:42 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/yellow_archwood": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -2153,6 +2171,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -2162,6 +2192,12 @@
   "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
     "criteria": {
       "has_template": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2025-10-07 04:33:28 +0000"
     },
     "done": true
   },
@@ -2180,6 +2216,12 @@
   "ars_nouveau:recipes/misc/runic_chalk": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -2273,6 +2315,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -2357,6 +2405,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_button": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -2429,15 +2483,33 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-10-07 04:33:34 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/annotated_codex": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-10-07 04:33:28 +0000"
     },
     "done": true
   },
@@ -2507,6 +2579,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/polished_source_sconce": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -2528,6 +2612,12 @@
   "ars_nouveau:recipes/misc/ritual_sunrise": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -2567,6 +2657,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -2576,6 +2672,12 @@
   "ars_nouveau:recipes/misc/source_berry_pie": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -2657,6 +2759,24 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-10-07 04:33:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/magebloom_block": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -2666,6 +2786,12 @@
   "ars_nouveau:recipes/misc/blank_parchment": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-10-07 04:33:28 +0000"
     },
     "done": true
   },
@@ -2741,9 +2867,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-10-07 04:33:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/red_sbed": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -2975,6 +3113,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -2984,6 +3128,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -3038,6 +3188,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -3161,6 +3317,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_calcite": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -3233,6 +3395,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-07 04:33:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -3242,6 +3410,12 @@
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-10-07 04:34:15 +0000"
     },
     "done": true
   },
@@ -3278,6 +3452,12 @@
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -3359,6 +3539,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -3407,9 +3593,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/basic_spell_turret": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -3449,6 +3653,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -3458,6 +3674,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -3503,6 +3725,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/spruce_trim": {
     "criteria": {
       "has_planks": "2025-10-07 04:30:45 +0000"
@@ -3518,6 +3746,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-10-07 04:34:15 +0000"
     },
     "done": true
   },
@@ -3665,6 +3899,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2025-10-07 04:33:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -3755,6 +3995,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -3770,6 +4016,12 @@
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
@@ -3875,6 +4127,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-10-07 04:33:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
@@ -3902,6 +4166,12 @@
   "ars_elemental:recipes/misc/flight_alt": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2025-10-07 04:40:24 +0000"
     },
     "done": true
   },
