@@ -326,3 +326,196 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 19:23:57.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
 [07Oct2025 19:23:57.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Minecraft/main/aquamirae/versions.json
 [07Oct2025 19:23:57.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Found status: UP_TO_DATE Current: 6.1.0 Target: null
+[07Oct2025 19:23:59.823] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.7.jar
+[07Oct2025 19:23:59.864] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/platinum as it is missing following references: alltheores:dirty_platinum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.866] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/iridium as it is missing following references: alltheores:iridium_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.866] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/zinc as it is missing following references: alltheores:zinc_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.867] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/zinc as it is missing following references: alltheores:zinc_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.868] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/nickel as it is missing following references: alltheores:nickel_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.869] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/platinum as it is missing following references: alltheores:platinum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.869] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals as it is missing following references: alltheores:aluminum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:nickel_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:platinum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:silver_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:zinc_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:iridium_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.871] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/platinum as it is missing following references: alltheores:platinum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.871] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards as it is missing following references: alltheores:aluminum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:nickel_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:platinum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:silver_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:zinc_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:iridium_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.872] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/aluminum as it is missing following references: alltheores:aluminum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.873] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/silver as it is missing following references: alltheores:silver_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.873] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/silver as it is missing following references: alltheores:silver_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.874] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/iridium as it is missing following references: alltheores:iridium_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.875] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps as it is missing following references: alltheores:aluminum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:nickel_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:platinum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:silver_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:zinc_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:iridium_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.877] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/nickel as it is missing following references: alltheores:dirty_nickel_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.878] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/aluminum as it is missing following references: alltheores:aluminum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.878] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/zinc as it is missing following references: alltheores:dirty_zinc_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.879] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/aluminum as it is missing following references: alltheores:aluminum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.880] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/aluminum as it is missing following references: alltheores:dirty_aluminum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.881] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/silver as it is missing following references: alltheores:silver_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.883] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/nickel as it is missing following references: alltheores:nickel_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.883] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/iridium as it is missing following references: alltheores:iridium_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.883] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/nickel as it is missing following references: alltheores:nickel_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.884] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/silver as it is missing following references: alltheores:dirty_silver_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.884] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/zinc as it is missing following references: alltheores:zinc_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.886] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/iridium as it is missing following references: alltheores:dirty_iridium_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.888] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/platinum as it is missing following references: alltheores:platinum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:23:59.888] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts as it is missing following references: alltheores:dirty_aluminum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:dirty_nickel_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:dirty_platinum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:dirty_silver_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:dirty_zinc_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+	alltheores:dirty_iridium_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[07Oct2025 19:24:03.326] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.333] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.337] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.343] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/hellfire_burn as it's serializer returned null
+[07Oct2025 19:24:03.343] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/nether_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
+[07Oct2025 19:24:03.347] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe allthearcanistgear:base_boots_to_allthemodium_boots_smithing as it's serializer returned null
+[07Oct2025 19:24:03.350] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.360] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
+[07Oct2025 19:24:03.377] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.379] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.386] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.386] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.389] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.391] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[07Oct2025 19:24:03.396] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.396] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[07Oct2025 19:24:03.399] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.399] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botany_pots:ars_elemental/flashing_archwood as it's serializer returned null
+[07Oct2025 19:24:03.401] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe allthearcanistgear:base_chest_to_allthemodium_robes_smithing as it's serializer returned null
+[07Oct2025 19:24:03.403] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.405] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.406] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.407] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_shard: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.408] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.408] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.408] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/life_link as it's serializer returned null
+[07Oct2025 19:24:03.410] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.412] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.416] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/entrhalled as it's serializer returned null
+[07Oct2025 19:24:03.417] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.421] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.422] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.424] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.433] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.437] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[07Oct2025 19:24:03.438] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.442] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.448] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[07Oct2025 19:24:03.458] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.465] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.465] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.468] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.469] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.471] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.473] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/nether_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
+[07Oct2025 19:24:03.474] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/watery_grave as it's serializer returned null
+[07Oct2025 19:24:03.475] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.478] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/slurry/dirty_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.481] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
+[07Oct2025 19:24:03.481] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.482] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.485] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[07Oct2025 19:24:03.487] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.489] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.492] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.496] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_shard: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.501] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.503] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/deepslate_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
+[07Oct2025 19:24:03.504] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
+[07Oct2025 19:24:03.505] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.506] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.507] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.508] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/mana_shield as it's serializer returned null
+[07Oct2025 19:24:03.509] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
+[07Oct2025 19:24:03.517] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe allthearcanistgear:base_hat_to_allthemodium_hat_smithing as it's serializer returned null
+[07Oct2025 19:24:03.521] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.521] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.522] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/deepslate_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
+[07Oct2025 19:24:03.522] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
+[07Oct2025 19:24:03.525] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[07Oct2025 19:24:03.527] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[07Oct2025 19:24:03.529] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe allthearcanistgear:base_legs_to_allthemodium_leggings_smithing as it's serializer returned null
+[07Oct2025 19:24:03.532] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
+[07Oct2025 19:24:03.532] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[07Oct2025 19:24:03.537] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 27 recipes
+[07Oct2025 19:24:03.586] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[07Oct2025 19:24:03.652] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[07Oct2025 19:24:03.674] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[07Oct2025 19:24:03.681] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[07Oct2025 19:24:03.724] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4107 advancements
+[07Oct2025 19:24:03.729] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[07Oct2025 19:24:03.738] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[07Oct2025 19:24:03.744] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[07Oct2025 19:24:03.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Oct2025 19:24:03.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Oct2025 19:24:03.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Oct2025 19:24:03.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Oct2025 19:24:04.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Oct2025 19:24:04.036] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Oct2025 19:24:04.105] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** FAILED TO BIND TO PORT!
+[07Oct2025 19:24:04.105] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[07Oct2025 19:24:04.106] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: Perhaps a server is already running on that port?
+[07Oct2025 19:24:04.106] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:635) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Oct2025 19:24:04.107] [Server thread/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: Could not initialize class oshi.SystemInfo
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.MinecraftServer.m_206568_(MinecraftServer.java:721) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:675) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: com/sun/jna/Platform [in thread "main"]
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[07Oct2025 19:24:04.118] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 75025241-ebea-475d-b2cb-1b143e13b015
+[07Oct2025 19:24:04.119] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/SERVER-MINECRAFT/servidor_minecraft/./crash-reports/crash-2025-10-07_19.24.04-server.txt
+[07Oct2025 19:24:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Oct2025 19:24:04.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Oct2025 19:24:04.120] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.ServerLevel.m_6857_()" because "serverlevel2" is null
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Oct2025 19:24:04.122] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Oct2025 19:24:04.122] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
