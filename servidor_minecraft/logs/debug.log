@@ -8536,3 +8536,50 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 04:53:19.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Arias1179]
 [07Oct2025 04:55:21.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=353, y=64, z=-192} BlockPos{x=353, y=62, z=-192}
 [07Oct2025 04:55:21.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=353, y=64, z=-192} BlockPos{x=353, y=62, z=-192}
+[07Oct2025 04:56:27.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 04:56:27.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Oct2025 04:57:00.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=522, y=64, z=-187} BlockPos{x=523, y=62, z=-188}
+[07Oct2025 04:57:11.722] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[07Oct2025 04:57:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[07Oct2025 04:57:52.823] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[07Oct2025 04:58:32.314] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[07Oct2025 04:58:58.709] [Worker-Main-51/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[07Oct2025 04:58:58.715] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_2 is being run through DFU (hash 2445d4f294b23c401119622c9de2a97f3ea54b9d66f5562660d5fb3ea715d4c5), this will cause launch time delays
+[07Oct2025 04:58:59.061] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_3 is being run through DFU (hash 9be7dc68dca9b93ac37c1224d077f55016a289e6e177eb7fcbafb1b0be4732eb), this will cause launch time delays
+[07Oct2025 04:58:59.088] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_3 is being run through DFU (hash 4a7d454dfed90309aabf16a32b78c879d63c99efdddf37b4ce06267dc2a79047), this will cause launch time delays
+[07Oct2025 04:58:59.114] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_0 is being run through DFU (hash 2cd1bc01e2ef5b512bceb248b598da38d174fe273c20004578927c9480c55468), this will cause launch time delays
+[07Oct2025 04:58:59.138] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_1 is being run through DFU (hash a1483b8f75e150ae19b7d93a82a12b57e707fc5ffe525b2134a341d967d91b56), this will cause launch time delays
+[07Oct2025 04:58:59.150] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0 is being run through DFU (hash ec681d08a0afabe245754b4760984520048ae6720cb4bfb9e9d492f8d01c2884), this will cause launch time delays
+[07Oct2025 04:58:59.358] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0 is being run through DFU (hash 4531e4a1c231841a0733a93ca24c388ab8751ebc7ca192aa3cf71507ae06c44a), this will cause launch time delays
+[07Oct2025 04:58:59.370] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_0 is being run through DFU (hash 2fd728543984020d4f1d04343ff9e30e35f5e4f813f2f41d3f27bccd6d2dd45f), this will cause launch time delays
+[07Oct2025 04:58:59.397] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_1 is being run through DFU (hash 4fe802a26cac59fd677ec3da19df08f21372ca7ac1ec323283c274d63ce93343), this will cause launch time delays
+[07Oct2025 04:58:59.407] [Worker-Main-51/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_2 is being run through DFU (hash 5dcdc15ff909e031ef282fcfbfcf1b272000f6f5b07a68ec1c1d53ce15a9501e), this will cause launch time delays
+[07Oct2025 05:00:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Arias1179]
+[07Oct2025 05:00:27.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> zzzzz
+[07Oct2025 05:01:10.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Knowledge of Death]
+[07Oct2025 05:01:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Ashes 'n Bones]
+[07Oct2025 05:01:15.966] [Worker-Main-33/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:lookout_tower is being run through DFU (hash 69bd5f46eaa56de8fcad01102a19c9907f355ff2926fe467684f07d855c1da43), this will cause launch time delays
+[07Oct2025 05:01:27.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 05:01:27.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Oct2025 05:01:54.155] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[07Oct2025 05:01:54.171] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[07Oct2025 05:01:54.182] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[07Oct2025 05:01:54.190] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[07Oct2025 05:01:54.203] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[07Oct2025 05:01:54.210] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[07Oct2025 05:01:54.210] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[07Oct2025 05:01:54.211] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[07Oct2025 05:01:54.212] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[07Oct2025 05:01:54.220] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[07Oct2025 05:01:54.227] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[07Oct2025 05:01:54.238] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[07Oct2025 05:01:54.254] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[07Oct2025 05:01:54.254] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[07Oct2025 05:02:18.806] [Worker-Main-51/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[07Oct2025 05:02:23.122] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[07Oct2025 05:02:23.154] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[07Oct2025 05:02:30.400] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[07Oct2025 05:03:26.907] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[07Oct2025 05:03:52.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[07Oct2025 05:06:27.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 05:06:27.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado

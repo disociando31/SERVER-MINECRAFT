@@ -551,3 +551,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 04:53:19.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Arias1179]
 [07Oct2025 04:55:21.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=353, y=64, z=-192} BlockPos{x=353, y=62, z=-192}
 [07Oct2025 04:55:21.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=353, y=64, z=-192} BlockPos{x=353, y=62, z=-192}
+[07Oct2025 04:57:00.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=522, y=64, z=-187} BlockPos{x=523, y=62, z=-188}
+[07Oct2025 04:57:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[07Oct2025 05:00:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Arias1179]
+[07Oct2025 05:00:27.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> zzzzz
+[07Oct2025 05:01:10.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Knowledge of Death]
+[07Oct2025 05:01:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Ashes 'n Bones]
+[07Oct2025 05:03:52.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
