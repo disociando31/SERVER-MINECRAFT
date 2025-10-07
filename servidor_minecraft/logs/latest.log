@@ -499,3 +499,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 04:10:46.737] [Server thread/INFO] [Jade/]: Syncing config to ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e)
 [07Oct2025 04:10:48.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ALEJITA777 (18)
 [07Oct2025 04:10:48.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ALEJITA777
+[07Oct2025 04:18:00.687] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [obscure_api:obscure_api,spartanshields:network,storagedrawers:main,aquamirae:main,curios:main,ars_elemental:main,born_in_chaos_v1:born_in_chaos_v1] rejected their client side version number
+[07Oct2025 04:18:00.687] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[07Oct2025 04:18:00.722] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@731019c5[id=<null>,name=Arias1179,properties={},legacy=false] (/127.46.232.163:54125) lost connection: Connection closed - mismatched mod channel list
+[07Oct2025 04:21:14.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEJITA777 lost connection: Disconnected
+[07Oct2025 04:21:14.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 left the game
+[07Oct2025 04:21:14.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ALEJITA777
