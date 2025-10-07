@@ -505,3 +505,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 04:21:14.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEJITA777 lost connection: Disconnected
 [07Oct2025 04:21:14.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 left the game
 [07Oct2025 04:21:14.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ALEJITA777
+[07Oct2025 04:29:08.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALEJITA777[/127.156.136.69:46285] logged in with entity id 2379 at (621.5898985398298, 96.0, 19.437640125039632)
+[07Oct2025 04:29:08.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 joined the game
+[07Oct2025 04:29:08.184] [Server thread/INFO] [Jade/]: Syncing config to ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e)
+[07Oct2025 04:29:10.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ALEJITA777 (18)
+[07Oct2025 04:29:10.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ALEJITA777
+[07Oct2025 04:30:45.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arias1179[/127.46.232.163:52501] logged in with entity id 2858 at (217.43185518379747, 71.0, 82.50787192937835)
+[07Oct2025 04:30:45.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 joined the game
+[07Oct2025 04:30:45.588] [Server thread/INFO] [Jade/]: Syncing config to Arias1179 (26bc5713-adb7-3494-95fd-0eacd0499b84)
+[07Oct2025 04:30:47.247] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Arias1179 (18)
+[07Oct2025 04:30:47.248] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Arias1179
+[07Oct2025 04:31:42.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [A Strange Grave Dust]
+[07Oct2025 04:31:58.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2899, l='ServerLevel[mundomodificado]', x=278.99, y=98.46, z=87.97] died, message: 'Unemployed was slain by Zombie Bruiser'
+[07Oct2025 04:34:24.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mpalabra[/127.172.20.104:50781] logged in with entity id 4134 at (621.250400592022, 74.0, 23.942859877962295)
+[07Oct2025 04:34:24.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra joined the game
+[07Oct2025 04:34:24.174] [Server thread/INFO] [Jade/]: Syncing config to Mpalabra (5281c19d-403b-3e78-9ecf-5515c7bf49a6)
+[07Oct2025 04:34:25.630] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mpalabra (18)
+[07Oct2025 04:34:25.630] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mpalabra
+[07Oct2025 04:34:36.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 was slain by Nightmare Stalker
+[07Oct2025 04:34:36.396] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEJITA777 with unique ID travelersbackpack.standard_07.10.2025-04.34.36.dat
+[07Oct2025 04:34:36.402] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 569 Y: 63 Z: -13
+[07Oct2025 04:34:36.431] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[07Oct2025 04:34:39.388] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 04:34:39.389] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[07Oct2025 04:35:12.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 was slain by Corpse Fly
+[07Oct2025 04:35:12.805] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[07Oct2025 04:35:13.963] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 04:35:13.964] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[07Oct2025 04:35:53.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported ALEJITA777 to Arias1179]
