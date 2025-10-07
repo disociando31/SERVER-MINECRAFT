@@ -4928,6 +4928,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_nickel_from_block": {
+    "criteria": {
+      "has_item": "2025-10-07 05:52:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-10-07 04:30:45 +0000"

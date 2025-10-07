@@ -613,3 +613,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 05:27:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported ALEJITA777 to Arias1179]
 [07Oct2025 05:27:30.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Sneak 100]
 [07Oct2025 05:30:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Arias1179]
+[07Oct2025 05:53:42.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arias1179 lost connection: Disconnected
+[07Oct2025 05:53:42.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 left the game
+[07Oct2025 05:53:42.022] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Arias1179
+[07Oct2025 05:53:47.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEJITA777 lost connection: Disconnected
+[07Oct2025 05:53:47.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 left the game
+[07Oct2025 05:53:47.771] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ALEJITA777
+[07Oct2025 05:57:08.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya me volvio el inter
