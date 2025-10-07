@@ -603,3 +603,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 05:15:49.130] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
 [07Oct2025 05:15:50.586] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [07Oct2025 05:15:50.586] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Oct2025 05:16:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 was slain by Door Knight
+[07Oct2025 05:16:41.937] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[07Oct2025 05:16:43.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:16:43.320] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[07Oct2025 05:24:57.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[07Oct2025 05:25:24.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Sneak 100]
+[07Oct2025 05:26:52.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Arias1179]
+[07Oct2025 05:27:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported ALEJITA777 to Arias1179]
+[07Oct2025 05:27:30.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Sneak 100]
+[07Oct2025 05:30:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Arias1179]

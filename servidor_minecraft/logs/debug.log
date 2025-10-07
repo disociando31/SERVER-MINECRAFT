@@ -8646,3 +8646,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 05:15:50.594] [Server thread/DEBUG] [twilightforest/]: Player ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e) respawned and received items held in storage
 [07Oct2025 05:16:27.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
 [07Oct2025 05:16:27.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Oct2025 05:16:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 was slain by Door Knight
+[07Oct2025 05:16:41.925] [Server thread/DEBUG] [tombstone/]: A new grave of the player ALEJITA777 was created at position [x:1169, y:-27, z:-12, dim:minecraft:overworld]
+[07Oct2025 05:16:41.937] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[07Oct2025 05:16:43.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:16:43.320] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[07Oct2025 05:16:43.328] [Server thread/DEBUG] [twilightforest/]: Player ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e) respawned and received items held in storage
+[07Oct2025 05:21:27.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 05:21:27.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Oct2025 05:24:57.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[07Oct2025 05:25:24.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Sneak 100]
+[07Oct2025 05:26:27.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 05:26:27.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Oct2025 05:26:52.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Arias1179]
+[07Oct2025 05:27:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported ALEJITA777 to Arias1179]
+[07Oct2025 05:27:30.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Sneak 100]
+[07Oct2025 05:30:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Arias1179]
+[07Oct2025 05:31:27.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 05:31:27.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Oct2025 05:36:27.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 05:36:27.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
