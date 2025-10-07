@@ -2966,9 +2966,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-10-07 05:41:16 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/shroud_key": {
     "criteria": {
       "has_template": "2025-10-07 04:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-10-07 05:41:16 +0000"
     },
     "done": true
   },
@@ -4889,6 +4901,12 @@
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-10-07 04:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-10-07 05:41:16 +0000"
     },
     "done": true
   },

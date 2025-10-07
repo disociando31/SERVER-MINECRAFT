@@ -5819,6 +5819,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-10-07 05:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-10-07 05:37:58 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_uranium_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-10-07 05:22:58 +0000"
@@ -6050,6 +6062,12 @@
   "alltheores:recipes/misc/raw_nickel_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-10-07 05:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-10-07 05:37:58 +0000"
     },
     "done": true
   },
