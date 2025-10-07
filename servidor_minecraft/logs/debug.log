@@ -6760,3 +6760,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 16:58:31.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
 [07Oct2025 16:58:31.835] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mpalabra
 [07Oct2025 16:58:31.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
+[07Oct2025 16:58:48.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 16:58:48.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Oct2025 16:58:55.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEJITA777 lost connection: Timed out
+[07Oct2025 16:58:55.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 left the game
+[07Oct2025 16:58:55.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ALEJITA777
+[07Oct2025 16:58:55.687] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ALEJITA777
+[07Oct2025 17:03:48.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 17:03:48.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
+[07Oct2025 17:08:48.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundomodificado
+[07Oct2025 17:08:48.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundomodificado
