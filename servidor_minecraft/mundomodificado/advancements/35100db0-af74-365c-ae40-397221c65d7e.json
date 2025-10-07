@@ -5732,5 +5732,35 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-10-07 04:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-10-07 04:50:44 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-10-07 04:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-10-07 04:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-10-07 04:50:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
