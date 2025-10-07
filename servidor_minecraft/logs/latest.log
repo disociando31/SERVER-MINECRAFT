@@ -1,29 +1,26 @@
-[07Oct2025 19:23:36.781] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[07Oct2025 19:23:36.785] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[07Oct2025 19:23:37.613] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[07Oct2025 19:23:37.667] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[07Oct2025 19:23:38.038] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[07Oct2025 19:23:38.040] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Oct2025 19:23:38.041] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Oct2025 19:23:38.042] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Oct2025 19:23:38.263] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[07Oct2025 19:23:38.264] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/SERVER-MINECRAFT/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.7.jar
-[07Oct2025 19:23:38.264] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[07Oct2025 19:23:41.145] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Oct2025 19:23:41.365] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[07Oct2025 19:23:41.367] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[07Oct2025 19:23:41.374] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[07Oct2025 19:23:41.500] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.10+mc1.20.1: 83 options available, 0 override(s) found
-[07Oct2025 19:23:41.501] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[07Oct2025 19:23:41.520] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[07Oct2025 19:23:41.682] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Oct2025 19:23:41.700] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Oct2025 19:23:41.715] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Oct2025 19:23:41.759] [main/INFO] [Puzzles Lib/]: Loading 59 mods:
+[07Oct2025 19:36:44.220] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07Oct2025 19:36:44.224] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[07Oct2025 19:36:44.972] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Oct2025 19:36:45.037] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[07Oct2025 19:36:45.434] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07Oct2025 19:36:45.437] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Oct2025 19:36:45.438] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Oct2025 19:36:45.439] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Oct2025 19:36:45.653] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[07Oct2025 19:36:45.655] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/SERVER-MINECRAFT/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.7.jar
+[07Oct2025 19:36:45.655] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[07Oct2025 19:36:48.505] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Oct2025 19:36:48.696] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[07Oct2025 19:36:48.698] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[07Oct2025 19:36:48.704] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Oct2025 19:36:48.806] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.10+mc1.20.1: 83 options available, 0 override(s) found
+[07Oct2025 19:36:48.807] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[07Oct2025 19:36:48.821] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[07Oct2025 19:36:48.926] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Oct2025 19:36:48.943] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Oct2025 19:36:48.963] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Oct2025 19:36:49.020] [main/INFO] [Puzzles Lib/]: Loading 56 mods:
 	- alexscaves 1.1.5
-	- allthearcanistgear 1.20.1-20.0.0
-	- allthemodium 2.5.6
-	- alltheores 2.2.4
 	- aquaculture 2.5.2
 	- aquamirae 6.1.0
 	- architectury 9.2.14
@@ -79,27 +76,27 @@
 	- travelersbackpack 9.1.15
 	- twilightforest 4.3.2508
 	- voicechat 1.20.1-2.5.20
-[07Oct2025 19:23:41.777] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Oct2025 19:23:43.483] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[07Oct2025 19:23:43.484] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[07Oct2025 19:23:43.602] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[07Oct2025 19:23:43.602] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[07Oct2025 19:23:43.603] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[07Oct2025 19:23:43.604] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[07Oct2025 19:23:43.604] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[07Oct2025 19:23:43.605] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[07Oct2025 19:23:43.606] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[07Oct2025 19:23:43.607] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[07Oct2025 19:23:43.729] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[07Oct2025 19:23:44.122] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[07Oct2025 19:36:49.033] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Oct2025 19:36:50.621] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[07Oct2025 19:36:50.622] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[07Oct2025 19:36:50.742] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[07Oct2025 19:36:50.743] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[07Oct2025 19:36:50.743] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[07Oct2025 19:36:50.744] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[07Oct2025 19:36:50.744] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[07Oct2025 19:36:50.744] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[07Oct2025 19:36:50.749] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[07Oct2025 19:36:50.749] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[07Oct2025 19:36:50.892] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[07Oct2025 19:36:51.299] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
-	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -121,13 +118,13 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[07Oct2025 19:23:44.202] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.563 s after launch)
-[07Oct2025 19:23:44.339] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[07Oct2025 19:23:44.340] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[07Oct2025 19:23:45.727] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1521 milliseconds
-[07Oct2025 19:23:48.981] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[07Oct2025 19:23:48.983] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@5df7e31b on thread Thread[modloading-worker-0,5,main]
-[07Oct2025 19:23:48.990] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[07Oct2025 19:36:51.418] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.401 s after launch)
+[07Oct2025 19:36:51.553] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Oct2025 19:36:51.554] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Oct2025 19:36:53.072] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1650 milliseconds
+[07Oct2025 19:36:56.138] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[07Oct2025 19:36:56.151] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@16f0ec18 on thread Thread[modloading-worker-0,5,main]
+[07Oct2025 19:36:56.151] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -157,17 +154,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
 	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
 	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
-	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23190!/:com.obscuria]
-	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23190!/:com.obscuria]
-	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23190!/:com.obscuria]
-	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23190!/:com.obscuria]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23184!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23184!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23184!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23184!/:com.obscuria]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
 	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
 	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23207!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23206!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23201!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23200!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -175,321 +172,1524 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Oct2025 19:23:49.001] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[07Oct2025 19:23:49.264] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[07Oct2025 19:23:49.265] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[07Oct2025 19:23:49.268] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[07Oct2025 19:23:49.269] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[07Oct2025 19:23:49.269] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[07Oct2025 19:23:49.270] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[07Oct2025 19:23:49.270] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[07Oct2025 19:23:49.271] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[07Oct2025 19:23:49.271] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[07Oct2025 19:23:49.272] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[07Oct2025 19:23:49.272] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[07Oct2025 19:23:49.273] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[07Oct2025 19:23:49.274] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[07Oct2025 19:23:49.275] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[07Oct2025 19:23:49.283] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[07Oct2025 19:23:49.905] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello Forge world!
-[07Oct2025 19:23:49.910] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello from MoreBowsAndArrows Common init on Forge! we are currently in a production environment!
-[07Oct2025 19:23:49.911] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: The ID for diamonds is minecraft:diamond
-[07Oct2025 19:23:49.911] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello to MoreBowsAndArrows
-[07Oct2025 19:23:50.366] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[07Oct2025 19:23:51.253] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
-[07Oct2025 19:23:51.255] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[07Oct2025 19:23:51.258] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
-[07Oct2025 19:23:51.258] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
-[07Oct2025 19:23:51.259] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
-[07Oct2025 19:23:51.472] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[07Oct2025 19:23:51.473] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[07Oct2025 19:23:51.559] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[07Oct2025 19:23:51.861] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
-[07Oct2025 19:23:51.861] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
-[07Oct2025 19:23:55.195] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[07Oct2025 19:23:55.484] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[07Oct2025 19:23:55.679] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[07Oct2025 19:23:55.715] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[07Oct2025 19:23:55.738] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[07Oct2025 19:23:55.751] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[07Oct2025 19:23:55.758] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[07Oct2025 19:23:55.758] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[07Oct2025 19:23:55.758] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[07Oct2025 19:23:55.759] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 clay_ball = 1 clay
-[07Oct2025 19:23:55.761] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 snowball = 1 snow_block
-[07Oct2025 19:23:55.761] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[07Oct2025 19:23:55.762] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 brick = 1 bricks
-[07Oct2025 19:23:55.762] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[07Oct2025 19:23:55.762] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[07Oct2025 19:23:55.762] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 quartz = 1 quartz_block
-[07Oct2025 19:23:55.762] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 melon_slice = 1 melon
-[07Oct2025 19:23:55.762] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 bamboo = 1 bamboo_block
-[07Oct2025 19:23:55.797] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 clay_ball = 1 clay
-[07Oct2025 19:23:55.798] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New denied storage item creative_vending_upgrade
-[07Oct2025 19:23:55.800] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for types: forge:storage_blocks, forge:ingots, forge:nuggets
-[07Oct2025 19:23:55.800] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for materials: aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum
-[07Oct2025 19:23:55.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[07Oct2025 19:23:55.829] [main/INFO] [journeymap/]: Initializing Packet Registries
-[07Oct2025 19:23:55.869] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[07Oct2025 19:23:55.869] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[07Oct2025 19:23:55.870] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[07Oct2025 19:23:55.870] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[07Oct2025 19:23:55.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[07Oct2025 19:23:55.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[07Oct2025 19:23:56.040] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[07Oct2025 19:36:56.158] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[07Oct2025 19:36:56.409] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[07Oct2025 19:36:56.410] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[07Oct2025 19:36:56.410] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[07Oct2025 19:36:56.410] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[07Oct2025 19:36:56.410] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[07Oct2025 19:36:56.411] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[07Oct2025 19:36:56.411] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[07Oct2025 19:36:56.411] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[07Oct2025 19:36:56.410] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[07Oct2025 19:36:56.415] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[07Oct2025 19:36:56.416] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[07Oct2025 19:36:56.420] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[07Oct2025 19:36:56.421] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[07Oct2025 19:36:56.422] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[07Oct2025 19:36:56.423] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[07Oct2025 19:36:56.993] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello Forge world!
+[07Oct2025 19:36:56.997] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello from MoreBowsAndArrows Common init on Forge! we are currently in a production environment!
+[07Oct2025 19:36:56.997] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: The ID for diamonds is minecraft:diamond
+[07Oct2025 19:36:56.997] [modloading-worker-0/INFO] [MoreBowsAndArrows/]: Hello to MoreBowsAndArrows
+[07Oct2025 19:36:57.502] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[07Oct2025 19:36:58.443] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
+[07Oct2025 19:36:58.446] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
+[07Oct2025 19:36:58.447] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
+[07Oct2025 19:36:58.448] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
+[07Oct2025 19:36:58.474] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[07Oct2025 19:36:58.541] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07Oct2025 19:36:58.541] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07Oct2025 19:36:58.668] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[07Oct2025 19:36:58.900] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[07Oct2025 19:36:58.900] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[07Oct2025 19:37:02.201] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[07Oct2025 19:37:02.488] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[07Oct2025 19:37:02.688] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[07Oct2025 19:37:02.722] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[07Oct2025 19:37:02.761] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 clay_ball = 1 clay
+[07Oct2025 19:37:02.761] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 snowball = 1 snow_block
+[07Oct2025 19:37:02.762] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[07Oct2025 19:37:02.762] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[07Oct2025 19:37:02.764] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 brick = 1 bricks
+[07Oct2025 19:37:02.764] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[07Oct2025 19:37:02.764] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[07Oct2025 19:37:02.765] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 quartz = 1 quartz_block
+[07Oct2025 19:37:02.765] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 melon_slice = 1 melon
+[07Oct2025 19:37:02.765] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 9 bamboo = 1 bamboo_block
+[07Oct2025 19:37:02.774] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[07Oct2025 19:37:02.775] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[07Oct2025 19:37:02.775] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[07Oct2025 19:37:02.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[07Oct2025 19:37:02.811] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New compacting rule 4 clay_ball = 1 clay
+[07Oct2025 19:37:02.812] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: New denied storage item creative_vending_upgrade
+[07Oct2025 19:37:02.814] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for types: forge:storage_blocks, forge:ingots, forge:nuggets
+[07Oct2025 19:37:02.814] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.ModServices/]: Adding ore conversions for materials: aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum
+[07Oct2025 19:37:02.842] [main/INFO] [journeymap/]: Initializing Packet Registries
+[07Oct2025 19:37:02.895] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[07Oct2025 19:37:02.895] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[07Oct2025 19:37:02.895] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[07Oct2025 19:37:02.896] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[07Oct2025 19:37:02.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[07Oct2025 19:37:02.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[07Oct2025 19:37:02.951] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[07Oct2025 19:37:03.039] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2370!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23206!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23200!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23206!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23200!/:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
 	... 6 more
-[07Oct2025 19:23:56.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[07Oct2025 19:23:56.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.4.1 Target: null
-[07Oct2025 19:23:56.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[07Oct2025 19:23:56.065] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[07Oct2025 19:37:03.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[07Oct2025 19:37:03.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.4.1 Target: null
+[07Oct2025 19:37:03.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[07Oct2025 19:37:03.064] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2370!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23206!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23200!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23206!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23200!/:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
 	... 6 more
-[07Oct2025 19:23:56.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[07Oct2025 19:23:56.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
-[07Oct2025 19:23:56.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[07Oct2025 19:23:56.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
-[07Oct2025 19:23:56.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[07Oct2025 19:23:56.385] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[07Oct2025 19:23:56.391] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[07Oct2025 19:23:56.403] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[07Oct2025 19:23:56.408] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[07Oct2025 19:23:56.410] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
-[07Oct2025 19:23:56.410] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[07Oct2025 19:23:56.411] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[07Oct2025 19:23:56.411] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[07Oct2025 19:23:56.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[07Oct2025 19:23:56.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[07Oct2025 19:23:56.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[07Oct2025 19:23:56.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[07Oct2025 19:23:56.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[07Oct2025 19:23:56.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[07Oct2025 19:23:56.629] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[07Oct2025 19:23:56.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[07Oct2025 19:23:57.112] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07Oct2025 19:23:57.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.20 Target: 1.20.1-2.6.4
-[07Oct2025 19:23:57.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[07Oct2025 19:23:57.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[07Oct2025 19:23:57.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[07Oct2025 19:23:57.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[07Oct2025 19:23:57.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[07Oct2025 19:23:57.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
-[07Oct2025 19:23:57.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[07Oct2025 19:23:57.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 9.0.9
-[07Oct2025 19:23:57.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[07Oct2025 19:23:57.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.33
-[07Oct2025 19:23:57.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[07Oct2025 19:23:57.369] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[07Oct2025 19:37:03.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[07Oct2025 19:37:03.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[07Oct2025 19:37:03.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[07Oct2025 19:37:03.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
+[07Oct2025 19:37:03.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[07Oct2025 19:37:03.387] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[07Oct2025 19:37:03.393] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[07Oct2025 19:37:03.404] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[07Oct2025 19:37:03.407] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[07Oct2025 19:37:03.408] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[07Oct2025 19:37:03.409] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[07Oct2025 19:37:03.409] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[07Oct2025 19:37:03.410] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[07Oct2025 19:37:03.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[07Oct2025 19:37:03.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[07Oct2025 19:37:03.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[07Oct2025 19:37:03.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[07Oct2025 19:37:03.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[07Oct2025 19:37:03.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[07Oct2025 19:37:03.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[07Oct2025 19:37:03.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[07Oct2025 19:37:04.084] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Oct2025 19:37:04.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.20 Target: 1.20.1-2.6.4
+[07Oct2025 19:37:04.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[07Oct2025 19:37:04.166] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+allthearcanistgear (version 1.20.1-20.0.0 -> MISSING)
+allthemodium (version 2.5.6 -> MISSING)
+alltheores (version 2.2.4 -> MISSING)
+Things may not work well.
+[07Oct2025 19:37:04.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[07Oct2025 19:37:04.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[07Oct2025 19:37:04.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[07Oct2025 19:37:04.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[07Oct2025 19:37:04.287] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
+	allthemodium:allthemodium_block: 3052
+	allthemodium:allthemodium_ore: 3047
+	allthemodium:allthemodium_slate_ore: 3048
+	allthemodium:ancient_bookshelf: 3120
+	allthemodium:ancient_cavevines: 3089
+	allthemodium:ancient_cavevines_plant: 3090
+	allthemodium:ancient_chiseled_stone_brick_slabs: 3079
+	allthemodium:ancient_chiseled_stone_brick_stairs: 3069
+	allthemodium:ancient_chiseled_stone_brick_wall: 3086
+	allthemodium:ancient_chiseled_stone_bricks: 3038
+	allthemodium:ancient_cracked_stone_brick_slabs: 3080
+	allthemodium:ancient_cracked_stone_brick_stairs: 3070
+	allthemodium:ancient_cracked_stone_brick_wall: 3087
+	allthemodium:ancient_cracked_stone_bricks: 3039
+	allthemodium:ancient_dirt: 3034
+	allthemodium:ancient_door: 3100
+	allthemodium:ancient_grass: 3035
+	allthemodium:ancient_herb: 3091
+	allthemodium:ancient_leaves: 3041
+	allthemodium:ancient_leaves_bottom: 3096
+	allthemodium:ancient_log_0: 3092
+	allthemodium:ancient_log_1: 3093
+	allthemodium:ancient_log_2: 3094
+	allthemodium:ancient_mossy_stone: 3036
+	allthemodium:ancient_mossy_stone_slabs: 3078
+	allthemodium:ancient_mossy_stone_stairs: 3068
+	allthemodium:ancient_mossy_stone_wall: 3088
+	allthemodium:ancient_planks: 3042
+	allthemodium:ancient_polished_stone: 3040
+	allthemodium:ancient_polished_stone_slabs: 3081
+	allthemodium:ancient_polished_stone_stairs: 3071
+	allthemodium:ancient_polished_stone_wall: 3084
+	allthemodium:ancient_smooth_stone: 3032
+	allthemodium:ancient_smooth_stone_slabs: 3076
+	allthemodium:ancient_smooth_stone_stairs: 3066
+	allthemodium:ancient_smooth_stone_wall: 3083
+	allthemodium:ancient_stone: 3033
+	allthemodium:ancient_stone_brick_slabs: 3077
+	allthemodium:ancient_stone_brick_stairs: 3067
+	allthemodium:ancient_stone_brick_wall: 3085
+	allthemodium:ancient_stone_bricks: 3037
+	allthemodium:ancient_stone_slabs: 3075
+	allthemodium:ancient_stone_stairs: 3065
+	allthemodium:ancient_stone_wall: 3082
+	allthemodium:ancient_trap_door: 3097
+	allthemodium:ancient_wooden_fence: 3098
+	allthemodium:ancient_wooden_fence_gate: 3099
+	allthemodium:ancient_wooden_slabs: 3072
+	allthemodium:ancient_wooden_stairs: 3062
+	allthemodium:demonic_bookshelf: 3121
+	allthemodium:demonic_door: 3108
+	allthemodium:demonic_herb: 3101
+	allthemodium:demonic_leaves: 3043
+	allthemodium:demonic_leaves_bottom: 3104
+	allthemodium:demonic_log: 3102
+	allthemodium:demonic_planks: 3044
+	allthemodium:demonic_trap_door: 3105
+	allthemodium:demonic_wooden_fence: 3106
+	allthemodium:demonic_wooden_fence_gate: 3107
+	allthemodium:demonic_wooden_slabs: 3073
+	allthemodium:demonic_wooden_stairs: 3063
+	allthemodium:molten_allthemodium_block: 3026
+	allthemodium:molten_unobtainium_block: 3028
+	allthemodium:molten_vibranium_block: 3027
+	allthemodium:other_vibranium_ore: 3050
+	allthemodium:piglich_heart_block: 3031
+	allthemodium:raw_allthemodium_block: 3055
+	allthemodium:raw_unobtainium_block: 3057
+	allthemodium:raw_vibranium_block: 3056
+	allthemodium:soul_bookshelf: 3122
+	allthemodium:soul_door: 3119
+	allthemodium:soul_herb: 3109
+	allthemodium:soul_lava: 3025
+	allthemodium:soul_leaves: 3045
+	allthemodium:soul_leaves_bottom: 3115
+	allthemodium:soul_log: 3110
+	allthemodium:soul_log_0: 3111
+	allthemodium:soul_log_1: 3112
+	allthemodium:soul_log_2: 3113
+	allthemodium:soul_planks: 3046
+	allthemodium:soul_trap_door: 3116
+	allthemodium:soul_wooden_fence: 3117
+	allthemodium:soul_wooden_fence_gate: 3118
+	allthemodium:soul_wooden_slabs: 3074
+	allthemodium:soul_wooden_stairs: 3064
+	allthemodium:stripped_ancient_log: 3095
+	allthemodium:stripped_demonic_log: 3103
+	allthemodium:stripped_soul_log: 3114
+	allthemodium:suspicious_clay: 3029
+	allthemodium:suspicious_soul_sand: 3030
+	allthemodium:teleport_pad: 3061
+	allthemodium:unobtainium_allthemodium_alloy_block: 3058
+	allthemodium:unobtainium_block: 3054
+	allthemodium:unobtainium_ore: 3051
+	allthemodium:unobtainium_vibranium_alloy_block: 3059
+	allthemodium:vibranium_allthemodium_alloy_block: 3060
+	allthemodium:vibranium_block: 3053
+	allthemodium:vibranium_ore: 3049
+	alltheores:aluminum_block: 2664
+	alltheores:aluminum_ore: 2662
+	alltheores:brass_block: 2719
+	alltheores:bronze_block: 2714
+	alltheores:constantan_block: 2718
+	alltheores:deepslate_aluminum_ore: 2661
+	alltheores:deepslate_iridium_ore: 2706
+	alltheores:deepslate_lead_ore: 2666
+	alltheores:deepslate_nickel_ore: 2671
+	alltheores:deepslate_osmium_ore: 2676
+	alltheores:deepslate_peridot_ore: 2752
+	alltheores:deepslate_platinum_ore: 2681
+	alltheores:deepslate_ruby_ore: 2749
+	alltheores:deepslate_sapphire_ore: 2755
+	alltheores:deepslate_silver_ore: 2686
+	alltheores:deepslate_tin_ore: 2691
+	alltheores:deepslate_uranium_ore: 2696
+	alltheores:deepslate_zinc_ore: 2701
+	alltheores:electrum_block: 2713
+	alltheores:end_aluminum_ore: 2730
+	alltheores:end_iridium_ore: 2731
+	alltheores:end_lead_ore: 2732
+	alltheores:end_nickel_ore: 2733
+	alltheores:end_osmium_ore: 2734
+	alltheores:end_platinum_ore: 2735
+	alltheores:end_silver_ore: 2736
+	alltheores:end_tin_ore: 2737
+	alltheores:end_uranium_ore: 2738
+	alltheores:end_zinc_ore: 2739
+	alltheores:enderium_block: 2715
+	alltheores:invar_block: 2712
+	alltheores:iridium_block: 2709
+	alltheores:iridium_ore: 2707
+	alltheores:lead_block: 2669
+	alltheores:lead_ore: 2667
+	alltheores:lumium_block: 2716
+	alltheores:nether_aluminum_ore: 2720
+	alltheores:nether_iridium_ore: 2721
+	alltheores:nether_lead_ore: 2722
+	alltheores:nether_nickel_ore: 2723
+	alltheores:nether_osmium_ore: 2724
+	alltheores:nether_platinum_ore: 2725
+	alltheores:nether_silver_ore: 2726
+	alltheores:nether_tin_ore: 2727
+	alltheores:nether_uranium_ore: 2728
+	alltheores:nether_zinc_ore: 2729
+	alltheores:nickel_block: 2674
+	alltheores:nickel_ore: 2672
+	alltheores:osmium_block: 2679
+	alltheores:osmium_ore: 2677
+	alltheores:other_aluminum_ore: 2663
+	alltheores:other_coal_ore: 2740
+	alltheores:other_copper_ore: 2741
+	alltheores:other_diamond_ore: 2747
+	alltheores:other_emerald_ore: 2742
+	alltheores:other_gold_ore: 2744
+	alltheores:other_iridium_ore: 2708
+	alltheores:other_iron_ore: 2743
+	alltheores:other_lapis_ore: 2748
+	alltheores:other_lead_ore: 2668
+	alltheores:other_nickel_ore: 2673
+	alltheores:other_osmium_ore: 2678
+	alltheores:other_platinum_ore: 2683
+	alltheores:other_quartz_ore: 2745
+	alltheores:other_redstone_ore: 2746
+	alltheores:other_silver_ore: 2688
+	alltheores:other_tin_ore: 2693
+	alltheores:other_uranium_ore: 2698
+	alltheores:other_zinc_ore: 2703
+	alltheores:peridot_block: 2754
+	alltheores:peridot_ore: 2753
+	alltheores:platinum_block: 2684
+	alltheores:platinum_ore: 2682
+	alltheores:raw_aluminum_block: 2665
+	alltheores:raw_iridium_block: 2710
+	alltheores:raw_lead_block: 2670
+	alltheores:raw_nickel_block: 2675
+	alltheores:raw_osmium_block: 2680
+	alltheores:raw_platinum_block: 2685
+	alltheores:raw_silver_block: 2690
+	alltheores:raw_tin_block: 2695
+	alltheores:raw_uranium_block: 2700
+	alltheores:raw_zinc_block: 2705
+	alltheores:ruby_block: 2751
+	alltheores:ruby_ore: 2750
+	alltheores:sapphire_block: 2757
+	alltheores:sapphire_ore: 2756
+	alltheores:signalum_block: 2717
+	alltheores:silver_block: 2689
+	alltheores:silver_ore: 2687
+	alltheores:steel_block: 2711
+	alltheores:tin_block: 2694
+	alltheores:tin_ore: 2692
+	alltheores:uranium_block: 2699
+	alltheores:uranium_ore: 2697
+	alltheores:zinc_block: 2704
+	alltheores:zinc_ore: 2702
+
+[07Oct2025 19:37:04.290] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
+	allthemodium:piglich: 423
+
+[07Oct2025 19:37:04.291] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:fluid
+	allthemodium:flowing_molten_allthemodium: 14
+	allthemodium:flowing_molten_unobtainium: 18
+	allthemodium:flowing_molten_vibranium: 16
+	allthemodium:flowing_soul_lava: 12
+	allthemodium:molten_allthemodium: 13
+	allthemodium:molten_unobtainium: 17
+	allthemodium:molten_vibranium: 15
+	allthemodium:soul_lava: 11
+
+[07Oct2025 19:37:04.293] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	allthearcanistgear:allthemodium_boots: 5645
+	allthearcanistgear:allthemodium_hat: 5648
+	allthearcanistgear:allthemodium_leggings: 5646
+	allthearcanistgear:allthemodium_robes: 5647
+	allthearcanistgear:unobtainium_boots: 5653
+	allthearcanistgear:unobtainium_hat: 5656
+	allthearcanistgear:unobtainium_leggings: 5654
+	allthearcanistgear:unobtainium_robes: 5655
+	allthearcanistgear:vibranium_boots: 5649
+	allthearcanistgear:vibranium_hat: 5652
+	allthearcanistgear:vibranium_leggings: 5650
+	allthearcanistgear:vibranium_robes: 5651
+	allthemodium:alloy_axe: 4783
+	allthemodium:alloy_paxel: 4786
+	allthemodium:alloy_pick: 4784
+	allthemodium:alloy_shovel: 4785
+	allthemodium:alloy_sword: 4782
+	allthemodium:allthemodium_apple: 4623
+	allthemodium:allthemodium_axe: 4766
+	allthemodium:allthemodium_block: 4719
+	allthemodium:allthemodium_boots: 4625
+	allthemodium:allthemodium_carrot: 4624
+	allthemodium:allthemodium_chestplate: 4627
+	allthemodium:allthemodium_clump: 4745
+	allthemodium:allthemodium_crystal: 4754
+	allthemodium:allthemodium_dust: 4742
+	allthemodium:allthemodium_gear: 4733
+	allthemodium:allthemodium_helmet: 4628
+	allthemodium:allthemodium_hoe: 4768
+	allthemodium:allthemodium_ingot: 4727
+	allthemodium:allthemodium_leggings: 4626
+	allthemodium:allthemodium_nugget: 4739
+	allthemodium:allthemodium_ore: 4714
+	allthemodium:allthemodium_pickaxe: 4765
+	allthemodium:allthemodium_plate: 4730
+	allthemodium:allthemodium_rod: 4736
+	allthemodium:allthemodium_shard: 4748
+	allthemodium:allthemodium_shovel: 4767
+	allthemodium:allthemodium_slate_ore: 4715
+	allthemodium:allthemodium_sword: 4764
+	allthemodium:allthemodium_upgrade_smithing_template: 4787
+	allthemodium:ancient_bookshelf: 4672
+	allthemodium:ancient_cavevines_plant: 4638
+	allthemodium:ancient_chiseled_stone_brick_slabs: 4660
+	allthemodium:ancient_chiseled_stone_brick_stairs: 4693
+	allthemodium:ancient_chiseled_stone_brick_wall: 4650
+	allthemodium:ancient_chiseled_stone_bricks: 4708
+	allthemodium:ancient_cracked_stone_brick_slabs: 4661
+	allthemodium:ancient_cracked_stone_brick_stairs: 4694
+	allthemodium:ancient_cracked_stone_brick_wall: 4651
+	allthemodium:ancient_cracked_stone_bricks: 4709
+	allthemodium:ancient_dirt: 4704
+	allthemodium:ancient_door: 4643
+	allthemodium:ancient_grass: 4705
+	allthemodium:ancient_herb: 4663
+	allthemodium:ancient_leaves: 4670
+	allthemodium:ancient_log_0: 4666
+	allthemodium:ancient_log_1: 4667
+	allthemodium:ancient_log_2: 4668
+	allthemodium:ancient_mossy_stone: 4706
+	allthemodium:ancient_mossy_stone_slabs: 4659
+	allthemodium:ancient_mossy_stone_stairs: 4692
+	allthemodium:ancient_mossy_stone_wall: 4652
+	allthemodium:ancient_planks: 4671
+	allthemodium:ancient_polished_stone: 4710
+	allthemodium:ancient_polished_stone_slabs: 4662
+	allthemodium:ancient_polished_stone_stairs: 4695
+	allthemodium:ancient_polished_stone_wall: 4648
+	allthemodium:ancient_smooth_stone: 4702
+	allthemodium:ancient_smooth_stone_slabs: 4657
+	allthemodium:ancient_smooth_stone_stairs: 4690
+	allthemodium:ancient_smooth_stone_wall: 4647
+	allthemodium:ancient_soulberries: 4639
+	allthemodium:ancient_stone: 4703
+	allthemodium:ancient_stone_brick_slabs: 4658
+	allthemodium:ancient_stone_brick_stairs: 4691
+	allthemodium:ancient_stone_brick_wall: 4649
+	allthemodium:ancient_stone_bricks: 4707
+	allthemodium:ancient_stone_slabs: 4656
+	allthemodium:ancient_stone_stairs: 4689
+	allthemodium:ancient_stone_wall: 4646
+	allthemodium:ancient_trap_door: 4640
+	allthemodium:ancient_wooden_fence: 4696
+	allthemodium:ancient_wooden_fence_gate: 4697
+	allthemodium:ancient_wooden_slabs: 4653
+	allthemodium:ancient_wooden_stairs: 4686
+	allthemodium:demonic_bookshelf: 4685
+	allthemodium:demonic_door: 4644
+	allthemodium:demonic_herb: 4664
+	allthemodium:demonic_leaves: 4683
+	allthemodium:demonic_log: 4681
+	allthemodium:demonic_planks: 4684
+	allthemodium:demonic_trap_door: 4641
+	allthemodium:demonic_wooden_fence: 4698
+	allthemodium:demonic_wooden_fence_gate: 4699
+	allthemodium:demonic_wooden_slabs: 4654
+	allthemodium:demonic_wooden_stairs: 4687
+	allthemodium:dirty_allthemodium_dust: 4751
+	allthemodium:dirty_unobtainium_dust: 4753
+	allthemodium:dirty_vibranium_dust: 4752
+	allthemodium:molten_allthemodium_bucket: 4620
+	allthemodium:molten_unobtainium_bucket: 4622
+	allthemodium:molten_vibranium_bucket: 4621
+	allthemodium:other_vibranium_ore: 4717
+	allthemodium:piglich_heart: 4790
+	allthemodium:piglich_heart_block: 4637
+	allthemodium:raw_allthemodium: 4722
+	allthemodium:raw_allthemodium_block: 4711
+	allthemodium:raw_unobtainium: 4724
+	allthemodium:raw_unobtainium_block: 4713
+	allthemodium:raw_vibranium: 4723
+	allthemodium:raw_vibranium_block: 4712
+	allthemodium:soul_bookshelf: 4680
+	allthemodium:soul_door: 4645
+	allthemodium:soul_herb: 4665
+	allthemodium:soul_lava_bucket: 4619
+	allthemodium:soul_leaves: 4678
+	allthemodium:soul_log: 4673
+	allthemodium:soul_log_0: 4674
+	allthemodium:soul_log_1: 4675
+	allthemodium:soul_log_2: 4676
+	allthemodium:soul_planks: 4679
+	allthemodium:soul_trap_door: 4642
+	allthemodium:soul_wooden_fence: 4700
+	allthemodium:soul_wooden_fence_gate: 4701
+	allthemodium:soul_wooden_slabs: 4655
+	allthemodium:soul_wooden_stairs: 4688
+	allthemodium:stripped_ancient_log: 4669
+	allthemodium:stripped_demonic_log: 4682
+	allthemodium:stripped_soul_log: 4677
+	allthemodium:suspicious_clay: 4725
+	allthemodium:suspicious_soul_sand: 4726
+	allthemodium:teleport_pad: 4763
+	allthemodium:unobtainium_allthemodium_alloy_block: 4779
+	allthemodium:unobtainium_allthemodium_alloy_dust: 4757
+	allthemodium:unobtainium_allthemodium_alloy_ingot: 4760
+	allthemodium:unobtainium_axe: 4776
+	allthemodium:unobtainium_block: 4721
+	allthemodium:unobtainium_boots: 4633
+	allthemodium:unobtainium_chestplate: 4635
+	allthemodium:unobtainium_clump: 4747
+	allthemodium:unobtainium_crystal: 4756
+	allthemodium:unobtainium_dust: 4744
+	allthemodium:unobtainium_gear: 4735
+	allthemodium:unobtainium_helmet: 4636
+	allthemodium:unobtainium_hoe: 4778
+	allthemodium:unobtainium_ingot: 4729
+	allthemodium:unobtainium_leggings: 4634
+	allthemodium:unobtainium_nugget: 4741
+	allthemodium:unobtainium_ore: 4718
+	allthemodium:unobtainium_pickaxe: 4775
+	allthemodium:unobtainium_plate: 4732
+	allthemodium:unobtainium_rod: 4738
+	allthemodium:unobtainium_shard: 4750
+	allthemodium:unobtainium_shovel: 4777
+	allthemodium:unobtainium_sword: 4774
+	allthemodium:unobtainium_upgrade_smithing_template: 4789
+	allthemodium:unobtainium_vibranium_alloy_block: 4780
+	allthemodium:unobtainium_vibranium_alloy_dust: 4758
+	allthemodium:unobtainium_vibranium_alloy_ingot: 4761
+	allthemodium:vibranium_allthemodium_alloy_block: 4781
+	allthemodium:vibranium_allthemodium_alloy_dust: 4759
+	allthemodium:vibranium_allthemodium_alloy_ingot: 4762
+	allthemodium:vibranium_axe: 4771
+	allthemodium:vibranium_block: 4720
+	allthemodium:vibranium_boots: 4629
+	allthemodium:vibranium_chestplate: 4631
+	allthemodium:vibranium_clump: 4746
+	allthemodium:vibranium_crystal: 4755
+	allthemodium:vibranium_dust: 4743
+	allthemodium:vibranium_gear: 4734
+	allthemodium:vibranium_helmet: 4632
+	allthemodium:vibranium_hoe: 4773
+	allthemodium:vibranium_ingot: 4728
+	allthemodium:vibranium_leggings: 4630
+	allthemodium:vibranium_nugget: 4740
+	allthemodium:vibranium_ore: 4716
+	allthemodium:vibranium_pickaxe: 4770
+	allthemodium:vibranium_plate: 4731
+	allthemodium:vibranium_rod: 4737
+	allthemodium:vibranium_shard: 4749
+	allthemodium:vibranium_shovel: 4772
+	allthemodium:vibranium_sword: 4769
+	allthemodium:vibranium_upgrade_smithing_template: 4788
+	alltheores:aluminum_block: 4088
+	alltheores:aluminum_dust: 4091
+	alltheores:aluminum_gear: 4211
+	alltheores:aluminum_ingot: 4089
+	alltheores:aluminum_nugget: 4090
+	alltheores:aluminum_ore: 4086
+	alltheores:aluminum_plate: 4234
+	alltheores:aluminum_rod: 4188
+	alltheores:brass_block: 4284
+	alltheores:brass_dust: 4187
+	alltheores:brass_gear: 4233
+	alltheores:brass_ingot: 4275
+	alltheores:brass_nugget: 4266
+	alltheores:brass_plate: 4256
+	alltheores:brass_rod: 4210
+	alltheores:bronze_block: 4279
+	alltheores:bronze_dust: 4179
+	alltheores:bronze_gear: 4224
+	alltheores:bronze_ingot: 4270
+	alltheores:bronze_nugget: 4260
+	alltheores:bronze_ore_hammer: 4307
+	alltheores:bronze_plate: 4247
+	alltheores:bronze_rod: 4201
+	alltheores:constantan_block: 4283
+	alltheores:constantan_dust: 4180
+	alltheores:constantan_gear: 4232
+	alltheores:constantan_ingot: 4274
+	alltheores:constantan_nugget: 4265
+	alltheores:constantan_plate: 4255
+	alltheores:constantan_rod: 4209
+	alltheores:copper_dust: 4175
+	alltheores:copper_gear: 4228
+	alltheores:copper_nugget: 4261
+	alltheores:copper_ore_hammer: 4305
+	alltheores:copper_plate: 4251
+	alltheores:copper_rod: 4205
+	alltheores:deepslate_aluminum_ore: 4085
+	alltheores:deepslate_iridium_ore: 4166
+	alltheores:deepslate_lead_ore: 4094
+	alltheores:deepslate_nickel_ore: 4103
+	alltheores:deepslate_osmium_ore: 4113
+	alltheores:deepslate_peridot_ore: 4324
+	alltheores:deepslate_platinum_ore: 4121
+	alltheores:deepslate_ruby_ore: 4319
+	alltheores:deepslate_sapphire_ore: 4329
+	alltheores:deepslate_silver_ore: 4130
+	alltheores:deepslate_tin_ore: 4140
+	alltheores:deepslate_uranium_ore: 4149
+	alltheores:deepslate_zinc_ore: 4158
+	alltheores:diamond_dust: 4177
+	alltheores:diamond_gear: 4227
+	alltheores:diamond_plate: 4250
+	alltheores:diamond_rod: 4204
+	alltheores:electrum_block: 4278
+	alltheores:electrum_dust: 4181
+	alltheores:electrum_gear: 4223
+	alltheores:electrum_ingot: 4269
+	alltheores:electrum_nugget: 4259
+	alltheores:electrum_plate: 4246
+	alltheores:electrum_rod: 4200
+	alltheores:end_aluminum_ore: 4295
+	alltheores:end_iridium_ore: 4296
+	alltheores:end_lead_ore: 4297
+	alltheores:end_nickel_ore: 4298
+	alltheores:end_osmium_ore: 4299
+	alltheores:end_platinum_ore: 4300
+	alltheores:end_silver_ore: 4301
+	alltheores:end_tin_ore: 4302
+	alltheores:end_uranium_ore: 4303
+	alltheores:end_zinc_ore: 4304
+	alltheores:enderium_block: 4280
+	alltheores:enderium_dust: 4182
+	alltheores:enderium_gear: 4229
+	alltheores:enderium_ingot: 4271
+	alltheores:enderium_nugget: 4262
+	alltheores:enderium_plate: 4252
+	alltheores:enderium_rod: 4206
+	alltheores:gold_dust: 4176
+	alltheores:gold_gear: 4226
+	alltheores:gold_plate: 4249
+	alltheores:gold_rod: 4203
+	alltheores:invar_block: 4277
+	alltheores:invar_dust: 4186
+	alltheores:invar_gear: 4222
+	alltheores:invar_ingot: 4268
+	alltheores:invar_nugget: 4258
+	alltheores:invar_ore_hammer: 4308
+	alltheores:invar_plate: 4245
+	alltheores:invar_rod: 4199
+	alltheores:iridium_block: 4169
+	alltheores:iridium_dust: 4172
+	alltheores:iridium_gear: 4212
+	alltheores:iridium_ingot: 4170
+	alltheores:iridium_nugget: 4171
+	alltheores:iridium_ore: 4167
+	alltheores:iridium_plate: 4235
+	alltheores:iridium_rod: 4189
+	alltheores:iron_dust: 4174
+	alltheores:iron_gear: 4225
+	alltheores:iron_ore_hammer: 4306
+	alltheores:iron_plate: 4248
+	alltheores:iron_rod: 4202
+	alltheores:lead_block: 4097
+	alltheores:lead_dust: 4100
+	alltheores:lead_gear: 4213
+	alltheores:lead_ingot: 4098
+	alltheores:lead_nugget: 4099
+	alltheores:lead_ore: 4095
+	alltheores:lead_plate: 4236
+	alltheores:lead_rod: 4190
+	alltheores:lumium_block: 4281
+	alltheores:lumium_dust: 4183
+	alltheores:lumium_gear: 4230
+	alltheores:lumium_ingot: 4272
+	alltheores:lumium_nugget: 4263
+	alltheores:lumium_plate: 4253
+	alltheores:lumium_rod: 4207
+	alltheores:nether_aluminum_ore: 4285
+	alltheores:nether_iridium_ore: 4286
+	alltheores:nether_lead_ore: 4287
+	alltheores:nether_nickel_ore: 4288
+	alltheores:nether_osmium_ore: 4289
+	alltheores:nether_platinum_ore: 4290
+	alltheores:nether_silver_ore: 4291
+	alltheores:nether_tin_ore: 4292
+	alltheores:nether_uranium_ore: 4293
+	alltheores:nether_zinc_ore: 4294
+	alltheores:netherite_dust: 4178
+	alltheores:nickel_block: 4106
+	alltheores:nickel_dust: 4109
+	alltheores:nickel_gear: 4214
+	alltheores:nickel_ingot: 4107
+	alltheores:nickel_nugget: 4108
+	alltheores:nickel_ore: 4104
+	alltheores:nickel_plate: 4237
+	alltheores:nickel_rod: 4191
+	alltheores:osmium_block: 4115
+	alltheores:osmium_dust: 4118
+	alltheores:osmium_gear: 4215
+	alltheores:osmium_ingot: 4116
+	alltheores:osmium_nugget: 4117
+	alltheores:osmium_ore: 4112
+	alltheores:osmium_plate: 4238
+	alltheores:osmium_rod: 4192
+	alltheores:other_aluminum_ore: 4087
+	alltheores:other_coal_ore: 4310
+	alltheores:other_copper_ore: 4311
+	alltheores:other_diamond_ore: 4317
+	alltheores:other_emerald_ore: 4312
+	alltheores:other_gold_ore: 4314
+	alltheores:other_iridium_ore: 4168
+	alltheores:other_iron_ore: 4313
+	alltheores:other_lapis_ore: 4318
+	alltheores:other_lead_ore: 4096
+	alltheores:other_nickel_ore: 4105
+	alltheores:other_osmium_ore: 4114
+	alltheores:other_platinum_ore: 4123
+	alltheores:other_quartz_ore: 4315
+	alltheores:other_redstone_ore: 4316
+	alltheores:other_silver_ore: 4132
+	alltheores:other_tin_ore: 4141
+	alltheores:other_uranium_ore: 4150
+	alltheores:other_zinc_ore: 4159
+	alltheores:peridot: 4328
+	alltheores:peridot_block: 4326
+	alltheores:peridot_dust: 4327
+	alltheores:peridot_ore: 4325
+	alltheores:platinum_block: 4124
+	alltheores:platinum_dust: 4127
+	alltheores:platinum_gear: 4216
+	alltheores:platinum_ingot: 4125
+	alltheores:platinum_nugget: 4126
+	alltheores:platinum_ore: 4122
+	alltheores:platinum_ore_hammer: 4309
+	alltheores:platinum_plate: 4239
+	alltheores:platinum_rod: 4193
+	alltheores:raw_aluminum: 4092
+	alltheores:raw_aluminum_block: 4084
+	alltheores:raw_iridium: 4173
+	alltheores:raw_iridium_block: 4165
+	alltheores:raw_lead: 4101
+	alltheores:raw_lead_block: 4093
+	alltheores:raw_nickel: 4110
+	alltheores:raw_nickel_block: 4102
+	alltheores:raw_osmium: 4119
+	alltheores:raw_osmium_block: 4111
+	alltheores:raw_platinum: 4128
+	alltheores:raw_platinum_block: 4120
+	alltheores:raw_silver: 4137
+	alltheores:raw_silver_block: 4129
+	alltheores:raw_tin: 4146
+	alltheores:raw_tin_block: 4138
+	alltheores:raw_uranium: 4155
+	alltheores:raw_uranium_block: 4147
+	alltheores:raw_zinc: 4164
+	alltheores:raw_zinc_block: 4156
+	alltheores:ruby: 4323
+	alltheores:ruby_block: 4321
+	alltheores:ruby_dust: 4322
+	alltheores:ruby_ore: 4320
+	alltheores:sapphire: 4333
+	alltheores:sapphire_block: 4331
+	alltheores:sapphire_dust: 4332
+	alltheores:sapphire_ore: 4330
+	alltheores:signalum_block: 4282
+	alltheores:signalum_dust: 4184
+	alltheores:signalum_gear: 4231
+	alltheores:signalum_ingot: 4273
+	alltheores:signalum_nugget: 4264
+	alltheores:signalum_plate: 4254
+	alltheores:signalum_rod: 4208
+	alltheores:silver_block: 4133
+	alltheores:silver_dust: 4136
+	alltheores:silver_gear: 4217
+	alltheores:silver_ingot: 4134
+	alltheores:silver_nugget: 4135
+	alltheores:silver_ore: 4131
+	alltheores:silver_plate: 4240
+	alltheores:silver_rod: 4194
+	alltheores:steel_block: 4276
+	alltheores:steel_dust: 4185
+	alltheores:steel_gear: 4221
+	alltheores:steel_ingot: 4267
+	alltheores:steel_nugget: 4257
+	alltheores:steel_plate: 4244
+	alltheores:steel_rod: 4198
+	alltheores:tin_block: 4142
+	alltheores:tin_dust: 4145
+	alltheores:tin_gear: 4218
+	alltheores:tin_ingot: 4143
+	alltheores:tin_nugget: 4144
+	alltheores:tin_ore: 4139
+	alltheores:tin_plate: 4241
+	alltheores:tin_rod: 4195
+	alltheores:uranium_block: 4151
+	alltheores:uranium_dust: 4154
+	alltheores:uranium_gear: 4219
+	alltheores:uranium_ingot: 4152
+	alltheores:uranium_nugget: 4153
+	alltheores:uranium_ore: 4148
+	alltheores:uranium_plate: 4242
+	alltheores:uranium_rod: 4196
+	alltheores:zinc_block: 4160
+	alltheores:zinc_dust: 4163
+	alltheores:zinc_gear: 4220
+	alltheores:zinc_ingot: 4161
+	alltheores:zinc_nugget: 4162
+	alltheores:zinc_ore: 4157
+	alltheores:zinc_plate: 4243
+	alltheores:zinc_rod: 4197
+
+[07Oct2025 19:37:04.298] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 638 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[07Oct2025 19:37:04.299] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:item:
+    allthearcanistgear:allthemodium_boots
+    allthearcanistgear:allthemodium_hat
+    allthearcanistgear:allthemodium_leggings
+    allthearcanistgear:allthemodium_robes
+    allthearcanistgear:unobtainium_boots
+    allthearcanistgear:unobtainium_hat
+    allthearcanistgear:unobtainium_leggings
+    allthearcanistgear:unobtainium_robes
+    allthearcanistgear:vibranium_boots
+    allthearcanistgear:vibranium_hat
+    allthearcanistgear:vibranium_leggings
+    allthearcanistgear:vibranium_robes
+    allthemodium:alloy_axe
+    allthemodium:alloy_paxel
+    allthemodium:alloy_pick
+    allthemodium:alloy_shovel
+    allthemodium:alloy_sword
+    allthemodium:allthemodium_apple
+    allthemodium:allthemodium_axe
+    allthemodium:allthemodium_block
+    allthemodium:allthemodium_boots
+    allthemodium:allthemodium_carrot
+    allthemodium:allthemodium_chestplate
+    allthemodium:allthemodium_clump
+    allthemodium:allthemodium_crystal
+    allthemodium:allthemodium_dust
+    allthemodium:allthemodium_gear
+    allthemodium:allthemodium_helmet
+    allthemodium:allthemodium_hoe
+    allthemodium:allthemodium_ingot
+    allthemodium:allthemodium_leggings
+    allthemodium:allthemodium_nugget
+    allthemodium:allthemodium_ore
+    allthemodium:allthemodium_pickaxe
+    allthemodium:allthemodium_plate
+    allthemodium:allthemodium_rod
+    allthemodium:allthemodium_shard
+    allthemodium:allthemodium_shovel
+    allthemodium:allthemodium_slate_ore
+    allthemodium:allthemodium_sword
+    allthemodium:allthemodium_upgrade_smithing_template
+    allthemodium:ancient_bookshelf
+    allthemodium:ancient_cavevines_plant
+    allthemodium:ancient_chiseled_stone_brick_slabs
+    allthemodium:ancient_chiseled_stone_brick_stairs
+    allthemodium:ancient_chiseled_stone_brick_wall
+    allthemodium:ancient_chiseled_stone_bricks
+    allthemodium:ancient_cracked_stone_brick_slabs
+    allthemodium:ancient_cracked_stone_brick_stairs
+    allthemodium:ancient_cracked_stone_brick_wall
+    allthemodium:ancient_cracked_stone_bricks
+    allthemodium:ancient_dirt
+    allthemodium:ancient_door
+    allthemodium:ancient_grass
+    allthemodium:ancient_herb
+    allthemodium:ancient_leaves
+    allthemodium:ancient_log_0
+    allthemodium:ancient_log_1
+    allthemodium:ancient_log_2
+    allthemodium:ancient_mossy_stone
+    allthemodium:ancient_mossy_stone_slabs
+    allthemodium:ancient_mossy_stone_stairs
+    allthemodium:ancient_mossy_stone_wall
+    allthemodium:ancient_planks
+    allthemodium:ancient_polished_stone
+    allthemodium:ancient_polished_stone_slabs
+    allthemodium:ancient_polished_stone_stairs
+    allthemodium:ancient_polished_stone_wall
+    allthemodium:ancient_smooth_stone
+    allthemodium:ancient_smooth_stone_slabs
+    allthemodium:ancient_smooth_stone_stairs
+    allthemodium:ancient_smooth_stone_wall
+    allthemodium:ancient_soulberries
+    allthemodium:ancient_stone
+    allthemodium:ancient_stone_brick_slabs
+    allthemodium:ancient_stone_brick_stairs
+    allthemodium:ancient_stone_brick_wall
+    allthemodium:ancient_stone_bricks
+    allthemodium:ancient_stone_slabs
+    allthemodium:ancient_stone_stairs
+    allthemodium:ancient_stone_wall
+    allthemodium:ancient_trap_door
+    allthemodium:ancient_wooden_fence
+    allthemodium:ancient_wooden_fence_gate
+    allthemodium:ancient_wooden_slabs
+    allthemodium:ancient_wooden_stairs
+    allthemodium:demonic_bookshelf
+    allthemodium:demonic_door
+    allthemodium:demonic_herb
+    allthemodium:demonic_leaves
+    allthemodium:demonic_log
+    allthemodium:demonic_planks
+    allthemodium:demonic_trap_door
+    allthemodium:demonic_wooden_fence
+    allthemodium:demonic_wooden_fence_gate
+    allthemodium:demonic_wooden_slabs
+    allthemodium:demonic_wooden_stairs
+    allthemodium:dirty_allthemodium_dust
+    allthemodium:dirty_unobtainium_dust
+    allthemodium:dirty_vibranium_dust
+    allthemodium:molten_allthemodium_bucket
+    allthemodium:molten_unobtainium_bucket
+    allthemodium:molten_vibranium_bucket
+    allthemodium:other_vibranium_ore
+    allthemodium:piglich_heart
+    allthemodium:piglich_heart_block
+    allthemodium:raw_allthemodium
+    allthemodium:raw_allthemodium_block
+    allthemodium:raw_unobtainium
+    allthemodium:raw_unobtainium_block
+    allthemodium:raw_vibranium
+    allthemodium:raw_vibranium_block
+    allthemodium:soul_bookshelf
+    allthemodium:soul_door
+    allthemodium:soul_herb
+    allthemodium:soul_lava_bucket
+    allthemodium:soul_leaves
+    allthemodium:soul_log
+    allthemodium:soul_log_0
+    allthemodium:soul_log_1
+    allthemodium:soul_log_2
+    allthemodium:soul_planks
+    allthemodium:soul_trap_door
+    allthemodium:soul_wooden_fence
+    allthemodium:soul_wooden_fence_gate
+    allthemodium:soul_wooden_slabs
+    allthemodium:soul_wooden_stairs
+    allthemodium:stripped_ancient_log
+    allthemodium:stripped_demonic_log
+    allthemodium:stripped_soul_log
+    allthemodium:suspicious_clay
+    allthemodium:suspicious_soul_sand
+    allthemodium:teleport_pad
+    allthemodium:unobtainium_allthemodium_alloy_block
+    allthemodium:unobtainium_allthemodium_alloy_dust
+    allthemodium:unobtainium_allthemodium_alloy_ingot
+    allthemodium:unobtainium_axe
+    allthemodium:unobtainium_block
+    allthemodium:unobtainium_boots
+    allthemodium:unobtainium_chestplate
+    allthemodium:unobtainium_clump
+    allthemodium:unobtainium_crystal
+    allthemodium:unobtainium_dust
+    allthemodium:unobtainium_gear
+    allthemodium:unobtainium_helmet
+    allthemodium:unobtainium_hoe
+    allthemodium:unobtainium_ingot
+    allthemodium:unobtainium_leggings
+    allthemodium:unobtainium_nugget
+    allthemodium:unobtainium_ore
+    allthemodium:unobtainium_pickaxe
+    allthemodium:unobtainium_plate
+    allthemodium:unobtainium_rod
+    allthemodium:unobtainium_shard
+    allthemodium:unobtainium_shovel
+    allthemodium:unobtainium_sword
+    allthemodium:unobtainium_upgrade_smithing_template
+    allthemodium:unobtainium_vibranium_alloy_block
+    allthemodium:unobtainium_vibranium_alloy_dust
+    allthemodium:unobtainium_vibranium_alloy_ingot
+    allthemodium:vibranium_allthemodium_alloy_block
+    allthemodium:vibranium_allthemodium_alloy_dust
+    allthemodium:vibranium_allthemodium_alloy_ingot
+    allthemodium:vibranium_axe
+    allthemodium:vibranium_block
+    allthemodium:vibranium_boots
+    allthemodium:vibranium_chestplate
+    allthemodium:vibranium_clump
+    allthemodium:vibranium_crystal
+    allthemodium:vibranium_dust
+    allthemodium:vibranium_gear
+    allthemodium:vibranium_helmet
+    allthemodium:vibranium_hoe
+    allthemodium:vibranium_ingot
+    allthemodium:vibranium_leggings
+    allthemodium:vibranium_nugget
+    allthemodium:vibranium_ore
+    allthemodium:vibranium_pickaxe
+    allthemodium:vibranium_plate
+    allthemodium:vibranium_rod
+    allthemodium:vibranium_shard
+    allthemodium:vibranium_shovel
+    allthemodium:vibranium_sword
+    allthemodium:vibranium_upgrade_smithing_template
+    alltheores:aluminum_block
+    alltheores:aluminum_dust
+    alltheores:aluminum_gear
+    alltheores:aluminum_ingot
+    alltheores:aluminum_nugget
+    alltheores:aluminum_ore
+    alltheores:aluminum_plate
+    alltheores:aluminum_rod
+    alltheores:brass_block
+    alltheores:brass_dust
+    alltheores:brass_gear
+    alltheores:brass_ingot
+    alltheores:brass_nugget
+    alltheores:brass_plate
+    alltheores:brass_rod
+    alltheores:bronze_block
+    alltheores:bronze_dust
+    alltheores:bronze_gear
+    alltheores:bronze_ingot
+    alltheores:bronze_nugget
+    alltheores:bronze_ore_hammer
+    alltheores:bronze_plate
+    alltheores:bronze_rod
+    alltheores:constantan_block
+    alltheores:constantan_dust
+    alltheores:constantan_gear
+    alltheores:constantan_ingot
+    alltheores:constantan_nugget
+    alltheores:constantan_plate
+    alltheores:constantan_rod
+    alltheores:copper_dust
+    alltheores:copper_gear
+    alltheores:copper_nugget
+    alltheores:copper_ore_hammer
+    alltheores:copper_plate
+    alltheores:copper_rod
+    alltheores:deepslate_aluminum_ore
+    alltheores:deepslate_iridium_ore
+    alltheores:deepslate_lead_ore
+    alltheores:deepslate_nickel_ore
+    alltheores:deepslate_osmium_ore
+    alltheores:deepslate_peridot_ore
+    alltheores:deepslate_platinum_ore
+    alltheores:deepslate_ruby_ore
+    alltheores:deepslate_sapphire_ore
+    alltheores:deepslate_silver_ore
+    alltheores:deepslate_tin_ore
+    alltheores:deepslate_uranium_ore
+    alltheores:deepslate_zinc_ore
+    alltheores:diamond_dust
+    alltheores:diamond_gear
+    alltheores:diamond_plate
+    alltheores:diamond_rod
+    alltheores:electrum_block
+    alltheores:electrum_dust
+    alltheores:electrum_gear
+    alltheores:electrum_ingot
+    alltheores:electrum_nugget
+    alltheores:electrum_plate
+    alltheores:electrum_rod
+    alltheores:end_aluminum_ore
+    alltheores:end_iridium_ore
+    alltheores:end_lead_ore
+    alltheores:end_nickel_ore
+    alltheores:end_osmium_ore
+    alltheores:end_platinum_ore
+    alltheores:end_silver_ore
+    alltheores:end_tin_ore
+    alltheores:end_uranium_ore
+    alltheores:end_zinc_ore
+    alltheores:enderium_block
+    alltheores:enderium_dust
+    alltheores:enderium_gear
+    alltheores:enderium_ingot
+    alltheores:enderium_nugget
+    alltheores:enderium_plate
+    alltheores:enderium_rod
+    alltheores:gold_dust
+    alltheores:gold_gear
+    alltheores:gold_plate
+    alltheores:gold_rod
+    alltheores:invar_block
+    alltheores:invar_dust
+    alltheores:invar_gear
+    alltheores:invar_ingot
+    alltheores:invar_nugget
+    alltheores:invar_ore_hammer
+    alltheores:invar_plate
+    alltheores:invar_rod
+    alltheores:iridium_block
+    alltheores:iridium_dust
+    alltheores:iridium_gear
+    alltheores:iridium_ingot
+    alltheores:iridium_nugget
+    alltheores:iridium_ore
+    alltheores:iridium_plate
+    alltheores:iridium_rod
+    alltheores:iron_dust
+    alltheores:iron_gear
+    alltheores:iron_ore_hammer
+    alltheores:iron_plate
+    alltheores:iron_rod
+    alltheores:lead_block
+    alltheores:lead_dust
+    alltheores:lead_gear
+    alltheores:lead_ingot
+    alltheores:lead_nugget
+    alltheores:lead_ore
+    alltheores:lead_plate
+    alltheores:lead_rod
+    alltheores:lumium_block
+    alltheores:lumium_dust
+    alltheores:lumium_gear
+    alltheores:lumium_ingot
+    alltheores:lumium_nugget
+    alltheores:lumium_plate
+    alltheores:lumium_rod
+    alltheores:nether_aluminum_ore
+    alltheores:nether_iridium_ore
+    alltheores:nether_lead_ore
+    alltheores:nether_nickel_ore
+    alltheores:nether_osmium_ore
+    alltheores:nether_platinum_ore
+    alltheores:nether_silver_ore
+    alltheores:nether_tin_ore
+    alltheores:nether_uranium_ore
+    alltheores:nether_zinc_ore
+    alltheores:netherite_dust
+    alltheores:nickel_block
+    alltheores:nickel_dust
+    alltheores:nickel_gear
+    alltheores:nickel_ingot
+    alltheores:nickel_nugget
+    alltheores:nickel_ore
+    alltheores:nickel_plate
+    alltheores:nickel_rod
+    alltheores:osmium_block
+    alltheores:osmium_dust
+    alltheores:osmium_gear
+    alltheores:osmium_ingot
+    alltheores:osmium_nugget
+    alltheores:osmium_ore
+    alltheores:osmium_plate
+    alltheores:osmium_rod
+    alltheores:other_aluminum_ore
+    alltheores:other_coal_ore
+    alltheores:other_copper_ore
+    alltheores:other_diamond_ore
+    alltheores:other_emerald_ore
+    alltheores:other_gold_ore
+    alltheores:other_iridium_ore
+    alltheores:other_iron_ore
+    alltheores:other_lapis_ore
+    alltheores:other_lead_ore
+    alltheores:other_nickel_ore
+    alltheores:other_osmium_ore
+    alltheores:other_platinum_ore
+    alltheores:other_quartz_ore
+    alltheores:other_redstone_ore
+    alltheores:other_silver_ore
+    alltheores:other_tin_ore
+    alltheores:other_uranium_ore
+    alltheores:other_zinc_ore
+    alltheores:peridot
+    alltheores:peridot_block
+    alltheores:peridot_dust
+    alltheores:peridot_ore
+    alltheores:platinum_block
+    alltheores:platinum_dust
+    alltheores:platinum_gear
+    alltheores:platinum_ingot
+    alltheores:platinum_nugget
+    alltheores:platinum_ore
+    alltheores:platinum_ore_hammer
+    alltheores:platinum_plate
+    alltheores:platinum_rod
+    alltheores:raw_aluminum
+    alltheores:raw_aluminum_block
+    alltheores:raw_iridium
+    alltheores:raw_iridium_block
+    alltheores:raw_lead
+    alltheores:raw_lead_block
+    alltheores:raw_nickel
+    alltheores:raw_nickel_block
+    alltheores:raw_osmium
+    alltheores:raw_osmium_block
+    alltheores:raw_platinum
+    alltheores:raw_platinum_block
+    alltheores:raw_silver
+    alltheores:raw_silver_block
+    alltheores:raw_tin
+    alltheores:raw_tin_block
+    alltheores:raw_uranium
+    alltheores:raw_uranium_block
+    alltheores:raw_zinc
+    alltheores:raw_zinc_block
+    alltheores:ruby
+    alltheores:ruby_block
+    alltheores:ruby_dust
+    alltheores:ruby_ore
+    alltheores:sapphire
+    alltheores:sapphire_block
+    alltheores:sapphire_dust
+    alltheores:sapphire_ore
+    alltheores:signalum_block
+    alltheores:signalum_dust
+    alltheores:signalum_gear
+    alltheores:signalum_ingot
+    alltheores:signalum_nugget
+    alltheores:signalum_plate
+    alltheores:signalum_rod
+    alltheores:silver_block
+    alltheores:silver_dust
+    alltheores:silver_gear
+    alltheores:silver_ingot
+    alltheores:silver_nugget
+    alltheores:silver_ore
+    alltheores:silver_plate
+    alltheores:silver_rod
+    alltheores:steel_block
+    alltheores:steel_dust
+    alltheores:steel_gear
+    alltheores:steel_ingot
+    alltheores:steel_nugget
+    alltheores:steel_plate
+    alltheores:steel_rod
+    alltheores:tin_block
+    alltheores:tin_dust
+    alltheores:tin_gear
+    alltheores:tin_ingot
+    alltheores:tin_nugget
+    alltheores:tin_ore
+    alltheores:tin_plate
+    alltheores:tin_rod
+    alltheores:uranium_block
+    alltheores:uranium_dust
+    alltheores:uranium_gear
+    alltheores:uranium_ingot
+    alltheores:uranium_nugget
+    alltheores:uranium_ore
+    alltheores:uranium_plate
+    alltheores:uranium_rod
+    alltheores:zinc_block
+    alltheores:zinc_dust
+    alltheores:zinc_gear
+    alltheores:zinc_ingot
+    alltheores:zinc_nugget
+    alltheores:zinc_ore
+    alltheores:zinc_plate
+    alltheores:zinc_rod
+
+Missing minecraft:block:
+    allthemodium:allthemodium_block
+    allthemodium:allthemodium_ore
+    allthemodium:allthemodium_slate_ore
+    allthemodium:ancient_bookshelf
+    allthemodium:ancient_cavevines
+    allthemodium:ancient_cavevines_plant
+    allthemodium:ancient_chiseled_stone_brick_slabs
+    allthemodium:ancient_chiseled_stone_brick_stairs
+    allthemodium:ancient_chiseled_stone_brick_wall
+    allthemodium:ancient_chiseled_stone_bricks
+    allthemodium:ancient_cracked_stone_brick_slabs
+    allthemodium:ancient_cracked_stone_brick_stairs
+    allthemodium:ancient_cracked_stone_brick_wall
+    allthemodium:ancient_cracked_stone_bricks
+    allthemodium:ancient_dirt
+    allthemodium:ancient_door
+    allthemodium:ancient_grass
+    allthemodium:ancient_herb
+    allthemodium:ancient_leaves
+    allthemodium:ancient_leaves_bottom
+    allthemodium:ancient_log_0
+    allthemodium:ancient_log_1
+    allthemodium:ancient_log_2
+    allthemodium:ancient_mossy_stone
+    allthemodium:ancient_mossy_stone_slabs
+    allthemodium:ancient_mossy_stone_stairs
+    allthemodium:ancient_mossy_stone_wall
+    allthemodium:ancient_planks
+    allthemodium:ancient_polished_stone
+    allthemodium:ancient_polished_stone_slabs
+    allthemodium:ancient_polished_stone_stairs
+    allthemodium:ancient_polished_stone_wall
+    allthemodium:ancient_smooth_stone
+    allthemodium:ancient_smooth_stone_slabs
+    allthemodium:ancient_smooth_stone_stairs
+    allthemodium:ancient_smooth_stone_wall
+    allthemodium:ancient_stone
+    allthemodium:ancient_stone_brick_slabs
+    allthemodium:ancient_stone_brick_stairs
+    allthemodium:ancient_stone_brick_wall
+    allthemodium:ancient_stone_bricks
+    allthemodium:ancient_stone_slabs
+    allthemodium:ancient_stone_stairs
+    allthemodium:ancient_stone_wall
+    allthemodium:ancient_trap_door
+    allthemodium:ancient_wooden_fence
+    allthemodium:ancient_wooden_fence_gate
+    allthemodium:ancient_wooden_slabs
+    allthemodium:ancient_wooden_stairs
+    allthemodium:demonic_bookshelf
+    allthemodium:demonic_door
+    allthemodium:demonic_herb
+    allthemodium:demonic_leaves
+    allthemodium:demonic_leaves_bottom
+    allthemodium:demonic_log
+    allthemodium:demonic_planks
+    allthemodium:demonic_trap_door
+    allthemodium:demonic_wooden_fence
+    allthemodium:demonic_wooden_fence_gate
+    allthemodium:demonic_wooden_slabs
+    allthemodium:demonic_wooden_stairs
+    allthemodium:molten_allthemodium_block
+    allthemodium:molten_unobtainium_block
+    allthemodium:molten_vibranium_block
+    allthemodium:other_vibranium_ore
+    allthemodium:piglich_heart_block
+    allthemodium:raw_allthemodium_block
+    allthemodium:raw_unobtainium_block
+    allthemodium:raw_vibranium_block
+    allthemodium:soul_bookshelf
+    allthemodium:soul_door
+    allthemodium:soul_herb
+    allthemodium:soul_lava
+    allthemodium:soul_leaves
+    allthemodium:soul_leaves_bottom
+    allthemodium:soul_log
+    allthemodium:soul_log_0
+    allthemodium:soul_log_1
+    allthemodium:soul_log_2
+    allthemodium:soul_planks
+    allthemodium:soul_trap_door
+    allthemodium:soul_wooden_fence
+    allthemodium:soul_wooden_fence_gate
+    allthemodium:soul_wooden_slabs
+    allthemodium:soul_wooden_stairs
+    allthemodium:stripped_ancient_log
+    allthemodium:stripped_demonic_log
+    allthemodium:stripped_soul_log
+    allthemodium:suspicious_clay
+    allthemodium:suspicious_soul_sand
+    allthemodium:teleport_pad
+    allthemodium:unobtainium_allthemodium_alloy_block
+    allthemodium:unobtainium_block
+    allthemodium:unobtainium_ore
+    allthemodium:unobtainium_vibranium_alloy_block
+    allthemodium:vibranium_allthemodium_alloy_block
+    allthemodium:vibranium_block
+    allthemodium:vibranium_ore
+    alltheores:aluminum_block
+    alltheores:aluminum_ore
+    alltheores:brass_block
+    alltheores:bronze_block
+    alltheores:constantan_block
+    alltheores:deepslate_aluminum_ore
+    alltheores:deepslate_iridium_ore
+    alltheores:deepslate_lead_ore
+    alltheores:deepslate_nickel_ore
+    alltheores:deepslate_osmium_ore
+    alltheores:deepslate_peridot_ore
+    alltheores:deepslate_platinum_ore
+    alltheores:deepslate_ruby_ore
+    alltheores:deepslate_sapphire_ore
+    alltheores:deepslate_silver_ore
+    alltheores:deepslate_tin_ore
+    alltheores:deepslate_uranium_ore
+    alltheores:deepslate_zinc_ore
+    alltheores:electrum_block
+    alltheores:end_aluminum_ore
+    alltheores:end_iridium_ore
+    alltheores:end_lead_ore
+    alltheores:end_nickel_ore
+    alltheores:end_osmium_ore
+    alltheores:end_platinum_ore
+    alltheores:end_silver_ore
+    alltheores:end_tin_ore
+    alltheores:end_uranium_ore
+    alltheores:end_zinc_ore
+    alltheores:enderium_block
+    alltheores:invar_block
+    alltheores:iridium_block
+    alltheores:iridium_ore
+    alltheores:lead_block
+    alltheores:lead_ore
+    alltheores:lumium_block
+    alltheores:nether_aluminum_ore
+    alltheores:nether_iridium_ore
+    alltheores:nether_lead_ore
+    alltheores:nether_nickel_ore
+    alltheores:nether_osmium_ore
+    alltheores:nether_platinum_ore
+    alltheores:nether_silver_ore
+    alltheores:nether_tin_ore
+    alltheores:nether_uranium_ore
+    alltheores:nether_zinc_ore
+    alltheores:nickel_block
+    alltheores:nickel_ore
+    alltheores:osmium_block
+    alltheores:osmium_ore
+    alltheores:other_aluminum_ore
+    alltheores:other_coal_ore
+    alltheores:other_copper_ore
+    alltheores:other_diamond_ore
+    alltheores:other_emerald_ore
+    alltheores:other_gold_ore
+    alltheores:other_iridium_ore
+    alltheores:other_iron_ore
+    alltheores:other_lapis_ore
+    alltheores:other_lead_ore
+    alltheores:other_nickel_ore
+    alltheores:other_osmium_ore
+    alltheores:other_platinum_ore
+    alltheores:other_quartz_ore
+    alltheores:other_redstone_ore
+    alltheores:other_silver_ore
+    alltheores:other_tin_ore
+    alltheores:other_uranium_ore
+    alltheores:other_zinc_ore
+    alltheores:peridot_block
+    alltheores:peridot_ore
+    alltheores:platinum_block
+    alltheores:platinum_ore
+    alltheores:raw_aluminum_block
+    alltheores:raw_iridium_block
+    alltheores:raw_lead_block
+    alltheores:raw_nickel_block
+    alltheores:raw_osmium_block
+    alltheores:raw_platinum_block
+    alltheores:raw_silver_block
+    alltheores:raw_tin_block
+    alltheores:raw_uranium_block
+    alltheores:raw_zinc_block
+    alltheores:ruby_block
+    alltheores:ruby_ore
+    alltheores:sapphire_block
+    alltheores:sapphire_ore
+    alltheores:signalum_block
+    alltheores:silver_block
+    alltheores:silver_ore
+    alltheores:steel_block
+    alltheores:tin_block
+    alltheores:tin_ore
+    alltheores:uranium_block
+    alltheores:uranium_ore
+    alltheores:zinc_block
+    alltheores:zinc_ore
+
+Missing minecraft:fluid:
+    allthemodium:flowing_molten_allthemodium
+    allthemodium:flowing_molten_unobtainium
+    allthemodium:flowing_molten_vibranium
+    allthemodium:flowing_soul_lava
+    allthemodium:molten_allthemodium
+    allthemodium:molten_unobtainium
+    allthemodium:molten_vibranium
+    allthemodium:soul_lava
+
+Missing minecraft:entity_type:
+    allthemodium:piglich
+
+
+[07Oct2025 19:37:04.300] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[07Oct2025 19:37:04.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
+[07Oct2025 19:37:04.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[07Oct2025 19:37:04.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 9.0.9
+[07Oct2025 19:37:04.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[07Oct2025 19:37:04.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.33
+[07Oct2025 19:37:04.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[07Oct2025 19:37:04.409] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2370!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23206!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23200!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23206!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23200!/:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
 	... 6 more
-[07Oct2025 19:23:57.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[07Oct2025 19:23:57.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[07Oct2025 19:23:57.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Oct2025 19:23:57.525] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
-[07Oct2025 19:23:57.525] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
-[07Oct2025 19:23:57.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[07Oct2025 19:23:57.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Minecraft/main/aquamirae/versions.json
-[07Oct2025 19:23:57.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Found status: UP_TO_DATE Current: 6.1.0 Target: null
-[07Oct2025 19:23:59.823] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.7.jar
-[07Oct2025 19:23:59.864] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/platinum as it is missing following references: alltheores:dirty_platinum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.866] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/iridium as it is missing following references: alltheores:iridium_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.866] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/zinc as it is missing following references: alltheores:zinc_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.867] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/zinc as it is missing following references: alltheores:zinc_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.868] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/nickel as it is missing following references: alltheores:nickel_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.869] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/platinum as it is missing following references: alltheores:platinum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.869] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals as it is missing following references: alltheores:aluminum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:nickel_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:platinum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:silver_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:zinc_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:iridium_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.871] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/platinum as it is missing following references: alltheores:platinum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.871] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards as it is missing following references: alltheores:aluminum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:nickel_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:platinum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:silver_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:zinc_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:iridium_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.872] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/aluminum as it is missing following references: alltheores:aluminum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.873] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/silver as it is missing following references: alltheores:silver_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.873] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/silver as it is missing following references: alltheores:silver_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.874] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/iridium as it is missing following references: alltheores:iridium_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.875] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps as it is missing following references: alltheores:aluminum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:nickel_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:platinum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:silver_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:zinc_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:iridium_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.877] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/nickel as it is missing following references: alltheores:dirty_nickel_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.878] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/aluminum as it is missing following references: alltheores:aluminum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.878] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/zinc as it is missing following references: alltheores:dirty_zinc_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.879] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/aluminum as it is missing following references: alltheores:aluminum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.880] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/aluminum as it is missing following references: alltheores:dirty_aluminum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.881] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/silver as it is missing following references: alltheores:silver_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.883] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/nickel as it is missing following references: alltheores:nickel_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.883] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/iridium as it is missing following references: alltheores:iridium_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.883] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/nickel as it is missing following references: alltheores:nickel_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.884] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/silver as it is missing following references: alltheores:dirty_silver_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.884] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/zinc as it is missing following references: alltheores:zinc_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.886] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/iridium as it is missing following references: alltheores:dirty_iridium_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.888] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/platinum as it is missing following references: alltheores:platinum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:23:59.888] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts as it is missing following references: alltheores:dirty_aluminum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:dirty_nickel_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:dirty_platinum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:dirty_silver_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:dirty_zinc_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
-	alltheores:dirty_iridium_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[07Oct2025 19:24:03.326] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.333] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.337] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.343] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/hellfire_burn as it's serializer returned null
-[07Oct2025 19:24:03.343] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/nether_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
-[07Oct2025 19:24:03.347] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe allthearcanistgear:base_boots_to_allthemodium_boots_smithing as it's serializer returned null
-[07Oct2025 19:24:03.350] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.360] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
-[07Oct2025 19:24:03.377] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.379] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.386] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.386] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.389] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.391] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[07Oct2025 19:24:03.396] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.396] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[07Oct2025 19:24:03.399] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.399] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botany_pots:ars_elemental/flashing_archwood as it's serializer returned null
-[07Oct2025 19:24:03.401] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe allthearcanistgear:base_chest_to_allthemodium_robes_smithing as it's serializer returned null
-[07Oct2025 19:24:03.403] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.405] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.406] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.407] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_shard: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.408] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.408] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.408] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/life_link as it's serializer returned null
-[07Oct2025 19:24:03.410] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.412] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.416] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/entrhalled as it's serializer returned null
-[07Oct2025 19:24:03.417] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.421] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.422] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.424] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.433] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.437] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[07Oct2025 19:24:03.438] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.442] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.448] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[07Oct2025 19:24:03.458] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.465] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.465] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.468] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.469] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.471] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.473] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/nether_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
-[07Oct2025 19:24:03.474] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/watery_grave as it's serializer returned null
-[07Oct2025 19:24:03.475] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.478] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/slurry/dirty_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.481] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
-[07Oct2025 19:24:03.481] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.482] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.485] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[07Oct2025 19:24:03.487] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.489] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.492] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.496] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_shard: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.501] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.503] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/deepslate_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
-[07Oct2025 19:24:03.504] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[07Oct2025 19:24:03.505] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.506] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.507] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.508] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/mana_shield as it's serializer returned null
-[07Oct2025 19:24:03.509] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[07Oct2025 19:24:03.517] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe allthearcanistgear:base_hat_to_allthemodium_hat_smithing as it's serializer returned null
-[07Oct2025 19:24:03.521] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.521] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.522] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/deepslate_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
-[07Oct2025 19:24:03.522] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/dirty/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
-[07Oct2025 19:24:03.525] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[07Oct2025 19:24:03.527] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[07Oct2025 19:24:03.529] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe allthearcanistgear:base_legs_to_allthemodium_leggings_smithing as it's serializer returned null
-[07Oct2025 19:24:03.532] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[07Oct2025 19:24:03.532] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[07Oct2025 19:24:03.537] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 27 recipes
-[07Oct2025 19:24:03.586] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[07Oct2025 19:24:03.652] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[07Oct2025 19:24:03.674] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[07Oct2025 19:24:03.681] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[07Oct2025 19:24:03.724] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4107 advancements
-[07Oct2025 19:24:03.729] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[07Oct2025 19:24:03.738] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[07Oct2025 19:24:03.744] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[07Oct2025 19:24:03.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[07Oct2025 19:24:03.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Oct2025 19:24:03.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[07Oct2025 19:24:03.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Oct2025 19:24:04.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Oct2025 19:24:04.036] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Oct2025 19:24:04.105] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** FAILED TO BIND TO PORT!
-[07Oct2025 19:24:04.105] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
-[07Oct2025 19:24:04.106] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: Perhaps a server is already running on that port?
-[07Oct2025 19:24:04.106] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+[07Oct2025 19:37:04.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[07Oct2025 19:37:04.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[07Oct2025 19:37:04.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Oct2025 19:37:04.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[07Oct2025 19:37:04.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Minecraft/main/aquamirae/versions.json
+[07Oct2025 19:37:04.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Found status: UP_TO_DATE Current: 6.1.0 Target: null
+[07Oct2025 19:37:04.539] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23199!/assets/.mcassetsroot' uses unexpected schema
+[07Oct2025 19:37:04.539] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MINECRAFT/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23199!/data/.mcassetsroot' uses unexpected schema
+[07Oct2025 19:37:04.611] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:alltheores
+[07Oct2025 19:37:04.611] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:allthemodium
+[07Oct2025 19:37:04.611] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:allthearcanistgear
+[07Oct2025 19:37:06.103] [main/ERROR] [net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorSettings/]: Unknown biome, defaulting to plains
+[07Oct2025 19:37:06.112] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: WorldGenSettings: Failed to get element ResourceKey[minecraft:worldgen/noise_settings / allthemodium:the_other]; No key preset in MapLike[{biomes:[{biome:"allthemodium:soul_sand_valley",parameters:{continentalness:-0.3f,depth:0.2f,erosion:0.1f,humidity:0.0f,offset:0.0f,temperature:-0.1f,weirdness:0.3f}},{biome:"allthemodium:the_other",parameters:{continentalness:0.3f,depth:0.0f,erosion:0.5f,humidity:0.0f,offset:0.0f,temperature:0.4f,weirdness:0.2f}},{biome:"allthemodium:desert",parameters:{continentalness:0.1f,depth:0.0f,erosion:0.9f,humidity:0.0f,offset:0.0f,temperature:0.9f,weirdness:0.0f}},{biome:"allthemodium:basalt_deltas",parameters:{continentalness:0.0f,depth:0.5f,erosion:0.1f,humidity:0.0f,offset:0.0f,temperature:1.0f,weirdness:0.0f}},{biome:"allthemodium:warped_forest",parameters:{continentalness:-0.7f,depth:0.0f,erosion:0.3f,humidity:0.0f,offset:0.0f,temperature:0.7f,weirdness:0.0f}},{biome:"allthemodium:desert_hills",parameters:{continentalness:0.23f,depth:0.0f,erosion:0.6f,humidity:0.0f,offset:0.0f,temperature:0.9f,weirdness:0.0f}},{biome:"allthemodium:crimson_forest",parameters:{continentalness:0.3f,depth:0.0f,erosion:0.4f,humidity:0.0f,offset:0.0f,temperature:0.9f,weirdness:0.0f}}],type:"minecraft:multi_noise"}]; Failed to get element ResourceKey[minecraft:dimension_type / allthemodium:the_other]; Failed to get element ResourceKey[minecraft:dimension_type / allthemodium:mining]; Failed to get element ResourceKey[minecraft:worldgen/noise_settings / allthemodium:the_beyond]; Failed to get element ResourceKey[minecraft:worldgen/biome / allthemodium:the_beyond]; Failed to get element ResourceKey[minecraft:dimension_type / allthemodium:the_beyond] missed input: {"allthemodium:mining":{generator:{settings:{biome:"allthemodium:mining",features:1b,lakes:0b,layers:[{block:"minecraft:bedrock",height:1},{block:"minecraft:end_stone",height:64},{block:"minecraft:netherrack",height:64},{block:"minecraft:deepslate",height:64},{block:"minecraft:stone",height:119},{block:"minecraft:dirt",height:4},{block:"minecraft:grass_block",height:1}],structure_overrides:[]},type:"minecraft:flat"},type:"allthemodium:mining"},"allthemodium:the_beyond":{generator:{biome_source:{biome:"allthemodium:the_beyond",type:"minecraft:fixed"},settings:"allthemodium:the_beyond",type:"minecraft:noise"},type:"allthemodium:the_beyond"},"allthemodium:the_other":{generator:{biome_source:{biomes:[{biome:"allthemodium:soul_sand_valley",parameters:{continentalness:-0.3f,depth:0.2f,erosion:0.1f,humidity:0.0f,offset:0.0f,temperature:-0.1f,weirdness:0.3f}},{biome:"allthemodium:the_other",parameters:{continentalness:0.3f,depth:0.0f,erosion:0.5f,humidity:0.0f,offset:0.0f,temperature:0.4f,weirdness:0.2f}},{biome:"allthemodium:desert",parameters:{continentalness:0.1f,depth:0.0f,erosion:0.9f,humidity:0.0f,offset:0.0f,temperature:0.9f,weirdness:0.0f}},{biome:"allthemodium:basalt_deltas",parameters:{continentalness:0.0f,depth:0.5f,erosion:0.1f,humidity:0.0f,offset:0.0f,temperature:1.0f,weirdness:0.0f}},{biome:"allthemodium:warped_forest",parameters:{continentalness:-0.7f,depth:0.0f,erosion:0.3f,humidity:0.0f,offset:0.0f,temperature:0.7f,weirdness:0.0f}},{biome:"allthemodium:desert_hills",parameters:{continentalness:0.23f,depth:0.0f,erosion:0.6f,humidity:0.0f,offset:0.0f,temperature:0.9f,weirdness:0.0f}},{biome:"allthemodium:crimson_forest",parameters:{continentalness:0.3f,depth:0.0f,erosion:0.4f,humidity:0.0f,offset:0.0f,temperature:0.9f,weirdness:0.0f}}],type:"minecraft:multi_noise"},settings:"allthemodium:the_other",type:"minecraft:noise"},type:"allthemodium:the_other"}}
+[07Oct2025 19:37:06.576] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.7.jar
+[07Oct2025 19:37:09.869] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[07Oct2025 19:37:09.880] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/hellfire_burn as it's serializer returned null
+[07Oct2025 19:37:09.906] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[07Oct2025 19:37:09.911] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/watery_grave as it's serializer returned null
+[07Oct2025 19:37:09.914] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[07Oct2025 19:37:09.919] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botany_pots:ars_elemental/flashing_archwood as it's serializer returned null
+[07Oct2025 19:37:09.925] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[07Oct2025 19:37:09.933] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/life_link as it's serializer returned null
+[07Oct2025 19:37:09.942] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/entrhalled as it's serializer returned null
+[07Oct2025 19:37:09.947] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/mana_shield as it's serializer returned null
+[07Oct2025 19:37:09.967] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[07Oct2025 19:37:09.970] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[07Oct2025 19:37:09.972] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[07Oct2025 19:37:09.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[07Oct2025 19:37:09.982] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 27 recipes
+[07Oct2025 19:37:10.016] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[07Oct2025 19:37:10.071] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[07Oct2025 19:37:10.095] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[07Oct2025 19:37:10.106] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[07Oct2025 19:37:10.154] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3675 advancements
+[07Oct2025 19:37:10.161] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[07Oct2025 19:37:10.171] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[07Oct2025 19:37:10.177] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[07Oct2025 19:37:10.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Oct2025 19:37:10.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Oct2025 19:37:10.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Oct2025 19:37:10.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Oct2025 19:37:10.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Oct2025 19:37:10.475] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Oct2025 19:37:10.543] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** FAILED TO BIND TO PORT!
+[07Oct2025 19:37:10.544] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[07Oct2025 19:37:10.544] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: Perhaps a server is already running on that port?
+[07Oct2025 19:37:10.544] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
 java.lang.IllegalStateException: Failed to initialize server
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:635) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:635) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[07Oct2025 19:24:04.107] [Server thread/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[07Oct2025 19:37:10.545] [Server thread/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: Could not initialize class oshi.SystemInfo
-	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.MinecraftServer.m_206568_(MinecraftServer.java:721) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:675) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_206568_(MinecraftServer.java:721) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:675) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: com/sun/jna/Platform [in thread "main"]
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
-	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -505,17 +1705,17 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Oct2025 19:24:04.118] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 75025241-ebea-475d-b2cb-1b143e13b015
-[07Oct2025 19:24:04.119] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/SERVER-MINECRAFT/servidor_minecraft/./crash-reports/crash-2025-10-07_19.24.04-server.txt
-[07Oct2025 19:24:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[07Oct2025 19:24:04.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[07Oct2025 19:24:04.120] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+[07Oct2025 19:37:10.557] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID c51cf0ff-b93f-4171-b519-2b8cdc16849f
+[07Oct2025 19:37:10.557] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/SERVER-MINECRAFT/servidor_minecraft/./crash-reports/crash-2025-10-07_19.37.10-server.txt
+[07Oct2025 19:37:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Oct2025 19:37:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Oct2025 19:37:10.559] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
 java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.ServerLevel.m_6857_()" because "serverlevel2" is null
-	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[07Oct2025 19:24:04.122] [Server thread/INFO] [Framework/]: Unloading server configs...
-[07Oct2025 19:24:04.122] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Oct2025 19:37:10.560] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Oct2025 19:37:10.561] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
