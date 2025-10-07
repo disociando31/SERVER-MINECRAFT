@@ -5757,6 +5757,12 @@
     },
     "done": true
   },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-10-07 05:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-10-07 04:50:44 +0000"
@@ -5808,6 +5814,12 @@
   "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-10-07 05:05:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_from_block": {
+    "criteria": {
+      "has_item": "2025-10-07 05:07:30 +0000"
     },
     "done": true
   },

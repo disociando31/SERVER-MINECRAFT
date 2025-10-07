@@ -558,3 +558,48 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 05:01:10.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Knowledge of Death]
 [07Oct2025 05:01:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Ashes 'n Bones]
 [07Oct2025 05:03:52.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[07Oct2025 05:10:07.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[07Oct2025 05:11:12.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 has made the advancement [Magebloom]
+[07Oct2025 05:11:51.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[07Oct2025 05:11:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has reached the goal [Strong or Careful]
+[07Oct2025 05:11:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 was slain by Lifestealer
+[07Oct2025 05:11:59.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Your First Grave]
+[07Oct2025 05:11:59.733] [Server thread/INFO] [tombstone/]: The player Arias1179 has successfully been saved
+[07Oct2025 05:12:04.373] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:12:04.373] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[07Oct2025 05:12:04.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [The Most Useful Key]
+[07Oct2025 05:12:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has reached the goal [A Fast Comeback]
+[07Oct2025 05:12:23.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 was slain by Lifestealer
+[07Oct2025 05:12:23.729] [Server thread/INFO] [tombstone/]: The player Arias1179 has successfully been saved
+[07Oct2025 05:12:25.473] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:12:25.474] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[07Oct2025 05:12:32.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arias1179: Teleported Arias1179 to ALEJITA777]
+[07Oct2025 05:13:13.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has reached the goal [Chain Death]
+[07Oct2025 05:13:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 was slain by Lifestealer
+[07Oct2025 05:13:13.338] [Server thread/INFO] [tombstone/]: The player Arias1179 has successfully been saved
+[07Oct2025 05:13:14.911] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:13:14.911] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Oct2025 05:13:32.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has reached the goal [Here They Come]
+[07Oct2025 05:13:40.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 was slain by Lifestealer
+[07Oct2025 05:13:40.874] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ALEJITA777 with unique ID travelersbackpack.standard_07.10.2025-05.13.40.dat
+[07Oct2025 05:13:40.874] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1145 Y: -26 Z: -43
+[07Oct2025 05:13:40.881] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[07Oct2025 05:13:42.756] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:13:42.757] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[07Oct2025 05:14:42.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 withered away
+[07Oct2025 05:14:42.331] [Server thread/INFO] [tombstone/]: The player Arias1179 has successfully been saved
+[07Oct2025 05:14:49.489] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:14:49.490] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Oct2025 05:15:03.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arias1179 has made the advancement [Double Trouble]
+[07Oct2025 05:15:14.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 was slain by Lifestealer
+[07Oct2025 05:15:14.340] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[07Oct2025 05:15:15.560] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:15:15.561] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Oct2025 05:15:38.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 was slain by Lifestealer
+[07Oct2025 05:15:38.486] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[07Oct2025 05:15:39.576] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:15:39.576] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Oct2025 05:15:49.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 was slain by Lifestealer
+[07Oct2025 05:15:49.130] [Server thread/INFO] [tombstone/]: The player ALEJITA777 has successfully been saved
+[07Oct2025 05:15:50.586] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Oct2025 05:15:50.586] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
