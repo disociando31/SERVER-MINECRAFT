@@ -507,3 +507,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Oct2025 16:33:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALEJITA777> DISCCCCCC
 [07Oct2025 16:34:10.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mpalabra> boy
 [07Oct2025 16:34:12.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALEJITA777: Teleported ALEJITA777 to Mpalabra]
+[07Oct2025 16:53:30.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALEJITA777 lost connection: Disconnected
+[07Oct2025 16:53:30.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 left the game
+[07Oct2025 16:53:30.890] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ALEJITA777
+[07Oct2025 16:53:30.937] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Oct2025 16:56:07.790] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3af62b19[id=<null>,name=ALEJITA777,properties={},legacy=false] (/127.156.136.69:38141) lost connection: Disconnected
+[07Oct2025 16:56:25.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALEJITA777[/127.156.136.69:43763] logged in with entity id 5502 at (216.90752649099343, 71.0, 85.82060343124859)
+[07Oct2025 16:56:25.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALEJITA777 joined the game
+[07Oct2025 16:56:25.441] [Server thread/INFO] [Jade/]: Syncing config to ALEJITA777 (35100db0-af74-365c-ae40-397221c65d7e)
+[07Oct2025 16:56:26.773] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ALEJITA777 (18)
+[07Oct2025 16:56:26.774] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ALEJITA777
+[07Oct2025 16:58:31.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mpalabra lost connection: Disconnected
+[07Oct2025 16:58:31.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mpalabra left the game
+[07Oct2025 16:58:31.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mpalabra
